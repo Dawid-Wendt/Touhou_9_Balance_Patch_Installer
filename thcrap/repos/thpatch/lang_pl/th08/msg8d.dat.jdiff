@@ -1,0 +1,528 @@
+{
+    "2": {
+        "60_0": {
+            "lines": [
+                "Czekałam na was."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Odważne jesteście, wyzywając mnie",
+                "w noc pełni księżyca."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "...to może i jest test odwagi,",
+                "ale ciebie się nie boję!"
+            ]
+        },
+        "320_0": {
+            "lines": [
+                "Nie pozwolę wam tknąć tej osoby!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Ataki po prostu... Przestały, od tak. To",
+                "wtedy wszystko jest najbardziej przerażające."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Fantom, ubrany krzykliwie",
+                "że aż rzuca się w oczy."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "W środek nocy, gdy nawet rośliny",
+                "śpią, w świetle pełni księżyca."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Fantomy nie są rzadkością, ale",
+                "twój ubiór cię wyróżnia."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Aaaa, ktoś tutaj jest!"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Youmu, oto ona."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Dziwne, żeby fantom coś takiego",
+                "mówił."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Zaraz, człowiek?",
+                "Prawie bym ją pocięła przez przypadek."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "...Chwila moment, człowiek o tej godzinie?",
+                "To zdecydowanie dziwne!"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Ja tutaj akurat żyję. Nie patrząc na porę,",
+                "wasza dwójka jest o wiele bardziej dziwna."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Więc, co was tutaj sprowadza?"
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "Jesteśmy tutaj na test...",
+                "E, szanowna Pani Yuyuko?"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Youmu, nie zbliżaj się do niej."
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "Szanowna Pani Yuyuko...?"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Ta dziewczyna to nie normalny",
+                "człowiek."
+            ]
+        },
+        "137_0": {
+            "lines": [
+                "Nie dotykaj jej. Jej",
+                "klątwa wtedy przejdzie na ciebie."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Nie jedz jej. Jej",
+                "trucizna też cię przeklnie."
+            ]
+        },
+        "139_0": {
+            "lines": [
+                "I co najważniejsze... Moje",
+                "moce nie mają na nią wpływu."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Bardzo nie miło tak mówić o kimś,",
+                "kogo dopiero spotkałaś."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "I o co chodzi z tymi mocami?",
+                "Co ty chciałaś zrobić?"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Szanowna Pani Yuyuko może przybliżyć ludzi",
+                "do śmierci. Ale jeśli na tobie nie działa—"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Więc od razu chciałyście mnie zabić?",
+                "Jesteście dość groźnymi fantomami."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Nie jesteś przypadkiem człowiekiem?"
+            ]
+        },
+        "145_0": {
+            "lines": [
+                "Jak tak, to nie rozumiem, dlaczego",
+                "szanowna Pani Yuyuko się ciebie boi."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Niestety tak, jestem człowiekiem.",
+                "Po prostu, tak jakby nie mogę umrzeć."
+            ]
+        },
+        "147_0": {
+            "lines": [
+                "Człowiek z Hourai.",
+                "Przerażająca myśl, Youmu."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Nic nie miałaś przeciwko temu testowi odwagi",
+                "aż do tej chwila... Czy coś złego zjadłaś?"
+            ]
+        },
+        "149_0": {
+            "lines": [
+                "Cóż, jak nie ty, to sama załatwię",
+                "tą sprawę."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Nigdy bym się nie spodziewała, że coś może",
+                "przerazić niezachwianą szanowną Panią Yuyuko."
+            ]
+        },
+        "151_0": {
+            "lines": [
+                "Nie powinnam się kumplować z",
+                "fantomami?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "To jest nieco irytujące. Może",
+                "powinnam po prostu zacząć atakować~?"
+            ]
+        },
+        "153_0": {
+            "lines": [
+                "Ale co się w niej bać,",
+                "szanowna Pani Yuyuko?"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Człowiek, co wypije Eliksir Hourai,",
+                "nie będzie się starzeć, ani nie umrze."
+            ]
+        },
+        "155_0": {
+            "lines": [
+                "Jeśli inny człowiek zje",
+                "wątrobe takiej osoby,"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "ta osoba zyska efekt",
+                "Eliksiru Hourai."
+            ]
+        },
+        "157_0": {
+            "lines": [
+                "A co jeśli zrobi to duch...?"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Powstanie duch, co nie umiera."
+            ]
+        },
+        "159_0": {
+            "lines": [
+                "I tak skończy się cykl Hourai. Nigdy nie osiągną nirwany czy",
+                "reinkarnacji, a eliksir przestanie działać razem z nimi."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Cóż, czyli może lepiej,",
+                "jeśli ich nie zjesz."
+            ]
+        },
+        "161_0": {
+            "lines": [
+                "Więc ich nie jedz!"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Rany boskie, jesteście bardzo",
+                "głośnymi fantomami."
+            ]
+        },
+        "163_0": {
+            "lines": [
+                "Jeśli sama bym stała się fantomem,",
+                "czy też tak mi pójdzie na łeb, jak wam?"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Raczej się już nie dowiem, bo nie",
+                "mogę umrzeć."
+            ]
+        },
+        "165_0": {
+            "lines": [
+                "Byłam głupia, że się martwiłam. Szanowna",
+                "Pani Yuyuko zawsze ma swoje momenty."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Może nadal je zjem~. Te wiecznie ",
+                "świeże, surowe wnętrzności wyglądają całkiem pysznie."
+            ]
+        },
+        "167_0": {
+            "lines": [
+                "Zajmę się tym, co twoje moce tutaj nie mogą,",
+                "szanowna Pani Yuyuko."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Czy zmarli naprawdę mimo wszystko",
+                "mogą zaatakować żywych?"
+            ]
+        },
+        "169_0": {
+            "lines": [
+                "Może i nie możemy sprawić, że będziesz tak jak my, ale",
+                "i tak możemy sprawdzić, czy na serio jesteś nieśmiertelna."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Duchy, co zapomniały o nirwanie, nie odrodzą się. Człowiek,",
+                "co nie może umrzeć, nigdy nie pozna barwności Zaświatów."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Przed życiem urodzonym wiele, wiele razy, jest ciemność.",
+                "Po śmierci przeżytej wiele, wiele razy, jest cień."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Jako, że śmierć mi nieznajoma, jestem ponad tą ciemność.",
+                "Oto przepiękne danmaku, wolne od ciemności Saṅsāry!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Co do?!",
+                "Nie mogę, to już mój limit..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Nawet nieśmiertelni mają",
+                "limity swoich fizycznych ciał."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Okej, nasz przeciwnik już ledwo",
+                "się rusza. Teraz!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "O co ci chodzi, „[t]eraz!”?!",
+                "Nie będziemy jej jeść, racja?!"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Nie umrę, ale nie mogę też dłużej walczyć.",
+                "Całe moje ciało boli."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Bycie duchem jest fajne. Twoje ciało",
+                "nigdy cię nie boli. Może chcesz jednym zostać?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Czy w ogóle mnie słuchasz?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Człowiek, który nigdy nie umrze, bardzo interesujące.",
+                "Mogę użyć całej mojej mocy, bez wahania się."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Jej, to ty nie używałaś całej mocy",
+                "przez ten cały czas?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Na niebiosa, nie."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Tak czy inaczej, jesteście",
+                "bardzo silnie. Czemu?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Cóż, strzelam, że wszyscy są po",
+                "prostu ode mnie młodsi?"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Człowiek oczywiście miałby limity",
+                "ich sił, co nie?"
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Próbuj ile chcesz, ale",
+                "fantoma nie pokonasz."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Bycie fantomem raczej nic tutaj nie dało,",
+                "to raczej to, że była nas dwójka..."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "O jejciu. Przed nami są wiecznie",
+                "świeże, surowe wnętrzności."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Szanowna Pani Yuyuko..."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "No już dobrze."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Za bardzo mnie boli, bym się ruszyła,",
+                "więc ugotujcie mnie, upieczcie mnie, mi to wisi!"
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Ugotowanie czy upieczenie to",
+                "nie jest dobry pomysł!"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Wątrobę trzeba na surowo. Gotowanie",
+                "lub pieczenie by zniwelowało efekt eliksiru."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "A więc, upieczmy ją."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Nawet jeśli mnie upieczecie, nie umrę.",
+                "Po prostu będzie mi gorąco... (chlip chlip)"
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Tak w ogóle, przypomnij mi, jak my",
+                "się w to wszystko wpakowałyśmy?"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Nie mówiłaś, że niby chcesz odbyć test",
+                "odwagi i poprosiłaś, żebym też przyszła?"
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "A, racja, no tak."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Więc o co ci chodzi? „Surowe wnętrzności”",
+                "to, „surowe wnętrzności” tamto..."
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "Już nieważny ten test odwagi.",
+                "Zrozumiałam, że Kaguya nami manipulowała."
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "Po prostu chciała, żebyśmy bili się z ",
+                "tą tutaj. Test to była po prostu wymówka."
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "Nieważny? A to nie była przerwa?",
+                "Test odwagi rozpoczyna się od nowa, o teraz."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Eee... Szczerze,",
+                "niezbyt lubię straszne rzeczy...."
+            ]
+        },
+        "91_0": {
+            "lines": [
+                "Hej, patrz, pod tym drzewem",
+                "jest fantom...!"
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "Aaaaaaaaaa!"
+            ]
+        }
+    }
+}

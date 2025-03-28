@@ -1,0 +1,167 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "Oh, long time no see. Still",
+                "a pitiful shrine maiden, it seems."
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "Ah, you're still alive?",
+                "You've grown up quite a bit."
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "What do you think of evening primroses?",
+                "Oh, I'm just thinking of flowers that suit you."
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "What do you think of skunk cabbages?",
+                "Oh, I'm just thinking of flowers that suit you."
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "What do you think of Chinese lanterns?",
+                "Oh, I'm just thinking of flowers that suit you."
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "What do you think of creeping saxifrages?",
+                "Oh, I'm just thinking of flowers that suit you."
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "What do you think of dancing artificial flowers?",
+                "Oh, I'm just thinking of flowers that suit you."
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "What do you think of dancing artificial flowers?",
+                "Oh, I'm just thinking of flowers that suit you."
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "What do you think of dancing artificial flowers?",
+                "Oh, I'm just thinking of flowers that suit you."
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "What do you think of dragonfly fireworks?",
+                "Oh, I'm just thinking of flowers that suit you."
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "What do you think of flower-viewing saké?",
+                "Oh, I'm just thinking of flowers that suit you."
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "What do you think of pine tree's flowers?",
+                "Oh, that unrefined feeling fits you perfectly."
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "Heartbreak grass. That is the plant with the deadliest poison.",
+                "That thing might be able to kill even you."
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "The sunflowers are getting tired, I see."
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "Fires and fights?",
+                "No, just thinking of flowers that suit you."
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "What kind of flower blooms in hell?",
+                "Flowers that have committed sins, surely."
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "Flowers bloom only with the colors held in soil,",
+                "and as petals they return to the soil."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "It's the same with the flowers of living things."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "They take in the colors of their surroundings and bloom into beautiful flowers.",
+                "Then, once they've bloomed, they return the colors to their surroundings."
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "There are very few people who can make their own flowers bloom."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "If you want to know why, it's because of the very arrogant idea ",
+                "to make your flower finish bloom without others, on your own."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "What causes flowers to bloom is the power of the soil.",
+                "So, don't forget to give back to the soil when you bloom."
+            ]
+        }
+    }
+}

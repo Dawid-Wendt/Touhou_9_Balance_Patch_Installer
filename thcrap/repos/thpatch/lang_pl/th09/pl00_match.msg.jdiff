@@ -1,0 +1,259 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "Kim jesteś?"
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "Przebywanie z tobą nieco mnie przygnębia."
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "Po raz pierwszy widziałam cię w jasnym ",
+                "miejscu, wyglądasz dziwnie."
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "Królików jest obecnie coraz więcej.",
+                "Zgaduję, że jest sezon polowań?"
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "Idź teraz napisać jakąś heroiczną opowieść, ",
+                "o tym jak pokonałam tengu, czy coś w tym stylu!"
+            ]
+        }
+    },
+    "101": {
+        "50_0": {
+            "lines": [
+                "Dlaczego zawsze piszesz jedynie ",
+                "o czyichś porażkach?"
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "Zbyt duża ilość trucizny ",
+                "może ci zaszkodzić."
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "Świetnie, kolejna ",
+                "kłopotliwa osoba."
+            ]
+        }
+    },
+    "91": {
+        "50_0": {
+            "lines": [
+                "Przy okazji, ten incydent",
+                "to twoja sprawka, czyż nie?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Od początku wiedziałam."
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "Skąd masz tyle pieniędzy?"
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "Zanim zaczniesz osądzać innych, spójrz na siebie.",
+                "Naprawdę nie zrobiłaś nigdy czegoś złego?"
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "Jesteś zbyt głośna!",
+                "Duchy powinny być chyba bardziej subtelne."
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Nie szalej.",
+                "Kwiaty zwiędną."
+            ]
+        }
+    },
+    "41": {
+        "51_0": {
+            "lines": [
+                "Czy ty i twoja zgraja maczałyście w tym palce?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "A, racja, raz widziałam, jak księżyc",
+                "ubywa w karkołomnym tempie."
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "Jesteś jedyną wróżką, której na ",
+                "wiosenny czas nam nie potrzeba."
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "Metal na kwiatach... smutne.",
+                "Podniesiesz je, zanim pójdziesz do domu, co nie?"
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "Przy okazji, słyszałam, że twoje króliki psocą tu i tam."
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "W lesie nie ma tak pięknych roślin jak kwiaty, co nie?",
+                "To dlatego jesteś tak słaba."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Zrozum, płatki kwiatów spadają w o wiele bardziej",
+                "naturalny sposób. Upadek po linii prostej jest dziwaczny."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Widzisz te wróżki, co trzymają kwiaty?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "To dowód, że kwiaty wcale nie są naturalne."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Ponieważ wróżki są obrazem samej natury,",
+                "bardzo się interesują nienaturalnymi kwiatami."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "W dni takie, jak ten, szkoda mi tych,",
+                "co nie mogą wyjść poza dom gdy świeci słońce."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Twoje imię... Dosłownie znaczy",
+                "‘Strzała zakwitu’, nie?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "W jaki kwiat celujesz?"
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "Jak miło...",
+                "Ci z Zaświatów mogą być tacy beztroscy."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "Czemu by nie urządzić podziwiania kwiatów",
+                "u was zamiast w moim chramie?"
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "Serio, twoje odgłosy są niebezpieczne.",
+                "Ekscytuje mnie ot tak."
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "Niesamowite, umiesz śpiewać na trzeźwo."
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "Czy na pewno mogę zabić czas w takim miejscu?",
+                "To wszystko wina kwiatów."
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "Wiosenna bryza powinna wiać na tyle,",
+                "że kwiaty opadają."
+            ]
+        }
+    },
+    "212": {
+        "50_0": {
+            "lines": [
+                "Mi to nie robi różnicy, ale..."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Kwiaty zakwitają, a potem opadają, co nie?",
+                "A potem, nagle jest już nowy rok?"
+            ]
+        }
+    }
+}

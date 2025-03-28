@@ -1,0 +1,943 @@
+{
+    "50": {
+        "140_0": {
+            "lines": [
+                "The weather has become warmer;",
+                "however, above this lake, it is as cold as ever."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Froggy-froggy~ forgot the spring and he's still winter sleeping."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "When I freeze the frog, it goes into winter sleep,",
+                "and doesn't wake back up. Fun."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Fun?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Yeah, it's fun.",
+                "More fun than looking at creepy flowers!"
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Should you continue to torment frogs, you'll",
+                "find yourself in a regrettable situation with a frog youkai some day."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "It looks like she's in winter sleep, but maybe I froze her.",
+                "She's in cold sleep."
+            ]
+        }
+    },
+    "70": {
+        "140_0": {
+            "lines": [
+                "Seldom are the times that I travel through this area during the day.",
+                "It looks quite beautiful."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Spring breeze~ tell me~♪"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "What's tomorrow's appetizer, and tonight's one, too~♪"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "There's no need to ask the spring breeze.",
+                "The appetizer tomorrow will be fried bird."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Tonight's appetizer is human maid!"
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "I should make haste."
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "Humans that come here are idiots."
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "Above the clouds...",
+                "There's nothing that appears out of place."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "You're actually coming all the way above the clouds."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "How novel."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "The belief that some information could be ascertained here",
+                "brought me to these heights."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "You really have no clues, huh?",
+                "How could you possibly find clues about the flowers way up here?"
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "As ever, much noise resounds at these heights, but",
+                "no flowers are in bloom. Time to depart..."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "Here, here! My solo performance starts here."
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "Oh?",
+                "Certain were my beliefs that this place would be filled with flowers, as well..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Only the world of the living,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "fills with flowers.",
+                "The netherworld remains as it ever was."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "So it is...",
+                "Perhaps something suspicious can be found here."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Um, I'm not lying."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "I told you, I wasn't lying."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "It's just such statements that raise suspicion!"
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "I said I wasn't lying,",
+                "why did you attack?"
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "This house's always so dark.",
+                "The Scarlet Devil Mansion has few windows, but even it is better than this..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Japanese houses don't have any lights you can switch on."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "That's why it's dark here.",
+                "So, what did you come for?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I have come looking for clues."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I need to know the mystery before you get a hint."
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "The first mistake was entering",
+                "this house at the wrong time of day."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Even if there are flowers, they cannot be seen."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Oh, the flowers?",
+                "I'm currently investigating that, myself."
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "Bamboo flowers are..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Rare, aren't they?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "But flowers aren't rare to begin with."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "With so many blooming, bamboo flowers shall be dinner tonight."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I'd rather have a few bamboo shoots for dinner."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Do you know why the rare ingredients taste better?",
+                "This is because humans taste not with their tongues,"
+            ]
+        },
+        "50_1": {
+            "lines": [
+                "but with their minds."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "Too bad bamboo shoots aren't in season yet."
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "Wherever I find myself, flowers can be found all around.",
+                "I don't understand what's going on."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "What's up?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "You also looking for the culprit?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "No, I simply thought the flowers looked nice."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Are you a bee or something?"
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "If all that I do is fly in circles,",
+                "I will never find my destination."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Lately, it feels like everyone has been losing sight",
+                "of their destination."
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "I wonder why. Without exception,",
+                "this incident is occurring all over the living world..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Hm?",
+                "Lost in the bamboo forest?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "You've been passing through the same spot for a while now."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ah, I had felt as if there was some small change,"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "as if I were coming closer to the source of this flower incident."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Flower?",
+                "Aren't you lost in the bamboo forest?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "If you want to get out, then do exactly as I say."
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "No, I never was lost at all."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "However, if I should take some of your good",
+                "fortune, perhaps I shall grasp my goal."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "The path out of here is over there.",
+                "Hahaha!"
+            ]
+        }
+    },
+    "110": {
+        "140_0": {
+            "lines": [
+                "These are mountains I've never before visited..."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Never did I know a field of the lily-of-the-valley bloomed here."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "These might be good to make medicine."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Medicine~?",
+                "You mean you are going to make some poison?"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Ah, there's someone here."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "That's right. Since this place is full of lily-of-the-valley,",
+                "you can make as much poison as you want."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Was lily-of-the-valley so poisonous?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Poison, you see,",
+                "if it's too strong, it's immediately cleaned out."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "But with a small amount,",
+                "it will circulate through the whole body before you realize it."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "The most fearsome poison is one that slowly deteriorates the body,",
+                "and then slowly deteriorates the mind."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "If that's the way it is, then would saké be the best poison?"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Hahaha."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "You're so lucky.",
+                "You'll sleep in this field of lily-of-the-valley."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "That would be because of a lucky rabbit that I had found..."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "...Although since you brought it up, I do feel the need to sleep..."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "This lily-of-the-valley field is enveloped in faint poison.",
+                "Naturally, the flowers are poisonous."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Is this because I stayed up so long last night?",
+                "I should settle this matter with haste..."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "...How can you be so perfectly fine amidst that poison?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Aha, you can't tell just by looking?",
+                "I'm neither alive nor dead."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "I'm a doll that's been thrown away.",
+                "This poison is nothing more than fancy cosmetics to me!"
+            ]
+        }
+    },
+    "111": {
+        "50_0": {
+            "lines": [
+                "This field's dangerous...",
+                "I shall depart with all due haste."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Ah, geez...",
+                "It'll take some time to repair this body."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Ultimately, is a poison that takes effect immediately",
+                "not more useful than a gradual one?"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Hm. That might be so.",
+                "Then, how about drinking some of this for me?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "What would this be?"
+            ]
+        },
+        "55_0": {
+            "lines": [
+                "A belladonna drink."
+            ]
+        },
+        "56_0": {
+            "lines": [
+                "Who would drink that?"
+            ]
+        }
+    },
+    "112": {
+        "50_0": {
+            "lines": [
+                "Yes... slowly... The poison will",
+                "circulate through your body and mind."
+            ]
+        }
+    },
+    "120": {
+        "140_0": {
+            "lines": [
+                "There are almost no places left I have not seen."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Spring flowers, summer flowers, fall flowers, winter flowers, poisonous flowers.",
+                "No matter where I look, what I see is always the same."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Within the field of lily-of-the-valley, however,",
+                "the same suspicious feeling of a force of life could be felt within the same flowers."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Certainly, this is important information..."
+            ]
+        },
+        "143_1": {
+            "lines": [
+                "Someone's come to die again, huh?",
+                "If you start now, you can fix your life. Think before doing this!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Oh?",
+                "Tell me, when was I trying to pursue the course of suicide?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "This is where nameless ones sleep, Muenzuka.",
+                "The only reason for living humans to come here would be to commit suicide."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Searching for flowers bearing a life force,",
+                "I came upon this place."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Who, exactly, are you to doubt my virtue?"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "I'm the first class Sanzu River guide,",
+                "Komachi of Onozuka."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "I drop suicidal people into the river,",
+                "so you should prepare yourself."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "I shall prepare myself for no such thing. Hmph."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "If flowers which bear poison are suspicious, then I believe",
+                "the most suspicious flowers must be the red spider lilies, and came here."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Red spider lilies?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "That's silly.",
+                "There's no way the red spider lily would be blooming now..."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "They are in full bloom.",
+                "Perhaps you should become aware of your surroundings?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Eeh? What's going on?",
+                "Red spider lilies are blooming, and purple cherry blossoms too..."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Huh?",
+                "Could this be?!"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "You appear to know something of this."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "N-not at all. I don't know anything!"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Flying over all of Gensokyo, I could find no clues..."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "I even came as far as places I never would ordinarily go, such as this Muenzuka.",
+                "Here, I finally have confirmed the source."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "I'm telling you, I really don't know.",
+                "I'm busy, so we'll have to part here..."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Wait a moment."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Leave now, and I shall kill myself."
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Gyaa,",
+                "you're one problematic human."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "But I really am busy."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "My beliefs about the red spider lilies were correct.",
+                "I can't allow you to leave now!"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Is that so?"
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "The chaotic blooming of the red spider lily",
+                "is the measure of my workload."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "The poisonous flowers are proof of the disturbance in the outside world.",
+                "If you're going to interfere with my work, then I'll show no mercy!"
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "So, precisely what is this flower incident?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Please~",
+                "Don't interfere with my work~"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "If you keep doing this then..."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Your employer will scold you?"
+            ]
+        },
+        "53_1": {
+            "lines": [
+                "Are you slacking off!? Komachi!"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Kyan!"
+            ]
+        },
+        "55_0": {
+            "lines": [
+                "(Ah, I only meant that as a joke...)"
+            ]
+        }
+    },
+    "122": {
+        "50_0": {
+            "lines": [
+                "If you're gonna try to commit suicide, I'll kill you!",
+                "I'll make good on that promise."
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Komachi has not been bringing back souls for a long time,",
+                "so I came here to see for myself..."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "This world is overflowing with ghosts and flowers,"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "and on top of that, Komachi is fooling around with some human.",
+                "Why does she slack off so much?!"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Ah, but I didn't mean to interfere with her work."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Currently, Komachi's workload is too large."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Spare me your business situation."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "More importantly, look around yourself.",
+                "Don't you believe this flower epidemic requires your attention?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Of course, I understand.",
+                "But that is just a part of the business I am in."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "(A business involving blooming flowers,",
+                "is this person a florist?)"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "These flowers, you see, are possessed by the souls",
+                "from the outside world that have lost their way."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "What I am saying is that all these souls have not",
+                "realized that they are dead."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "...What does it mean when their numbers multiply?"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Who knows...",
+                "I do not know why the phantoms are multiplying."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Perhaps, a great number of murders?",
+                "Such a thing is highly possible."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "But more importantly, let us talk about you for a moment."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Yes, you are too cold to other humans."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "My knives are made out of metal, without blood's warmth."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "If you die as you are...",
+                "It would require quite some time for you to cross the river."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Whatever do you mean?"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "If you behave badly, you might not be able to cross the river of the dead."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "The river's width is the same as the breadth of the soul's baggage.",
+                "How you lived determines the width of the river."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "This isn't fully clear to me, but suppose I want",
+                "to cross the Sanzu river? What's the problem?"
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Souls will wear themselves out before they can reach the other shore."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "On top of that, the boat is not a comfortable one."
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "I understand. Souls can become fatigued as well.",
+                "However, this regards the time after my death, so it's fine, no?"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "If I don't treasure my present...",
+                "For now, there's work for me regarding this flower epidemic."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "If you do not make amends now,",
+                "once you die, it will be too late for regrets!"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "People who think that \"treasuring the present\" is a virtue",
+                "are increasing, and it is terrible!"
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Know well that the only way one can live a good afterlife",
+                "is to do good deeds during one's life!"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "First, you have to learn to fear your judgment.",
+                "Then, you will likely take the right path."
+            ]
+        }
+    }
+}

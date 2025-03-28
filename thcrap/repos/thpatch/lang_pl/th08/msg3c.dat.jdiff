@@ -1,0 +1,253 @@
+{
+    "2": {
+        "61_0": {
+            "lines": [
+                "Czy to wy? Czy wy próbujecie zaatakować",
+                "tą wioskę w środku nocy?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Panienko.",
+                "Powinniśmy szybko przejść obok tego miejsca."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Cóż, właściwie to nie jestem aż <i$tak> głodna obecnie..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Rany boskie. Bez ludzi z wioski, tutaj są",
+                "tylko youkai i ci dziwni ludzie!"
+            ]
+        }
+    },
+    "3": {
+        "61_0": {
+            "lines": [
+                "Mmm... Czym u licha jesteście?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Rany, nie ma końca tego, co?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Panienko!",
+                "Za bardzo się z nią bawisz."
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Popatrzcie dookoła, wy diabły."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "...Liczba mnoga, co?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Tutaj nic nie ma.",
+                "Widać to, co nie?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hej, nie powinna tutaj być Ludzka Wioska?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Ach. Sama rzadko tu przychodzę, ale czy",
+                "ty często bywasz, Sakuya?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Tak. Ponadto, wiele narzędzi, z których",
+                "korzystamy w rezydencji, stworzyli tutejsi ludzie."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Popatrz uważnie...",
+                "Jak widzisz, tutaj niczego nigdy nie było."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Okej? A teraz idźcie sobie, teraz."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Ale masz niemiły charakter."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Co zrobiłaś wiosce i jej ludziom?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Nie rozumiesz? Zrobiłam tak,",
+                "że ludzi tu wcale nigdy nie było."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Obecnie, cała historia tej wioski",
+                "jest pod moją ochroną."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Sakuya."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Nie nadawałaby się na korepetytora dla mojej siostrzyczki?",
+                "Uczyłaby jej lokalnej historii, czy coś w tym rodzaju."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Moli książkowych mamy już dość w rezydencji..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Niech wam będzie. Powtórze się."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Tutaj nigdy nic nie było od samego początku.",
+                "Ani ludzi, ani ich wioski."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Część z czego co mówisz, jakby mi odstaje",
+                "od reszty."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Panienko?",
+                "Czy mogę na chwilkę?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Śpieszy się nam.",
+                "<i$Bardzo>."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Czy dostanę część historii tego diabła?"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Hmm, jesteś pełna wiary w siebie.",
+                "Mimo tego, że jesteś hakutakuołakiem."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Po prostu patrzysz sobie na historię.",
+                "Twój los się nie zmieni."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Panienko.",
+                "Czy mogę <i$poprosić> o chwilkę?"
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Cóż, nie da inaczej rady.",
+                "Możesz skorzystać z mojego czasu. Chwilki."
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Ach, to było orzeźwiające.",
+                "A teraz, idźmy dalej."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Czujesz się orzeźwiona, chociaż wioski",
+                "jeszcze nie odstawiono na miejsce?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Tak, jak najbardziej. Ani odrobinę zmęczenia."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Cóż, dobrze. Jednakże, dzięki niej, całkowicie",
+                "straciłam ślad tego dziwnego powietrza."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Wiesz, gdzie mamy iść, Sakuya?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Ani trochę. Ale patrz! Mamy kogoś, kto w takiej",
+                "chwili byłby bardzo użyteczny."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Hę? W sensie, winowajcę tego incydentu",
+                "z pełnią księżyca?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "To musi być ich sprawka.",
+                "Osób, które coś takiego mogą zrobić, jest niewiele."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Rany, mole książkowe są takie przydatne.",
+                "Chociaż więcej nam nie trzeba."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Mol książkowy w naszej rezydencji to na serio",
+                "siedzi w książkach, więc nie jest zbyt przydatna..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Mamy już sporo bezużytecznej wiedzy.",
+                "Więcej nam nie trzeba."
+            ]
+        }
+    }
+}

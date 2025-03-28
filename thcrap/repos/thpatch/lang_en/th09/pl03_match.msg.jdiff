@@ -1,0 +1,169 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "Since you're so carefree,",
+                "I wonder if the incident is worsening?"
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "Please don't just make merry,",
+                "won't you investigate the incident a little?"
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "That's right, your master has said nothing of this incident."
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "I have come across death on the path of a phantom."
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "Have the people of your house said nothing of this incident?"
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "Your chill and the freezing temperature of phantoms.",
+                "Should I test which one is colder?"
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "Ah, will we be having you at the banquet?",
+                "If you don't come, the mistress will be angry."
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "I'm looking forward to the banquet.",
+                "You'll be coming, right?"
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "Where are you going for a concert this time?",
+                "The sunflower fields?"
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "The side dish for tonight is....",
+                "Hey, why did I suddenly think of dinner?"
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "Why is your hair black?"
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "Everyone is much too busy to have free time",
+                "to read the newspaper, surely."
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "Phantoms are not really susceptible to poisons...",
+                "or so we thought, but we're actually quite weak to them."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "I wonder, where do we absorb it from?"
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "When I look at you, it reminds me of someone.",
+                "That carefree spirit and those red and white clothes."
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "Much appreciated.",
+                "How are the souls, recently?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Are there any humans who can go to heaven right from the start?"
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "Ah, I'm sorry for all the troubles I've caused."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Thanks to you, I came to understand the",
+                "Hakurouken's reason for being."
+            ]
+        }
+    },
+    "131": {
+        "50_0": {
+            "lines": [
+                "Oh, that's right.",
+                "My mistress is a ghost...."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Why can't she enter nirvana...?"
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "Playing around here",
+                "is a waste of time."
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "Feels like Lady Yuyuko might know something...."
+            ]
+        }
+    }
+}

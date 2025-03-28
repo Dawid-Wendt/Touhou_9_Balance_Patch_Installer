@@ -1,0 +1,247 @@
+{
+    "2": {
+        "61_0": {
+            "lines": [
+                "Czy to wy? Czy wy próbujecie zaatakować",
+                "tą wioskę w środku nocy?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Nieeee. Po prostu przechodzimy obok.",
+                "Nas tutaj nie było."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Hmm, nie będzie ufać słowom youkai."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Zrobię tak, że ta noc nigdy się nie wydarzyła!"
+            ]
+        }
+    },
+    "3": {
+        "61_0": {
+            "lines": [
+                "Czym u licha jesteś?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Aha, czyli",
+                "„Ups, powinnam być gdzie indziej.”, co nie?"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Naturalnie, dalej nie mogę się cofnąć."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "A więc, oddasz nam ludzi?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Czekaj, chwila moment, Marisa!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Kto powiedział, że mamy zamiar zjeść ludzi?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Hmm. Pomyśleć sobie, że youkai",
+                "przyszłyby tak daleko, jak ta wioska."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Czy to na serio przez ten dziwny księżyc?",
+                "Wcześniej były tutaj tylko sporadycznie."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Nic nie mówiłyśmy na temat pożerania ludzi."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Tak czy siak.",
+                "Spieszy się mi!"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Nie wiem, kim jesteś, ale nie mamy",
+                "czasu do marnowania na ludzi."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Rany, niemiła jesteś."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Gdybyście po prostu sobie przechodziły,",
+                "nie próbowałabym was zatrzymać."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Ale wasza dwójka jest nieco zbyt głośna."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Widzisz Marisa, jesteś głośna."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "To dlatego, że w ogóle nie wstrzymujesz się",
+                "z używaniem swojej magii. W środku nocy!"
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "O czym ty paplasz? Magia to coś, czym",
+                "trzeba wyluzować się w nocy, rozumiesz?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Jedyna rzecz warta użycia po kryjomu za dnia",
+                "to cyjanotypia i tym podobne."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Miałam wrażenie, że coś nieprzyjemnego się",
+                "zbliża, więc zapieczętowałam wioskę..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Wygląda na to, że to był dobry pomysł."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "<i$Mówiłam> ci!"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Nikt nic nie mówił, że chcemy",
+                "atakować ludzi."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "(...Czy nie powiedziałaś przed chwilą",
+                "„oddasz nam ludzi”?)"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Na serio, jedyny człowiek co mnie",
+                "teraz obchodzi, to ty!"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Gadaj sobie co chcesz,",
+                "kłamczucho."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Nie pozwolę niczemu z waszego danmaku dotknąć",
+                "czy to ludzi, czy też historii tej wioski!"
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Marisa!"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Jestem pewna, że jeszcze nie zauważyłaś,",
+                "ale nie jest człowiekiem."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "Jest w pół bestią!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "W pół bestia, co przemienia się tylko w pełnię księżyca,",
+                "to i tak nadal człowiek."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Wiesz, że ty też jesteś człowiekiem,",
+                "co nie?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Gdyby tylko była dzisiaj pełnia księżyca,",
+                "mogłabym..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "A, racja.",
+                "Mamy zamiar przywrócić tą pełnię księżyca."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Racja.",
+                "Już to mówiłyśmy, co nie?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Aaa?",
+                "Zaraz, co? Nic o tym nie było."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Wygląda na to, że wiecie, kto",
+                "jest tutaj winowajcą."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "A więc, jako że wygrałam, dotrzymasz",
+                "obietnicy i powiesz nam, kto za tym stoi."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "W sensie obietnica, co teraz",
+                "składamy."
+            ]
+        }
+    }
+}

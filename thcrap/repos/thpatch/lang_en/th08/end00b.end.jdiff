@@ -1,0 +1,117 @@
+{
+    "8": {
+        "lines": [
+            "　　The Hakurei Shrine at night."
+        ]
+    },
+    "10": {
+        "lines": [
+            "　　The long-awaited full moon was bewitchingly illuminating Gensokyo.",
+            "　　The chilly night was compensated for with alcohol.",
+            "　　Tonight was a night where watching the moon was most enjoyable."
+        ]
+    },
+    "14": {
+        "lines": [
+            "　　It's true that the full moon returned, but still...",
+            "　　The princess of that moon had hidden herself somewhere again."
+        ]
+    },
+    "19": {
+        "lines": [
+            "<l$Reimu:$12345678> \"Hello. Watching the moon?",
+            "<l$$12345678\"> Oh my, there sure are a lot of people gathered here.\""
+        ]
+    },
+    "23": {
+        "lines": [
+            "<l$Marisa:$12345678> \"Ah, the usual crowd. There's no place other",
+            "<l$$12345678\"> than the shrine where the moon looks so beautiful.\""
+        ]
+    },
+    "27": {
+        "lines": [
+            "<l$Reimu:$12345678> \"Didn't you say the same thing about the cherry blossoms?\""
+        ]
+    },
+    "30": {
+        "lines": [
+            "<l$Alice:$12345678> \"The forest is shining in the moonlight, too.",
+            "<l$$12345678\"> We have to enjoy this long-awaited full moon together.\""
+        ]
+    },
+    "34": {
+        "lines": [
+            "<l$Reimu:$12345678> \"It's all good.",
+            "<l$$12345678\"> Who's going to clean all this up?\""
+        ]
+    },
+    "39": {
+        "lines": [
+            "<l$Yukari:$12345678> \"Come on, Ran.",
+            "<l$$12345678\"> Don't leave anything lying around.\""
+        ]
+    },
+    "43": {
+        "lines": [
+            "<l$Ran:$12345678> \"Understood~.",
+            "<l$$12345678\"> I'm watching the moon and drinking sake at the moment.\""
+        ]
+    },
+    "47": {
+        "lines": [
+            "<l$Yukari:$12345678> \"Watching the moon and drinking sake, huh?",
+            "<l$$12345678\"> You have to let the moon reflect on your sake and drink it afterwards.\""
+        ]
+    },
+    "51": {
+        "lines": [
+            "<l$Reimu:$12345678> \"You have to drink the moon, too.\""
+        ]
+    },
+    "54": {
+        "lines": [
+            "<l$Yukari:$12345678> \"Yeah, the moon.",
+            "<l$$12345678\"> The truth is, it contains an enormous power.",
+            "<l$$12345678\"> Ran, you should also taste this power a little.\""
+        ]
+    },
+    "59": {
+        "lines": [
+            "<l$Ran:$12345678> \"Is it okay to drink?\""
+        ]
+    },
+    "62": {
+        "lines": [
+            "<l$Reimu:$12345678> \"It's not only that moon...\""
+        ]
+    },
+    "65": {
+        "lines": [
+            "<l$Yukari:$12345678> \"You're right. We have to do something about that.\""
+        ]
+    },
+    "68": {
+        "lines": [
+            "<l$Ran:$12345678> \"?\""
+        ]
+    },
+    "71": {
+        "lines": [
+            "　　The moon was charmingly glittering.",
+            "　　However, that light was shedding sorrow somewhere."
+        ]
+    },
+    "74": {
+        "lines": [
+            "　　Yes, this recent moon looked flimsy.",
+            "　　Reimu thought that something was still being hidden..."
+        ]
+    },
+    "77": {
+        "lines": [
+            "　　Normal Ending No. 5",
+            "　　Try playing again without using a continue!"
+        ]
+    }
+}

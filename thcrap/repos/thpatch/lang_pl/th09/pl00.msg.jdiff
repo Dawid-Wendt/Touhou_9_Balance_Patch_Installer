@@ -1,0 +1,1180 @@
+{
+    "50": {
+        "140_1": {
+            "lines": [
+                "Jest tu, jest tu!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Jest wiosna, a nie lato."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Powinnaś powiedzieć: ",
+                "„To lód, nie ogień!”"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Przyszła jak ten owad, jakmutam, ",
+                "który przylatuje do światła."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Przynajmniej powierzchnia jeziora nie zmieniła się w stosunku do normalnej wiosny."
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Gdziekolwiek pójdę, zawsze natykam się ",
+                "na jakieś wróżki. Mam tego dosyć."
+            ]
+        }
+    },
+    "70": {
+        "140_1": {
+            "lines": [
+                "Kaczuszka niesie por i~♪"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Nadchodzi~",
+                "Ach~ Nadchodzi~♪"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ptaki nie powinny chyba śpiewać takich piosenek..."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Profesjonaliści nie wybierają swoich utworów."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Wygląda na to, że ten incydent jest wszędzie, gdzie byłam, bez wyjątku.",
+                "Czyli raczej nie ma różnicy, gdzie polecę."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "Mimo, że jestem sama, ",
+                "to bułka z masłem."
+            ]
+        }
+    },
+    "80": {
+        "140_1": {
+            "lines": [
+                "Nawet kapłanka chramu~"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "wydaje się być zbita z tropu!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Nawet jeśli nie mam wskazówek, w końcu odkryję prawdę."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Taką kapłanką jestem!"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Cóż, nasze spotkanie może nie być całkowicie bezowocne."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Szybko straciłam trop...",
+                "Czyja to do cholery może być sprawka?"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Masz ambicje."
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Mogłabym wziąć ze sobą króliczą łapkę?",
+                "Tak na szczęście."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "Jeśli naszą kapłankę stać tylko na tyle, ",
+                "droga będzie naprawdę długa."
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "W tej rezydencji zawsze jest ciemno."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Co cię tym razem sprowadza?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Tylko tak sobie sprawdzam."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "„Przybyłam tu, by zbadać incydent z kwiatami!”,",
+                "masz to wypisane na twarzy!"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "To dlatego, że wpuszcza tylko światło Księżyca."
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "Więc? Masz jakieś wskazówki?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Nic mi tu nie pomożesz,",
+                "zawołaj swojego mistrza."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Niestety, nie ma tu nikogo, ",
+                "kto wiedziałby coś o kwiatach."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "Co ty wyrabiasz?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Skoro na serio jesteś kapłanką, to pospiesz",
+                "się i znajdź sedno tego wszystkiego."
+            ]
+        }
+    },
+    "20": {
+        "140_1": {
+            "lines": [
+                "Zgadza się,"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Nieważne gdzie pójdę, nadal czuć ode mnie kwiatami."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Więc nie zabraknie składników."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Składników na co?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Jaśminowej herbaty... a przynajmniej w jej stylu."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "Tak przy okazji...",
+                "Czym jest jaśminowa herbata?"
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Uważaj, żeby jej nie przegotować. ",
+                "Aromat zniknie."
+            ]
+        }
+    },
+    "100": {
+        "140_0": {
+            "lines": [
+                "Tutaj był staw?"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Cóż, rzadko odwiedzam góry..."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "W każdym razie, nawet lotosy w pełni ",
+                "zakwitły. Serio, co tu się dzieje?"
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Chram był już pusty już przez kilka godzin,"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "więc sobie pomyślałam, że może kapłanka",
+                "w końcu coś zaczęła robić!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Nigdzie jej nie było, więc myślę sobie,",
+                "gdzie mogła pójść?"
+            ]
+        },
+        "145_0": {
+            "lines": [
+                "No i proszę, znalazła się!",
+                "Tak głęboko w górach!"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "A więc, czas na reportaż~"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I proszę bardzo, widać",
+                "podejrzanego youkai."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Hej, nie przejmuj się mną, nie",
+                "przerywaj swoich poczynań, kontynuuj."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Nawet jeśli każesz mi kontynuować...",
+                "Nie mam ani jednego tropu, po prostu sobie latam."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Po prostu byłam ciekawa, dlaczego kwitnie",
+                "tyle kwiatów i zaczęłam ot tak łazić."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Kwiaty, powiadasz...",
+                "To raczej nie jest materiał na reportaż."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Chwila, a ty kto?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Coś ci trochę to zajęło..."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Ze mnie zwyczajna reporterka tengu."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Napisałam artykuły na temat interesujących rzeczy,",
+                "w które wszyscy są obecnie wplątani."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "To dlatego my tengu wiemy całkiem sporo",
+                "na wasz temat."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Artykuły? W ostatnich czasach w ogóle nie",
+                "widziałam ani jednej gazety."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Cóż, w takim razie, jak już wspomniałam,",
+                "nie przejmuj się mną i po prostu rób swoje."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Będę dyskretnie pisać notatki."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "A, racja.",
+                "Już pamiętam."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Właśnie eksterminowałam youkai."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Hę?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Właśnie eksterminowałam youkai, wszystkie",
+                "co widziałam, bez dyskryminacji."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "Kapłanki nie powinny robić ",
+                "sobie takich wycieczek!"
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "Tyle kwiatów zakwita. Przegrałaś, ",
+                "bo nie wykorzystałaś swej szansy na śpiew!"
+            ]
+        }
+    },
+    "60": {
+        "172_0": {
+            "lines": [
+                "Mam wolne."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "w sprawie incydentu z kwiatami.",
+                "Trochę się spóźniłaś."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Kapłanka nareszcie coś zrobiła"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Aach, haruję i tak mi dzię—",
+                "C-co? Jesteś dzisiaj sama?"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Przeleciałam taki kawał drogi nad chmurami...",
+                "I żadnej wskazówki."
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "I ubierasz się tak nawet w dzień wolny...",
+                "Wzięłaś nawet instrument."
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "Hę?",
+                "Normalne kwiaty wiśni."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Problem z kwiatami nie dotknął Zaświatów."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "To ci pierwsze przyszło do głowy na ich widok?",
+                "Źle ci przyszło, więc idź sobie!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "To dlatego tutaj tak spokojnie."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Kwiaty kwitną, więc... Myślałam,",
+                "że to znowu może być wasza robota."
+            ]
+        }
+    },
+    "10": {
+        "140_1": {
+            "lines": [
+                "To rzadki widok."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Czyżby nawet kwiaty bambusa kwitły?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Ale i tak zrobimy to co zwykle, nie?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Masz na myśli podziwianie kwiatów?"
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "W przeciwieństwie do ciebie, moim obowiązkiem ",
+                "jest odnaleźć przyczynę problemu."
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "Oglądając kwiaty, czy nie lepiej komponować piosenki,",
+                "a nie je śpiewać?"
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "Żadnej odpowiedzi.",
+                "Serio się pomyliłam."
+            ]
+        }
+    },
+    "120": {
+        "140_0": {
+            "lines": [
+                "Tak, zmyliła mnie liczba kwiatów, ale..."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Są jeszcze dwie inne rzeczy, których",
+                "ilość jest nienormalnie wysoka."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Nadzwyczajna liczba wróżek i..."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Cóż, one pewnie się po prostu cieszą kwiatami."
+            ]
+        },
+        "143_1": {
+            "lines": [
+                "O czym ten żywy człowiek..."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Wygaduje tutaj, na cmentarzysku!"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Oraz fakt, że wszędzie są fantomy!"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Pierwsze ostrzeżenie dla człowieka, którego",
+                "ciągnie do śmierci."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Opłata za przekroczenie rzeki Sanzu jest absurdalnie",
+                "wysoka. Z takimi datkami na chram nie ma opcji."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Nie mam takiego zamiaru. Nie mam też ",
+                "pieniędzy... chwila, kim ty jesteś?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Pierwszorzędny przewodnik ",
+                "rzeki Sanzu, Komachi Onozuka."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Przy brzegu Higanu stoi Titanic Sanzu.",
+                "Mam na myśli moją łódkę."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Zwykle żywych ludzi nie puszczam, ale..."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Jeśli cię na to stać, nie mam nic przeciwko",
+                "luksusowym rejsie po brzegach Higan."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Mówiłam, nie mam zamiaru.",
+                "I nie mam czym zapłacić."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Limitowana oferta, 10%% zniżki."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Mam to gdzieś."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Po prostu przyszłam zbadać fantomy,",
+                "co zaczęły się mnożyć razem z kwiatami."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Fantomy? Kwiaty?"
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Ach, fantomy, fantomy?",
+                "Fantomy się mnożą?"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Fantomy. Kwiaty mnie zmyliły, ale po bardziej",
+                "szczegółowej analizie, widzę, że wszędzie są fantomy."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "O rany jejku! Jak teraz",
+                "patrzę, to nawet kwitnie lilia pajęcza czerwona!"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "I te fioletowe kwiaty wiśni..."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Jakby co, to ja nic nie widziałam."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "A właśnie, że tak.",
+                "Wyglądasz, jakbyś coś wiedziała."
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Cóż, na mnie już czas...",
+                "Robota mnie goni i w ogóle."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Czy tu chodzi o to, że... Nie przeprawiłaś",
+                "zmarłych na drugą stronę, jak powinnaś?"
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "Gensokyo jest pełne fantomów, bo",
+                "nie ruszyłaś się z miejsca?"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Jak mam ich wszystkich zebrać i niby gdzie~",
+                "Cóż, zgaduję, że do Higan."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Rób, co masz robić!",
+                "Przestań tyle leniuchować!"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Rozumiem. Jeśli gadasz, że",
+                "przeszkodzisz mi w mojej pracy..."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "Przeprawię cię moim Titaniciem.",
+                "Za pół ceny."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Nieważne, jak piękne są kwiaty, uników",
+                "nie zrobisz, jak patrzysz se gdzie indziej."
+            ]
+        }
+    },
+    "13": {
+        "140_0": {
+            "lines": [
+                "Hmm."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Szczerze, nie mam żadnego tropu..."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "W tym tempie, to będę musiała naprawdę",
+                "się postarać..."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "To jest"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "raczej cholernie oczywiste."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Na serio myślałaś, że sobie pofruwasz,",
+                "a winowajca będzie siedział ot tak?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Zwykle, gdy walczę z kim popadnie, prędzej",
+                "czy później winowajca się ukazuje!"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "To raczej nie coś, czym się należy chwalić."
+            ]
+        }
+    },
+    "14": {
+        "50_0": {
+            "lines": [
+                "To nic mi nie daje.",
+                "Teraz pójdę tam, gdzie rzadko bywam..."
+            ]
+        }
+    },
+    "15": {
+        "50_0": {
+            "lines": [
+                "Nawet wspaniała Reimu nie wie,",
+                "co tym razem począć."
+            ]
+        }
+    },
+    "23": {
+        "140_0": {
+            "lines": [
+                "Hmm."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Szczerze, nie mam żadnego tropu..."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "W tym tempie, to będę musiała naprawdę",
+                "się postarać..."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Wyglądasz na całkiem zakłopotaną."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Rzadko taka jesteś."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Nigdy tak nie miałam."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Tak się naleciałam i z każdym",
+                "walczyłam, i nic, żadnej wskazówki."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Coś chyba leniuchujesz i bardziej",
+                "skupiasz się na podziwianiu kwiatów."
+            ]
+        }
+    },
+    "24": {
+        "50_0": {
+            "lines": [
+                "To nic mi nie daje.",
+                "Teraz pójdę tam, gdzie rzadko bywam..."
+            ]
+        }
+    },
+    "25": {
+        "50_0": {
+            "lines": [
+                "Tak tylko sobie myślę, ale...",
+                "Tego incydentu chyba nie trzeba rozwiązywać."
+            ]
+        }
+    },
+    "101": {
+        "50_0": {
+            "lines": [
+                "To twoja wina, że tak nonszalancko",
+                "ukazujesz się przed eksterminatorką youkai."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Hmm.",
+                "Byłoby lepiej, gdybym robiła zdjęcia z ukrycia..."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "A, racja, jesteś dziennikarką.",
+                "Więc masz źródła informacji, co nie?"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Więc powiedz mi, co tylko wiesz na",
+                "temat tego incydentu z kwiatami!"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "A, racja. Kwiaty. No tak.",
+                "Kwiaty łatwo wyjaśnić."
+            ]
+        },
+        "55_0": {
+            "lines": [
+                "Czy nie uważasz, że dzieje się coś",
+                "innego, niż tylko kwiaty?"
+            ]
+        },
+        "56_0": {
+            "lines": [
+                "Miałam przeczucie nawet przed tym,",
+                "jak mi powiedziałaś."
+            ]
+        },
+        "57_0": {
+            "lines": [
+                "Więc proszę, nie zadawaj mi pytań."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Tak, w końcu widzę swój cel.",
+                "Dzięki mojej intuicji."
+            ]
+        }
+    },
+    "102": {
+        "50_0": {
+            "lines": [
+                "Walka ze mną nie skończy",
+                "się artykułem czy czymś podobnym."
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "A teraz, weź swój ogromny statek",
+                "i przepraw ich!"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Pokonałeś mnie, ale...",
+                "Jest tyle tych fantomów,"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "że pracy mam po ramiona. Nie da rady~"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Czyli lubisz rezygnować. Niech",
+                "będzie, chcę pogadać z twoim szefem!"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Ach, tutaj mamy problem~"
+            ]
+        },
+        "54_1": {
+            "lines": [
+                "Znów się obijasz!? Komachi!"
+            ]
+        },
+        "55_0": {
+            "lines": [
+                "O nie!"
+            ]
+        },
+        "56_0": {
+            "lines": [
+                "Proszę bardzo, twój szef."
+            ]
+        }
+    },
+    "122": {
+        "50_0": {
+            "lines": [
+                "Wygląda na to, że nawet pół ceny to",
+                "za dużo. Czy w ogóle masz czym zapłacić?"
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Komachi nie przyniosła żadnych dusz mimo tego upływu",
+                "czasu, więc przyszłam sprawdzić, o co chodzi."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Shigan jest pełny fantomów i kwiatów,"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "a jakby tego mało, to Komachi coś kombinuje",
+                "z kapłanką chramu."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Och. Gdy pierwszy raz zobaczyłam Komachi, ",
+                "myślałam że jest bardziej pracowitą osobą."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Ty... jesteś szefową tej shinigami.",
+                "To przez was tyle kwiatów, co nie?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Te bezimienne dusze nie są świadome swoich śmierci.",
+                "Nie <i$chcą> być świadome swoich śmierci."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Tego typu dusze są niestabilne. Dlatego",
+                "desperacko szukają ciał."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Zagubione dusze zamieszkują kwiaty. To",
+                "dlatego te kwiaty zaczęły zakwitać."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Tak, te fantomy to ludzie z zewnątrz.",
+                "Zagubione dusze, co zmarły śmierciami niespodziewanymi."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Że niby te wszystkie kwiaty...",
+                "To ludzkie dusze z zewnątrz?"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Kwiaty to rośliny, co reprezentują czyjąś",
+                "osobowość, to jest cechy czyjejś duszy."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "To dlatego są tak silnie powiązane z duszami."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Weseli za życia zamieszkują słoneczniki,",
+                "ci samotni, bez przyjaciół, lilie pajęcze czerwone..."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Zaś w fioletowych kwiatach wiśni..."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Ach... Rozumiem."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Czyli nie tak, że coś z kwiatami się dzieje,",
+                "tylko po prostu wiele fantomów nie ma gdzie być."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Więc stąd ten incydent z kwiatami."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Cóż, okazuje się, że musicie dla mnie",
+                "coś z tym zrobić. Ja nic tu nie zdziałam."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Naprawdę? Nam to nie przeszkadza,",
+                "tobie też nie powinno zbyt przeszkadzać."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Ponadto, jeśli fantomy powodują zakwit",
+                "kwiatów, nadal mogą wierzyć, że żyją..."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Nie powinno nic się stać, jeśli",
+                "zostawisz ich na chwilę."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "To nie w tym problem!"
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Jeśli nic nie zrobię z tym incydentem,",
+                "to będzie tak, jakbym leniuchowała!"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Jeśli skopię ci tyłek zamiast narzekać,",
+                "to wszystko wróci do normy, co nie?"
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Zlikwidowałaś tyle youkai bez dobrego powodu."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Kilka z twoich celów nawet nie było youkai."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "I chociaż jesteś kapłanką, twoje bóstwo nie jest ci bliskie.",
+                "Czasami to nawet się mu sprzeciwiasz."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Tak jest, nagrabiłaś sobie nieco grzechów."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Hm..."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "W tym tempie, po twojej śmierci to",
+                "nawet do Piekła się nie dostaniesz."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "Cóż, jeśli nie do Piekła, to zostają mi Zaświaty."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Osąd Yamy nie jest tak łagodny.",
+                "Decyzji już nie da się unieważnić."
+            ]
+        },
+        "201_0": {
+            "lines": [
+                "Gdybym ja miała cię sądzić, to",
+                "dostałabyś potępienie."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "Jak niemiło!",
+                "Eksterminacja youkai to moja praca. I tyle."
+            ]
+        },
+        "203_0": {
+            "lines": [
+                "Złodzieje, zabójcy i żołnierze,",
+                "wszyscy mają podobną wymówkę."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "Tylko dlatego, że taka jest ich praca,",
+                "nie zmienia tego, że to nadal grzech."
+            ]
+        },
+        "205_0": {
+            "lines": [
+                "Aby odpokutować swoje grzechy chociaż",
+                "trochę, trzeba dokonać dobrych uczynków."
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "Dobra, rozważę to, po tym jak cię pobiję",
+                "i przywrócę kwiaty do normalnego stanu."
+            ]
+        },
+        "207_0": {
+            "lines": [
+                "W fioletowych kwiatach wiśni są ludzie,",
+                "których grzechy sięgają po ich szyję."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "W tym deszczu fioletowy kwiatów",
+                "wiśni dokona się twoja pokuta!"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "I?",
+                "Czy w końcu zrozumiałaś?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Ale twój grzech jest całkiem spory.",
+                "Twoja pokuta dopiero się zaczęła."
+            ]
+        }
+    }
+}

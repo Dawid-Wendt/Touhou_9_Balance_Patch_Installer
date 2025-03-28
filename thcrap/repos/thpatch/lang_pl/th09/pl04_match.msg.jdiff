@@ -1,0 +1,177 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "Długość twoich fal jest na przemian albo",
+                "bardzo długa, albo bardzo krótka."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Niektórzy ludzie po prostu mają",
+                "taką długość fali."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Głos, który nie jest ani przychylny innym,",
+                "ani przeciw innym. Bardzo dziwne."
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "Czy twoja długość fali jest w miarę normalna?",
+                "Wygląda na to, że jest stabilnie."
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "Twoja długość fali jest nieco długa.",
+                "Czy stopniowo stajesz się beztroska?"
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "Twoja długość fali jest stosunkowo długa.",
+                "Tak to widzę."
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "E?",
+                "Moje oczy chyba są dzisiaj nieco czerwone..."
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "Twoja długość fali jest krótka.",
+                "Czy to przez twój burzliwy temperament?"
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "Czy twoja długość fali zmienia się zależnie od muzyki?",
+                "A może to muzyka zmienia się zależnie od nich?"
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "Twoja długość fali jest całkiem spora.",
+                "Te wahania to są takie, co są przyjemne."
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "Twoja długość fali jest całkiem krótka. Te wahania to są",
+                "takie, co powodują, że inni czują się nieswojo."
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "Twoja długości fal jest raczej krótka.",
+                "Trudni ci zamienić swoje myśli w słowa?"
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "Hej, gdzie ty sobie łaziłaś?"
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "Twoja długość fal jest stabilna. Wygląda na to,",
+                "że twój temperament jest kompatybilny z kimkolwiek."
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "Twoja długość fali jest niesamowicie krótka.",
+                "Czy to znaczy, że normalne osoby cię nie słyszą?"
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "Twoja długość fali jest niesamowicie długa.",
+                "Podobnie mają kwiaty."
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "Twoja długość fali jest raczej krótka."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Chociaż przez twoje obijanie się,",
+                "myślałam, że jest długa."
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "Powód, dla którego niektórzy się dogadują a inni",
+                "nie, to fakt, że każdy ma swoją własną długość fal."
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "Długość czyichś fal daje informacje na temat danej osoby.",
+                "Ci z krótkimi są raczej szorstcy, zaś ci z długimi beztroscy."
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Twoja długość fal jest bardzo krótka jak na królika,",
+                "więc wiem, kiedy jesteś blisko mnie."
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "Twoja długość fali ma przesuniętą fazę..."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Rodzaj fali, co nie ingeruje z tymi, co pochodzą ze świata",
+                "żywych. To dlatego jesteś w stanie dokonać ich osądów."
+            ]
+        }
+    }
+}

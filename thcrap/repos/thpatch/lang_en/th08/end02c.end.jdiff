@@ -1,0 +1,326 @@
+{
+    "8": {
+        "lines": [
+            "　　Nighttime at the Scarlet Devil Mansion."
+        ]
+    },
+    "10": {
+        "lines": [
+            "　　The real moon had at last returned to Gensokyo."
+        ]
+    },
+    "12": {
+        "lines": [
+            "　　As it turned out, the fake moon had been nothing more than a paper toy,"
+        ]
+    },
+    "14": {
+        "lines": [
+            "　　while the real one should reflect madness."
+        ]
+    },
+    "16": {
+        "lines": [
+            "　　Normally, humans can't see such madness. However, the light reflected",
+            "　　from the moon was made out of madness-inducing wavelengths, with minimal",
+            "　　interference wavelengths. Pure madness sometimes is seen even by humans."
+        ]
+    },
+    "20": {
+        "lines": [
+            "　　It is said that's why ghosts are seen only during night."
+        ]
+    },
+    "22": {
+        "lines": [
+            "　　Highly sensitive humans were affected worst of all, and went mad.",
+            "　　To get to the root of the madness, the person who controlled it",
+            "　　would have to be found, somewhere in Gensokyo..."
+        ]
+    },
+    "26": {
+        "lines": [
+            "　　The tranquil light of the full moon shone down on Gensokyo.",
+            "　　The white of the lake was blacker than black, while the green of the forest",
+            "　　was darker than darkness. Only the mansion's red color became a more deeper shade."
+        ]
+    },
+    "32": {
+        "lines": [
+            "<l$Sakuya:$12345678> \"Going to the moon..."
+        ]
+    },
+    "34": {
+        "lines": [
+            "<l$$12345678\"> Is this meeting even necessary?",
+            "<l$$12345678\"> As a matter of fact, weren't they exiled?\""
+        ]
+    },
+    "37": {
+        "lines": [
+            "<l$Sakuya:$12345678> \"Ah, but they were away for centuries. Is the Lunar",
+            "<l$$12345678\"> Capital really so bad?"
+        ]
+    },
+    "40": {
+        "lines": [
+            "<l$$12345678\"> Or maybe it's just that Gensokyo is so nice?\""
+        ]
+    },
+    "42": {
+        "lines": [
+            "<l$Sakuya:$12345678> \"Well, whatever the case, it's not because of us, Earthlings and youkai."
+        ]
+    },
+    "44": {
+        "lines": [
+            "<l$$12345678\"> It's not like they can escape from here.\""
+        ]
+    },
+    "46": {
+        "lines": [
+            "<l$????:$12345678> \"How naive.\""
+        ]
+    },
+    "50": {
+        "lines": [
+            "<l$Remilia:$12345678> \"So naive and sweet, like the wasanbon sugar.\""
+        ]
+    },
+    "52": {
+        "lines": [
+            "<l$Sakuya:$12345678> \"I am trying to control that.\""
+        ]
+    },
+    "55": {
+        "lines": [
+            "<l$Remilia:$12345678> \"Truth is, humans have already been to the moon.",
+            "<l$$12345678\"> If we just laze around, they'll leave us behind in the dust.\""
+        ]
+    },
+    "59": {
+        "lines": [
+            "<l$Sakuya:$12345678> \"But I'm not a devil, am I? Also, really?\""
+        ]
+    },
+    "63": {
+        "lines": [
+            "<l$Remilia:$12345678> \"Supposedly somebody from the outside world has already landed on the moon.\""
+        ]
+    },
+    "66": {
+        "lines": [
+            "<l$Sakuya:$12345678> \"Who would talk about something so suspicious?"
+        ]
+    },
+    "68": {
+        "lines": [
+            "<l$$12345678\"> Wait, I can probably figure it out without you saying.\""
+        ]
+    },
+    "71": {
+        "lines": [
+            "<l$Remilia:$12345678> \"Hmm...\""
+        ]
+    },
+    "73": {
+        "lines": [
+            "<l$Remilia:$12345678> \"Well then."
+        ]
+    },
+    "75": {
+        "lines": [
+            "<l$$12345678\"> Let's leave for the moon now.\""
+        ]
+    },
+    "78": {
+        "lines": [
+            "<l$Sakuya:$12345678> \"Eh? A trip to the moon? What for?\""
+        ]
+    },
+    "81": {
+        "lines": [
+            "<l$Remilia:$12345678> \"Rabbit hunting.\""
+        ]
+    },
+    "84": {
+        "lines": [
+            "<l$Sakuya:$12345678> \"You said to not be behind the humans, but you",
+            "<l$$12345678\"> also want to do something old fashioned.\""
+        ]
+    },
+    "87": {
+        "lines": [
+            "<l$Remilia:$12345678> \"Quickly, then, make the preparations."
+        ]
+    },
+    "89": {
+        "lines": [
+            "<l$$12345678\"> Wait, how do we even get there? Patchy?\""
+        ]
+    },
+    "93": {
+        "lines": [
+            "<l$Patchy:$12345678> \"..... It's not that simple."
+        ]
+    },
+    "95": {
+        "lines": [
+            "<l$$12345678\"> We'll need a lot of things for this type of magic.\""
+        ]
+    },
+    "98": {
+        "lines": [
+            "<l$Sakuya:$12345678> \"Ah, you're serious about this.\""
+        ]
+    },
+    "101": {
+        "lines": [
+            "<l$Remilia:$12345678> \"If we need materials, we should be able to do it quickly, no?"
+        ]
+    },
+    "103": {
+        "lines": [
+            "<l$$12345678\"> After all, we have somebody very talented.\""
+        ]
+    },
+    "106": {
+        "lines": [
+            "<l$Sakuya:$12345678> \"Let's learn how to say 'maid' properly.\""
+        ]
+    },
+    "109": {
+        "lines": [
+            "<l$Remilia:$12345678> \"Well, what do we need?\""
+        ]
+    },
+    "112": {
+        "lines": [
+            "<l$Patchy:$12345678> \"To start with......"
+        ]
+    },
+    "114": {
+        "lines": [
+            "<l$$12345678\"> we'd need a lightweight yet durable rocket engine.\""
+        ]
+    },
+    "117": {
+        "lines": [
+            "<l$Sakuya:$12345678> \"Such a different world...\""
+        ]
+    },
+    "120": {
+        "lines": [
+            "<l$Patchy:$12345678> \"To put it simply, something that releases energy",
+            "<l$$12345678\"> in a straight line.\""
+        ]
+    },
+    "123": {
+        "lines": [
+            "<l$Remilia:$12345678> \"That does ring a bell.\""
+        ]
+    },
+    "126": {
+        "lines": [
+            "<l$Sakuya:$12345678> \"So it's that for real?\""
+        ]
+    },
+    "129": {
+        "lines": [
+            "<l$Remilia:$12345678> \"I've heard Marisa mention something like that before.\""
+        ]
+    },
+    "132": {
+        "lines": [
+            "<l$Patchy:$12345678> \"Of course... we also need liquid fuel.\""
+        ]
+    },
+    "135": {
+        "lines": [
+            "<l$Remilia:$12345678> \"Blood?\""
+        ]
+    },
+    "138": {
+        "lines": [
+            "<l$Sakuya:$12345678> \"Yes, blood.\""
+        ]
+    },
+    "141": {
+        "lines": [
+            "<l$Patchy:$12345678> \"Blood.\""
+        ]
+    },
+    "143": {
+        "lines": [
+            "<l$Patchy:$12345678> \"Using blood...\""
+        ]
+    },
+    "145": {
+        "lines": [
+            "<l$Sakuya:$12345678> \"Uh, how many things do you think would be necessary for this?\""
+        ]
+    },
+    "148": {
+        "lines": [
+            "<l$Patchy:$12345678> \"For this, given the book, something like a thousand.\""
+        ]
+    },
+    "151": {
+        "lines": [
+            "<l$Remilia:$12345678> \"They sure have made a lot of progress with the magic in the outside world.",
+            "<l$$12345678\"> So, what do we need next?\""
+        ]
+    },
+    "154": {
+        "lines": [
+            "<l$Patchy:$12345678> \"Next, we need... Armstrong.\""
+        ]
+    },
+    "157": {
+        "lines": [
+            "<l$Remilia:$12345678> \"Sakuya, can you take care of that one, please?\""
+        ]
+    },
+    "160": {
+        "lines": [
+            "<l$Sakuya:$12345678> \"How can I get something when I don't even know what it is?",
+            "<l$$12345678\"> A strong arm...?\""
+        ]
+    },
+    "163": {
+        "lines": [
+            "<l$Remilia:$12345678> \"Well, do you want to go to the moon tonight or not?\""
+        ]
+    },
+    "166": {
+        "lines": [
+            "　　The moon had driven them mad."
+        ]
+    },
+    "168": {
+        "lines": [
+            "　　The devils did not seriously think that",
+            "　　the humans have genuinely landed on the moon."
+        ]
+    },
+    "171": {
+        "lines": [
+            "　　It was just not meant to be.",
+            "　　The madness brought forth from the capital of the moon...",
+            "　　The eyes of ordinary people could not see it.",
+            "　　For the real full moon was not visible to them."
+        ]
+    },
+    "176": {
+        "lines": [
+            "　　Sakuya thought she saw a rabbit with crimson eyes of madness in the moon.",
+            "　　Perhaps she just stared so much at it, that it hurt her eyes."
+        ]
+    },
+    "179": {
+        "lines": [
+            "　　Good Ending No. 3",
+            "　　Thanks for playing! (The trial of guts lies ahead...)"
+        ]
+    }
+}

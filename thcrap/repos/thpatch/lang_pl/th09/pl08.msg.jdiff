@@ -1,0 +1,856 @@
+{
+    "50": {
+        "140_1": {
+            "lines": [
+                "Królik nad wodą~?"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Nad jeziorem jest trochę chłodnawo."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Właściwie, tu nie jest chłodno tylko zimno!",
+                "W tym jeziorze nie zakwitnie żaden kwiat."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Nie ma szans, żeby kwiaty zakwitły w jeziorze."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Incydent dotarł aż tutaj, hm?"
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Kwiaty nie rosną, ponieważ jest tu pewna zimna wróżka."
+            ]
+        }
+    },
+    "70": {
+        "140_0": {
+            "lines": [
+                "Trala-trala-trala-la, uroczy taniec~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Zbliża się do mnie, śpiewając..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Prowokacyjne.",
+                "Co za króliczy taniec."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Jest w porządku, tylko i wyłącznie wtedy, kiedy ja śpiewam!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Co? Przy tylu kwitnących kwiatach nie ma",
+                "nic złego w tym, że śpiewam."
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "Zaświaty, co~?",
+                "Jest tu cicho i przyjemnie."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "To rzadkość, słyszeć zwierzę, które mówi, że jest tu przyjemnie."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Wiesz, króliki są wysokiej klasy.",
+                "W przeszłości było wiele wymian z wieloma bogami."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Cóż, są też na księżycu. Zastanawiam się,",
+                "czemu nadal są zadowolone z bycia składnikiem jedzenia."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Mimo tego, że proste zwierzęta z natury",
+                "boją się myśleć o śmierci."
+            ]
+        }
+    },
+    "40": {
+        "140_1": {
+            "lines": [
+                "Aach, w końcu cię znalazłam!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Kuźwa!",
+                "Znalazła mnie~."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Masz jeszcze dużo roboty."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Przestań spacerować i podziwiać ",
+                "kwiaty, wracaj do domu!"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Odwiedzający zdecydowanie nie mają ",
+                "zamiaru przestać przychodzić."
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "W porządku, zrobię to potem~!"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Nie mogę dać się schwytać, póki nie",
+                "znajdę innych rzadkich kwiatów."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Złapałam cię.",
+                "Teraz, chodźmy do domu."
+            ]
+        }
+    },
+    "110": {
+        "140_0": {
+            "lines": [
+                "Ranyyy"
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "To rzadkość, spotkać tu królika."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Ta cała trucizna w okół jest niesamowita.",
+                "To ty ją zrobiłaś?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Niesamowite, niesamowite."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Ehehe."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Rozumiem~. Nie pomyślałam, że jest ktoś, kto jest",
+                "lepszy ode mnie jeśli chodzi o pracę z trucizną."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Właśnie stałaś się bardzo podejrzana."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Hmm. To nie tak."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Konwalia majowa? Jeśli przesiąknę tym smrodem, ",
+                "gdy wrócę do domu, będę zła~"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Zwabiona zapachem konwalii majowej, co?"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Mogę jedynie pobieżnie zgadywać.",
+                "Ale wygląda na to, że trucizna zaczyna działać."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Znam kogoś, kto jest ekspertem w medycynie.",
+                "Nie tylko trucizna, ale też lekarstwa na wszystko."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Jeśli mogłabyś zostawić małą część",
+                "tego pola konwalii majowej dla mnie..."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Trucizna się pomnoży i wróci do ciebie."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Nie oddam ci mojego cennego pola konwalii majowej.",
+                "Możesz sama spróbować, czy moja trucizna jest silna."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Czyli, jak ją spróbuję, i nic mi się nie stanie, umowa stoi, ta♪?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Ale..."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Używasz truciznę tych konwalii, ale nie myślisz",
+                "sobie czasami o robieniu silniejszej trucizny?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Czyli chcesz mieć walkę żeby zobaczyć kto",
+                "jest lepszy w pracy z trucizną?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Brzmi jak dobra umowa, co nie?",
+                "Musisz tylko mi pożyczyć małą cząstkę tego wielgachnego pola."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Nie,",
+                "moje serce nie jest w ogóle złe~."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "To głównie kwiaty, ale zrobiłam też trochę",
+                "lepszej jakości trucizny."
+            ]
+        }
+    },
+    "0": {
+        "170_0": {
+            "lines": [
+                "Och, to tylko królik.",
+                "A szukałam czegoś bardziej unikatowego."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Serioo~? Więc, co powiesz na ",
+                "poszukiwania lśniącego bambusu?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Jeśłi o to chodzi, znalazłam lśniący bambus chwile temu."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Oto i jest!"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Do bambusowego lasu nadal ktoś",
+                "ciągle przyłazi."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Ach, rozumiem.",
+                "Jeśli szukasz rzadkich rzeczy,"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "spróbuj rozpołowić ten bambus."
+            ]
+        }
+    },
+    "20": {
+        "172_0": {
+            "lines": [
+                "Jejku, ma rację!"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Ale zabawa. Ale zabawa!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "U moich stóp są tylko czterolistne koniczyny~!"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Coś innego się tutaj weseli."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Przy tylu kwitnących kwiatach nic nie mogę",
+                "na to poradzić."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "Królik, który skacze tu i tam, w dodatku nad wodą;",
+                "jest jakiś granica dziwactwa, wiesz?"
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "Duma, to po prostu twoja duma.",
+                "Nie ma tu żadnych silnych youkai?"
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "Teraz, gdy zrobiło się cicho, czemu nie zaśpiewać kilka piosenek."
+            ]
+        }
+    },
+    "60": {
+        "140_1": {
+            "lines": [
+                "Dawno temu,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "czy króliki nie latały po niebie?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "To historia.",
+                "Teraz żyjemy z naszymi nogami na ziemi, dzięki ewolucji."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Ach, rozumiem.",
+                "To czemu teraz lecisz, hm~?"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Tak jest, gdy latasz wysoko.",
+                "Kręci mi się w głowie."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "Królik z ziemi spada w chmury~."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "Kwiaty tu wcale nie kwitną i jest nudno.",
+                "Jednak świat żywych był lepszy."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "Gdyby moja Panienka cię tu zobaczyła, ",
+                "bez wątpienia byłabyś upolowana."
+            ]
+        }
+    },
+    "10": {
+        "172_0": {
+            "lines": [
+                "Ale szukanie w nocy to kiepski pomysł."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Nie będziesz wiedzieć czy jest to lśniący",
+                "bambus, jeśli będziesz szukać w dzień."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Jestem pewna, że to było gdzieś tutaj..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Ach, idealnie trafiłaś.",
+                "Chyba gdzieś tutaj był jakiś lśniący bambus."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Do bambusowego lasu nadal ktoś",
+                "ciągle przyłazi."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Lasy bambusowe są labiryntami które mylą ludzi."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Zgubić się jest czymś typowym",
+                "dla żyjących ludzi, nie?"
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Ale byłam pewna, że było coś lśniącego."
+            ]
+        }
+    },
+    "111": {
+        "50_0": {
+            "lines": [
+                "No, to wezmę sobie tą część.",
+                "...Ach, ciężej mi się oddycha."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Pożyczę ci część. Wtedy, jak opuścisz to miejsce,",
+                "poczujesz prawdziwą śmiertelność mojej trucizny."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Ach, w porządku.",
+                "Po prostu wrobię drugiego królika, żeby po to poszła."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Wolno działający zapach bezpośrednio",
+                "wpływa na twój umysł."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "Na czterolistną koniczynę jest szansa jeden na sto ",
+                "tysięcy, więc wcale nie są takie rzadkie."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Może zabiorę ich trochę?",
+                "Może zdarzyć się coś szczęśliwego."
+            ]
+        }
+    },
+    "120": {
+        "143_1": {
+            "lines": [
+                "Kolejny pożądający samobójstwa się zjawił!?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Ktoś ty!?"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "...Ach, to miejsce też jest pełne trujących kwiatów~..."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Co dokładnie dzieje się z Gensokyo?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Jesteś królikiem, aha...",
+                "I na dodatek trucizna krąży po twoim całym ciele."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Haah."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Właśnie to chcę wiedzieć! Myślałam, że w",
+                "końcu mogę odpocząć, a tutaj też jest pełno trucizny."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Rozumiem.",
+                "Jesteś zbyt energiczna na kogoś kto by chciał umrzeć."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Ale mnie nie oszukasz.",
+                "Naprawdę chcesz umrzeć, nieprawdaż?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Hola hola! Wyglądam ci na królika,",
+                "który próbowałby oszukiwać innych~?"
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "W rzece nie powinno być rekinów."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Rzeka Sanzu nie jest zwykłą rzeką.",
+                "Oczywiście, nie składa się z wody słonej ani słodkiej."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Dokładnie tak."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Trucizna właśnie chyba krąży..."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Żeby nawet królik pragnął śmierci,",
+                "co u licha się stało?"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Pełno trucizny?",
+                "To jest Muenzuka... zaraz, co?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Lilie pajęcze czerwone?",
+                "Czemu one teraz kwitną?"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Jeśli tutaj opadnę to tylko stracę na siłach.",
+                "Ale to nie znaczy, że przyszłam tutaj umrzeć!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Ponoć króliki przeprawiają się przez rzeki",
+                "na grzbietach rekinów poprzez oszukiwanie ich."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Jest rzeką zniszczenia, gdzie żyją gatunki morskie,",
+                "co w świecie zewnętrznym wymarły."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Stworzenia, co tam żyją, są stworzeniami przeszłości.",
+                "Od morskich smoków po latimerie, ogromna różnorodność."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Nawet gdybyś przeprawiła się przez rzekę, to i tak",
+                "rekin, którego okantowałaś, by cię zjadł."
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Kwiaty wiśni...!"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Jest cicho, może tutaj uda mi się chwilę odpocząć."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Kwiaty wiśni, co zakwitnęły na fioletowo.",
+                "Kolor niewybaczalnych grzechów."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Sen w ciszy jest myślą żalu."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Rany julek. Daj mi chwilę odpocząć."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Załatwiła mnie konwalia majowa i",
+                "lilia pajęcza czerwona, wiesz~"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Chyba żartujesz~",
+                "Zawsze cierpliwie słucham, co mówią inni."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Chociaż kolor tutejszych kwiatów",
+                "wiśni jest nieco niepokojący..."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Czy powiadasz, że chcesz zasnąć pod",
+                "tymi fioletowymi kwiatami wiśni?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "To całe zamieszanie z kwiatami to przez moją podwładną.",
+                "Ale, ta trucizna... To przez twój pośpiech w działaniu."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Znalazł się snob.",
+                "Co naszą dwójkę wiąże?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Osądzam wasze grzechy po śmierci.",
+                "Przeglądam złe uczynki z twojego życia."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Ach, nasza droga Yama.",
+                "Wybacz mi za moją wulgarność~"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Ponieważ nikt inny tego nie robić, przyszłam tutaj do",
+                "Muenzuki oddać hołd, nawet jeśli muszę to zrobić sama."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Byłabyś tak miła i powiedziała,",
+                "co ode mnie chcesz?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Królik youkai, co żyje swoim rytmem."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Nazywają mnie też najbardziej uroczym",
+                "i najsprytniejszym królikiem w Gensokyo."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Takie pochlebstwa przesłyszy cwany królik."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "W przeciwieństwie do psikusów wróżek,",
+                "ty używasz chwytów poniżej pasa."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Tak, oszukujesz innych nieco za często."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "W tym tempie, ktoś cię oskóruję",
+                "zanim w ogóle będę mogła cię osądzić."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "A jeśli tak się nie stanie, to podczas",
+                "osądu i tak będziesz w złej sytuacji."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Ech, tak nie może~",
+                "Droga Yamo, nie możesz coś na to zdziałać?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Jeśli chociaż trochę swojego czasu poświęcisz na",
+                "rozważenie swoich działań i wykażesz wyrzuty sumienia,"
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "to wtedy będziesz mogła stawić czoła",
+                "mojemu osądowi z ręką na sercu."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Piekło lub niebo.",
+                "Gdzie chcesz pójść?"
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "Skończyły mi się miejsca do przeszukania w",
+                "dwóch wymiarach, więc skorzystałam z trzeciego wymiaru."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "To tak jakby... nieważne gdzie",
+                "polecę, wszędzie tak samo."
+            ]
+        }
+    },
+    "112": {
+        "50_0": {
+            "lines": [
+                "Jeśli padniesz od moich ataków, zanim",
+                "rozejdzie się trucizna, nie ma po co."
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "Pleciesz byle co.",
+                "Nigdy cię nie okłamywałam."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Ach, rany, chcę w końcu odpocząć."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Widzisz, chcesz umrzeć."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Wcale nie."
+            ]
+        }
+    },
+    "122": {
+        "50_0": {
+            "lines": [
+                "Hejka, jeśli tutaj opadniesz z sił, to na",
+                "serio umrzesz. Pośpiesz się i wracaj do domu."
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "Twoje grzechy ot tak nie znikną.",
+                "Oczywiście, udawać martwą nic ci nie da."
+            ]
+        }
+    }
+}

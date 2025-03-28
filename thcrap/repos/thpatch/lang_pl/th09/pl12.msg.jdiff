@@ -1,0 +1,704 @@
+{
+    "50": {
+        "140_0": {
+            "lines": [
+                "To miejsce się nie zmieniło."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "O, ktoś przyszedł!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Ciebie jeszcze nie widziałam.",
+                "Czy rozbijesz się tutaj?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Nie mam aż tyle wolnego czasu.",
+                "Szukanie bijatyk jest niczym kwiat świata żywych."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "O, szukasz jakiejś?"
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "A teraz,",
+                "sprawdźmy kolejne miejsce."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "Aleś słaba.",
+                "W ogóle nie wciągnęłam się w walkę."
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "Czy są tutaj jacyś głupcy, co",
+                "chcą popełnić samobójstwo~?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Czy ty chcesz przestraszyć",
+                "ludzi, czy coś?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Po prostu przyszłam",
+                "sprawdzić to miejsce."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Tak mówisz, ale jest jasne,",
+                "że się po prostu obijasz."
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "Jeśli nie zrobię sobie krótkiej przerwy, to nie",
+                "wytrzymam. Na głowie mam nic oprócz duszy zmarłych."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Nie mam zamiaru popełniać samobójstwa, więc",
+                "pośpiesz się i wracaj już do roboty."
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "Och, czy to nie ten trujący królik?",
+                "Nie chcesz już się zabić?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Czy możesz mnie posłuchać?!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Nic nie mówiłam o zabijaniu się!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Kwiaty bambusa niedługo będą opadać.",
+                "Po prostu bądź cierpliwa."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Nie jest już prawie czas?"
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Kiedy kwiaty wrócą do normy, liczba tych",
+                "z myślami samobójczymi powinna spaść."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "Jeśli zawsze obijasz się podczas pracy,",
+                "jak kwiaty mają wrócić do normy?"
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "W tej okolicy powinno niedługo być normalnie...",
+                "Rany, jest ich dużo. Fantomów."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ach,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Znowu się obijasz. Jeśli nie pracujesz,",
+                "to liczba fantomów nie spadnie, co nie?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ach, czyli pracujesz ciężko, zamiast",
+                "myślenia o zabijaniu się?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Nie mam zamiaru.",
+                "To byłaby tylko strata."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "Gdy widzę tony pracy, które muszę",
+                "zrobić, nieco robi mi się jej dość."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Czy jesteś pewna, że powinnaś tutaj",
+                "marnować czas, obijając się?"
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "W Zaświatach normalnie..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Hm?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Ostatnio powiedziałaś, że tutaj będzie chaotycznie",
+                "czy coś w tym stylu, ale nadal jest w porządku."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Cóż, ciężko nad tym pracuję.",
+                "Ze wszystkich moich sił."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Jest w porządku, jeśli tutaj nie będzie",
+                "się wiele dziać."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "Niedobrze.",
+                "Nie powinnam tutaj marnować czasu."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "Czemu mnie atakujesz?",
+                "Czy naprawdę masz aż tyle wolnego czasu?"
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "Niedługo nie będzie już widać kwiatów bambusa.",
+                "Powinnam je sprawdzić, gdy nadal są."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Hę?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Czy to nie wielki mistrz w obijaniu się?",
+                "Co tym razem nie tak?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ej, od kiedy mam taki tytuł?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Od teraz.",
+                "To mój pomysł."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Cóż, cokolwiek tam wyprawiasz jest w porządku,",
+                "tak długo, jak nie popadniesz w przygnębienie."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Przygnębienie zaślepi ci oczy.",
+                "Stworzy zawiść i próżność."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Ponadto, będziesz próbować to uzasadniać",
+                "i twój umysł się ograniczy."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Przygnębieni ludzie zostaną, prędzej",
+                "czy później, odizolowani."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Po tym, jak zaczną uzasadniać izolację i plotkować za plecami",
+                "innych, staną się zbyt wielkim problemem i zostaną porzuceni."
+            ]
+        },
+        "55_0": {
+            "lines": [
+                "Kazania to możesz na później, nie",
+                "powinnaś w końcu wrócić do pracy?"
+            ]
+        },
+        "56_0": {
+            "lines": [
+                "Ups. Wygląda na to, że kazania",
+                "szanownej Pani Shiki odbiły się na mnie."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Jak miło.",
+                "Bycie shinigami brzmi fajnie."
+            ]
+        }
+    },
+    "90": {
+        "140_0": {
+            "lines": [
+                "Ach, tutejsza sytuacja z kwiatami",
+                "i fantomami wcale się nie poprawiła..."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Cóż, po jakimś czasie będzie lepiej."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "W moim tempie.",
+                "W moim tempie."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Och,"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "ty nadal się obijasz, co nie?"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Jesteś tutaj, zaś rzeka Sanzu tak daleko."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Hej, ja po prostu przyszłam sprawdzić to miejsce.",
+                "Stan fantomów i kwiatów."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Sprawdzanie miejsc wcale nie przyspieszy",
+                "twojej pracy, co nie?"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Cóż, jeśli dusze nie zostaną przeprawione do końca",
+                "wiosny, to słoneczniki też się zmęczą, rozumiesz?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Bedzie w porządku.",
+                "Na pewno wyrobię się przed latem."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Cóż, wolę być ostrożna w mojej pracy."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Dziwne, jak się na ciebie patrzę, to mi",
+                "przypominasz kogoś innego."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Ten brak troski i lenistwo co do pracy."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Kto jest tą kapłanką?!"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "A, racja.",
+                "To ją mi przypominasz."
+            ]
+        }
+    },
+    "91": {
+        "50_0": {
+            "lines": [
+                "Wszystkie dusze, co są w tych kwiatach, są wesołymi",
+                "duszami. Długo im nie zajmie zrozumienie, że są martwe."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Ach, naprawdę? Myślałam, że",
+                "tym wesołym zajmie to więcej czasu."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Ci, co nie są przygnębieni, mają szersze horyzonty.",
+                "Dlatego łatwiej się przyzwyczają do rzeczy."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "„Ach, umarłem. Ahahaha~”.",
+                "Coś w tym stylu."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Bardziej brzmią na głupków, niż wesołych."
+            ]
+        }
+    },
+    "92": {
+        "50_0": {
+            "lines": [
+                "Nawet słoneczniki męczą się",
+                "podczas zakwitania."
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "Okej, w porządku, sprawdziłam całe Gensokyo."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Cóż, jakoś tam będzie."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "W moim tempie.",
+                "W moim tempie."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Coś beztroska jesteś."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "W ogóle nie widać, żeby liczba fantomów",
+                "się zmniejszała, wiesz~?"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Och?",
+                "Znowu chcesz się zabić?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Tyle razy ci powiedziałam, jak się ",
+                "zabijesz, to nikt nie będzie cię opłakiwał."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Przemyśl to sobie."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Że kto ma się zabijać? ",
+                "Czy chcesz, żebym popełniła samobójstwo?"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Jeśli nie, to dobrze, po prostu nie",
+                "przeszkadzaj mi w pracy."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Raczej nie wyglądasz na taką, co pracuje."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Przyszłam tutaj sprawdzić, ponieważ kwiaty nie",
+                "wróciły do normy, nieważne ile bym czekała."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Jeśli nie weźmiesz się do roboty, to będzie",
+                "wyglądało, jakbym <i$ja> się znowu leniła."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "To dlatego, że jesteś wielkim mistrzem",
+                "w obijaniu się. To twój tytuł."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "A kto się obija?",
+                "Przestań gadać rzeczy co mówi Marisa."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Hej, znowu się obijasz!"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Ups, chyba za bardzo się zrelaksowałam."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Cóż.",
+                "Ta lekka przerwa pozwoli mi lepiej pracować."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Każdy leniuch ma tą samą wymówkę."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "Przestań kombinować i przewieź w końcu",
+                "te fantomy do Higan!"
+            ]
+        }
+    },
+    "130": {
+        "141_0": {
+            "lines": [
+                "Dzisiaj się naharowałam."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Hah."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Skoro tyle pracowałam, fantomów niedługo będzie",
+                "mniej, a kwiaty wrócą do normy."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "O nie!"
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Że niby się naharowałaś?"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Od pewnego czasu w ogóle nie",
+                "przeprawiłaś się przez rzekę."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "A, no cóż, tego...",
+                "Te dusze, co miałam przeprawić..."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Co z tymi duszami?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Te dusze były... no tego, domolubami,",
+                "pełnymi zawiści za życia."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Znikły, zanim przeprawiłam się",
+                "z nimi przez rzekę."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Co za kiepska wymówka."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Inne Yamy otrzymywały dusze, ale ja",
+                "nie dostałam ani jednej."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Miałam wiele wolnego czasu, więc powróżyłam sobie",
+                "z płatków. Przyjdą, nie przyjdą, przyjdą, nie przyjdą..."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "I jak?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Oczywiście, że nie przyszły.",
+                "Ponieważ próżnujesz."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Posłuchaj."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "My osądzamy grzechy dokonane za życia."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Ci, co sądzą grzechy, muszą być bezstronni."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Tak, zbyt wiele wymówek sobie robisz."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Przepraszam! Przepraszam!"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "W tym tempie, jeśli nie dam ci nauczki,",
+                "to nie zrozumiesz tego."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Jeśli czegoś z tobą nie zrobię, to",
+                "nie będę uważana za sprawiedliwą."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Przepraszam!",
+                "Już nie będę, zacznę ciężko pracować~!"
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Czy chciałabyś doświadczyć mojego",
+                "osądu ten jeden raz?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "To powinno cię zdyscyplinować.",
+                "Strach przed moim osądem."
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "A teraz wracaj do pracy.",
+                "Czy teraz nie jest dobra pora na to?"
+            ]
+        }
+    }
+}

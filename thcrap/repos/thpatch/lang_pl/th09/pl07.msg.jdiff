@@ -1,0 +1,837 @@
+{
+    "50": {
+        "140_0": {
+            "lines": [
+                "Wypijesz nieprzegotowaną wodę. to będzie boleć cię brzuch~♪",
+                "Wypij wodę z jeziora, to czeka cię przeprawa przez Sanzu~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Co my tutaj mamy?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Jesteś wróżką?",
+                "Moja pieśń ma przywabiać ludzi!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Kto u licha by przyszedł nad taflę jeziora?!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Całkiem głośny ktoś."
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "To miejsce to nie wypał.",
+                "Nie ma ludzi i w ogóle nie jest fajnie."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "Ostatnio wszyscy dziwni.",
+                "Może to przez wiosnę."
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "Trala-trala-trala-la, króliczy taniec～♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Trala-trala-trala-la, uroczy taniec~♪"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Pojawił się wesoły ptak potwór."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Nie wabiłam żadnych królików."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Ale śpiewałaś króliczą piosenkę, nie?"
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Nieważne gdzie polecę, krajobraz jest taki sam."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "Wróble nie dostaną mojego szczęścia!"
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "W chmurach jest okres Mach～♪",
+                "Smakuje jak Westernizacja～♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Co za rzadkość."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Przyleciał ptaszek aż tutaj, ponad chmury."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Hę? Coś właśnie czułam, że jest dziwnie",
+                "przejrzyście jak na miejsce tak wysoko."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Nic dziwnego, że moje skrzydła robią się zimne～♪"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Chcesz wyzwać mnie na pojedynek",
+                "muzyczny i przegrać?"
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "Jak jestem nad chmurami, to nie",
+                "zwabię żadnych ludzi."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "Ach, dźwięk wiatru, gdy spada ptak.",
+                "Jak wymyślny i cudowny."
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "„Ileee nocy pozostało do no-we-go ro-ku?♪”"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Słyszę niecierpliwą piosenkę..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "„Nadal wiosna, więc jak się nie wyśpisz, to nowy rok nie przyjdzie.”",
+                "Skąd pochodzi ta piosenka?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Nie, ludzie pójdą spać raz i jeb, nowy rok!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Hmf. Przyszedł potwór!"
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "Zaśnij raz na tej drodze, a nie",
+                "obudzisz się do kolejnego nowego roku~"
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "Ach, to był tylko ptak...",
+                "Zbytnio się pospieszyłam."
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "O czym mówisz, Panie Króliku~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Kto...?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Słyszałam coś, co brzmiało jak śpiew,",
+                "jak rozmowa..."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Stworzenia, co pełzają po ziemi, nie mogą",
+                "się równać tym, co fruwają w powietrzu."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Atakuje ptaszek!?"
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "W okolicy ani jednego człowieka..."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Nawet te ptaki potwory latają dookoła. Czy",
+                "dzisiaj jemy drobiowy hotpot?"
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "Świat wróżek owinięty smutkiem~",
+                "Pokryty czarną, żyzną glebą~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "To rock, nie?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Ale jest trochę głośny."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Hałas oznacza ciszę~"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Ach, zamknij się już!"
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Jeśli chcesz cichej pieśni, to po",
+                "prostu idź sobie poczytaj sutrę!"
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Chciałam się zabawić podczas podziwiania kwiatów,",
+                "ale jak już ktoś się bawi, to mi niszczy humor."
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "Osoba, osoba, osoba!",
+                "Czas porwać ludziiii♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Serio jest wiosna."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Celem youkai jest jeść ludzi!",
+                "A ty jesteś człowiekiem, co nie?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Przykro mi, ale pokojówką,",
+                "co eksterminuje youkai."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Pełno youkai. Dziwnych youkai."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "Szkoda, pokojówka.",
+                "Lepiej porywać ludzi."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Gensokyo pokryte tymi kwiatami. Jeśli tych youkai",
+                "będzie pełno, to będę miała tego dość."
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "Z drogi, z drogi, ten ptak jest potężny~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Co do?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Nie śpiewaj tej niepokojącej pieśni za dnia."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Podczas podziwiania kwiatów zawsze się śpiewa~♪"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Nie odpowiadaj mi śpiewem."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Jesteś w zasięgu słuchu mojej pieśni,",
+                "to twój problem."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "Ptaszek spotyka swego stwórcę.~♪",
+                "Ups, zaśpiewałam coś"
+            ]
+        }
+    },
+    "3": {
+        "140_0": {
+            "lines": [
+                "Mam dosyć latania dookoła~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "To dziwne."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Nieważne, gdzie polecę, incydent jest wszędzie",
+                "taki sam... Zaraz, ptak?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "To prawda; nieważne gdzie pójdziesz,",
+                "wszędzie tak samo~"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Ach, ptaki, wróżki, króliki...",
+                "Czy tutaj nie ma czegoś innego?!"
+            ]
+        }
+    },
+    "4": {
+        "50_0": {
+            "lines": [
+                "Jeśli wszędzie jest tak samo, to fajnie",
+                "byłoby pójść tam, gdzie normalnie nie bywasz~."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Cóż, tam zwykle nie ma ludzi, więc",
+                "tam sama nie bywam."
+            ]
+        }
+    },
+    "5": {
+        "50_0": {
+            "lines": [
+                "Tutaj nic nie ma...",
+                "Sprawca tego incydentu powinien..."
+            ]
+        }
+    },
+    "110": {
+        "140_0": {
+            "lines": [
+                "Nawet jeśli mam ranne skrzydła i spadam~♪"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Nie mogę tutaj spać～",
+                "Konwalia majowa marzy sobie～♪"
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Oj, głośna to ty jesteś."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Tylko jakiś dziwak lub ktoś żałosny",
+                "przylazłby na pole kwiatów śpiewając."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Za dużo osób wtrąca się w mój śpiew.",
+                "Jeśli nie będę śpiewać to umrę."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Nie kłam.",
+                "To nie jest prawdą."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Poza tym, ci, co mówią takie rzeczy,",
+                "zwykle śpiewają bardziej ulotne piosenki."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Czemu tak intensywnie?",
+                "Czemu tak energicznie?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Pieśni są źródłem wigoru."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Jeśli zaśpiewam smutną, to wszyscy",
+                "poczują sentyment."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Jak by do tego doszło, to równie dobrze mogłabym",
+                "zaśpiewać piosenkę, co doprowadza do samobójstw!"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Ale twoje piosenki mnie męczą."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Więc zaśpiewam ci na radość.",
+                "Trucizno konwalii majowych～♪"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Żadnego śpiewu!"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Zataczaj koła na moim rannych skrzydłach~...",
+                "...Ech, ach, aaaahhh~..."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Hehehe, trucizna w końcu zaczyna działać."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Te wielkie skrzydła, co łatwo pochłaniają truciznę.",
+                "Twój ciągły ruch i pośpiech to spowodował."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "A teraz, zaśnij na tym wzgórzu konwalii",
+                "majowych, pokryta delikatną trucizną!"
+            ]
+        }
+    },
+    "111": {
+        "50_0": {
+            "lines": [
+                "Teraz czas na ucieczkę~!",
+                "To miejsce jest trujące i niebezpieczne~!"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Po co tutaj przyszłaś?",
+                "Czy ja nie jestem w tym wszystkim ważna?"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Ani trochę!"
+            ]
+        }
+    },
+    "112": {
+        "50_0": {
+            "lines": [
+                "Gdy do twoich nerwów dotrze trucizna,",
+                "nawet ty będziesz śpiewać ulotne piosenki."
+            ]
+        }
+    },
+    "90": {
+        "140_0": {
+            "lines": [
+                "Słoneczniki się kręcą, słoneczniki się obracają,"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Słoneczniki zataczają koła, atak ciałem～♪"
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Zaś ptak będzie smażony z przyprawami~♪"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Ktoś ty?!",
+                "Ot tak kontynuujesz czyjąś piosenkę?!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Oh, wybacz mi."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Wyglądałaś na tak zadowoloną, że",
+                "odruchowo kontynuowałam."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "To ludzie mają być smażeni z przyprawami."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Ale skąd wiedziałaś, że dalej w piosence są przyprawy?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Ehehehe.",
+                "Jest takie sobie przysłowie."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Że piosenka co śpiewasz sobie nie jest od ciebie, ale",
+                "raczej śpiewasz piosenkę, co śpiewa przytłumiony głos."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "To dlatego wiedziałam, co jest potem."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Ale jak to?",
+                "Sama napisałam tą piosenkę."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Udowodnię ci, przewidując następną zwrotkę."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Słoneczniki się kręcą, słoneczniki się obracają..."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Oczywiście, bo to jest refren."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Patrz, rozejrzyj się dookoła,"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "słoneczniki zataczają koła..."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Aaaa!",
+                "Słoneczniki one, słoneczniki one~"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "A więc, pamiętasz co jest potem?",
+                "Tam jest spisany twój los."
+            ]
+        }
+    },
+    "91": {
+        "50_0": {
+            "lines": [
+                "To miejsce też jest nie dobre~",
+                "Musze uciekać bo inaczej~!"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Po co tutaj przyszłaś?"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Po prostu śpiewam i latam sobie w spokoju~"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Jeśli będziesz tak śpiewać, będzie coraz",
+                "więcej i więcej głosów dusz, aż w końcu..."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Znajdziesz kogoś, kto będzie dla ciebie",
+                "zbyt mocny. Prędzej czy później."
+            ]
+        },
+        "55_0": {
+            "lines": [
+                "Miłego dnia."
+            ]
+        },
+        "56_0": {
+            "lines": [
+                "W nogi~"
+            ]
+        }
+    },
+    "92": {
+        "50_0": {
+            "lines": [
+                "Słoneczniki się kręcą, atak ciałem～♪",
+                "Zaś ptak będzie smażony z przyprawami～♪"
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Kwiaty wiśni~ Kwiaty wiśni~♪"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "W chramie, na wzgórzu i gdzie indziej nie spojrzysz～♪"
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Sprzeciwiaj się grzechom, nie ludziom."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Fioletowe kwiaty wiśni potrzebują nieskończenie",
+                "wiele czasu, aby uratować ludzi od ich grzechów."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Deszcz płatków wiśni."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Gdy grzeszników za dużo,",
+                "kwiaty wiśni płaczą."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Mgła lub chmura~ zapach w Higan♪"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Słuchaj innych, jak mówią coś!",
+                "Ludzie zwykle mówią dobre rzeczy."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Oh?",
+                "Ktoś tutaj był?"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Tutejsze kwiaty wiśni zwykle teraz nie kwitną.",
+                "Ponadto, to miejsce to Muenzuka."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Te kwiaty wiśni nie są dla podziwiania ich."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Twe pieśni to hałas, co tutaj nie pasuje."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Co do jasnej.",
+                "Nieważne gdzie pójdę, zakazują śpiewu."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "To nie kwiatowy incydent, jeśli nie jest wesoło."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Nie rozumiesz mocy swoich pieśni."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Pieśń czasami uspokaja dusze,",
+                "ale czasami je ożywia."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Tak, nieco zbyt mącisz."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Jeśli będziesz nadal bezmyślnie śpiewać,",
+                "dusze wokół ciebie staną się dziwne."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "To może doprowadzić do wyjątkowego",
+                "grzechu śmiertelnego."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "C-czy ty próbujesz mnie pouczyć?",
+                "Wejdzie mi jednym uchem i wyjdzie drugim!"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Musisz zostać przez nas skarcona."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Tak myślałam.",
+                "Jesteś ptakiem, a ptaki mają małe głowy."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "W deszczu spadających fioletowych kwiatów",
+                "wiśni, odbędzie się requiem!"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "Spadają fioletowe kwiaty wiśni...",
+                "Grzechy są wybaczane, kawałek po kawałku..."
+            ]
+        }
+    }
+}

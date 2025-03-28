@@ -1,0 +1,309 @@
+{
+    "8": {
+        "lines": [
+            "　　The bamboo forest of Eientei."
+        ]
+    },
+    "10": {
+        "lines": [
+            "　　The bamboo in the forest grew quickly, causing it to constantly change.",
+            "　　Even one who knows it can get lost.",
+            "　　Past the bamboo maze, they stumbled upon a clearing,",
+            "　　wherein the moonlight shone down on a beautiful old estate."
+        ]
+    },
+    "14": {
+        "lines": [
+            "　　The mansion was huge and ancient,",
+            "　　pretty much no one in Gensokyo knew of its existence."
+        ]
+    },
+    "17": {
+        "lines": [
+            "　　Perhaps it was merely an illusionary deception?"
+        ]
+    },
+    "21": {
+        "lines": [
+            "<l$Marisa:$12345678> \"Finding this old place was pretty fun, don'tcha think?\""
+        ]
+    },
+    "24": {
+        "lines": [
+            "<l$Alice:$12345678> \"I swear, I never should have come with you.\""
+        ]
+    },
+    "27": {
+        "lines": [
+            "<l$Marisa:$12345678> \"Well, have fun getting lost trying to find your way back!\""
+        ]
+    },
+    "30": {
+        "lines": [
+            "<l$Alice:$12345678> \"Alone, in *this* forest? You're not getting out.\""
+        ]
+    },
+    "33": {
+        "lines": [
+            "<l$Marisa:$12345678> \"Wow, seeing these ancient ruins, I feel like",
+            "<l$$12345678\"> an archeologist at an excavation.\""
+        ]
+    },
+    "36": {
+        "lines": [
+            "<l$Alice:$12345678> \"So now we're grave robbers? Let's go home.\""
+        ]
+    },
+    "39": {
+        "lines": [
+            "<l$Marisa:$12345678> \"Let's go in.",
+            "<l$$12345678\"> What fun do you expect to have out here?\""
+        ]
+    },
+    "44": {
+        "lines": [
+            "<l$Reisen:$12345678> \"Whoa, hold it!\""
+        ]
+    },
+    "47": {
+        "lines": [
+            "<l$Marisa:$12345678> \"Someone came out.\""
+        ]
+    },
+    "50": {
+        "lines": [
+            "<l$Reisen:$12345678> \"Of course I did, this is *my* home!"
+        ]
+    },
+    "52": {
+        "lines": [
+            "<l$$12345678\"> What are you up to, sneaking in here like that?\""
+        ]
+    },
+    "55": {
+        "lines": [
+            "<l$Marisa:$12345678> \"I just came to have a look. We're not going anywhere."
+        ]
+    },
+    "57": {
+        "lines": [
+            "<l$$12345678\"> I'm a witch most of the time, except when I'm an archeologist."
+        ]
+    },
+    "59": {
+        "lines": [
+            "<l$$12345678\"> I'm doing archeological work right now, so are",
+            "<l$$12345678\"> you going to let us in or not?\""
+        ]
+    },
+    "62": {
+        "lines": [
+            "<l$Reisen:$12345678> \"Hmph, even if you are an archeologist, I can't just let you in!"
+        ]
+    },
+    "64": {
+        "lines": [
+            "<l$$12345678\"> Wait, if you're a witch, I don't see how you can be",
+            "<l$$12345678\"> an archeologist too...\""
+        ]
+    },
+    "67": {
+        "lines": [
+            "<l$Marisa:$12345678> \"Archeologist, grave robber, same thing.\""
+        ]
+    },
+    "70": {
+        "lines": [
+            "<l$Reisen:$12345678> \"Grave robber?!\""
+        ]
+    },
+    "72": {
+        "lines": [
+            "<l$Reisen:$12345678> \"Go away! This isn't a tomb, anyway...\""
+        ]
+    },
+    "75": {
+        "lines": [
+            "<l$Marisa:$12345678> \"Ah, correction, we're thieves.\""
+        ]
+    },
+    "78": {
+        "lines": [
+            "<l$Reisen:$12345678> \"Shut up.\""
+        ]
+    },
+    "81": {
+        "lines": [
+            "<l$Alice:$12345678> \"You shouldn't have said that, Marisa. Maybe something like",
+            "<l$$12345678\"> 'We're here for our appointment' would have worked better.\""
+        ]
+    },
+    "85": {
+        "lines": [
+            "<l$Marisa:$12345678> \"It's fine, it's always like this.\""
+        ]
+    },
+    "88": {
+        "lines": [
+            "<l$Alice:$12345678> \"...No matter where, treated like this.\""
+        ]
+    },
+    "92": {
+        "lines": [
+            "<l$Kaguya:$12345678> \"Oh, we have guests?",
+            "<l$$12345678\"> It's been ever so long since we've had company.\""
+        ]
+    },
+    "95": {
+        "lines": [
+            "<l$Reisen:$12345678> \"They're just thieves.\""
+        ]
+    },
+    "98": {
+        "lines": [
+            "<l$Kaguya:$12345678> \"Even thieves are a rarity here."
+        ]
+    },
+    "100": {
+        "lines": [
+            "<l$$12345678\"> Inaba, go fetch the four seasons tea and serve our guests.\""
+        ]
+    },
+    "103": {
+        "lines": [
+            "<l$Marisa:$12345678> \"You don't have to do all that.\""
+        ]
+    },
+    "106": {
+        "lines": [
+            "<l$Alice:$12345678> \"This thief is so self-important.\""
+        ]
+    },
+    "109": {
+        "lines": [
+            "<l$Reisen:$12345678> \"Are we really going to treat these people as if they're guests?\""
+        ]
+    },
+    "112": {
+        "lines": [
+            "<l$Kaguya:$12345678> \"I've been in hiding for ages."
+        ]
+    },
+    "114": {
+        "lines": [
+            "<l$$12345678\"> But I never knew there were Earthlings",
+            "<l$$12345678\"> that were as powerful as those on the Moon,"
+        ]
+    },
+    "116": {
+        "lines": [
+            "<l$$12345678\"> So, I'd like to ask about Gensokyo.\""
+        ]
+    },
+    "119": {
+        "lines": [
+            "<l$Marisa:$12345678> \"It's a real nice place.\""
+        ]
+    },
+    "122": {
+        "lines": [
+            "<l$Alice:$12345678> \"Marisa, you just had to explain it briefly, hadn't you?\""
+        ]
+    },
+    "125": {
+        "lines": [
+            "<l$Marisa:$12345678> \"This here's the person who swapped our moon for that fake one.\""
+        ]
+    },
+    "128": {
+        "lines": [
+            "<l$Alice:$12345678> \"Here youkai are rampant, in this carefree and pleasant place.",
+            "<l$$12345678\"> Say, do you think we could continue this after we finish our tea?\""
+        ]
+    },
+    "132": {
+        "lines": [
+            "<l$Kaguya:$12345678> \"Strange, isn't it?"
+        ]
+    },
+    "134": {
+        "lines": [
+            "<l$$12345678\"> I *do* remember the Earth being populated by numerous youkai."
+        ]
+    },
+    "136": {
+        "lines": [
+            "<l$$12345678\"> However..."
+        ]
+    },
+    "138": {
+        "lines": [
+            "<l$$12345678\"> I don't remember there being this many humans.",
+            "<l$$12345678\"> When did the youkai stop feasting upon them?\""
+        ]
+    },
+    "140": {
+        "lines": [
+            "<l$Kaguya:$12345678> \"It was such a constrained world...\""
+        ]
+    },
+    "143": {
+        "lines": [
+            "<l$Marisa:$12345678> \"They didn't. Even now, can't tell who wants me for dinner.\""
+        ]
+    },
+    "146": {
+        "lines": [
+            "<l$Alice:$12345678> \"You're such a disgrace to your own race",
+            "<l$$12345678\"> that I'd rather starve to death than eat you.\""
+        ]
+    },
+    "149": {
+        "lines": [
+            "<l$Kaguya:$12345678> \"It's quite interesting how humans and youkai interact."
+        ]
+    },
+    "151": {
+        "lines": [
+            "<l$$12345678\"> This little evening chat has been fascinating indeed.\""
+        ]
+    },
+    "154": {
+        "lines": [
+            "<l$Reisen:$12345678> \"Please don't forget that they're thieves.\""
+        ]
+    },
+    "157": {
+        "lines": [
+            "<l$Marisa:$12345678> \"I'm an archeologist!\""
+        ]
+    },
+    "160": {
+        "lines": [
+            "　　In fact, the waning moon wasn't the real one.",
+            "　　Now, the true full moon shines brightly upon Gensokyo,",
+            "　　bewitchingly restoring the land's power."
+        ]
+    },
+    "164": {
+        "lines": [
+            "　　Kaguya and her entourage decided to stay in Gensokyo.",
+            "　　Within its protective barrier,",
+            "　　they were safe from any Lunarians pursuing her.",
+            "　　And with no need for a fake moon, the true moon was returned."
+        ]
+    },
+    "168": {
+        "lines": [
+            "　　Those who came from the cosmos to Gensokyo were not outsiders.",
+            "　　instead, they were considered its inhabiants; Kaguya and the others",
+            "　　would quickly adapt to life in Gensokyo."
+        ]
+    },
+    "171": {
+        "lines": [
+            "　　Good Ending No. 2",
+            "　　Thanks for playing! (The trial of guts lies ahead...)"
+        ]
+    }
+}

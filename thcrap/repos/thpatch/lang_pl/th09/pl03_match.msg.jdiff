@@ -1,0 +1,168 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "Skoro jesteś taka beztroska,",
+                "zastanawiam się, czy incydent się pogarsza?"
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "Czy ludzie z twojego domu nic nie mówili o tym incydencie?"
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "Twój chłód czy mrożąca temperatura fantomów.",
+                "Czy powinnam sprawdzić, która z nich jest zimniejsza?"
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "Ach, czy będziesz na bankiecie?",
+                "Jeśli nie przyjdziesz, Panienka będzie zła."
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "Nie mogę się doczekać bankietu.",
+                "Przyjdziesz, co nie?"
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "Gdzie będzie wasz koncert tym razem?",
+                "Na polach słonecznikowych?"
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "Przystawka na dzisiejszy wieczór to....",
+                "Hej, dlaczego nagle pomyślałam o kolacji?"
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "Dlaczego twoje włosy są czarne?"
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "Niewątpliwie wszyscy są zbyt zajęci, by czytać gazety."
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "Może Panienka Yuyuko coś wie..."
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "Nie myśl tylko o weseleniu się,",
+                "nie możesz też trochę zbadać ten incydent?"
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "Tak jest, twój pan nie powiedział nic",
+                "na temat tego incydentu."
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "Na drodze fantomów spotkałam śmierć."
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "Myślałam, że fantomy nie są zbyt wrażliwe na",
+                "trucizny... Ale okazało się, że jednak są."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Ciekawe, skąd ją absorbujemy?"
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "Jak się na ciebie patrze, to kogoś mi przypominasz.",
+                "Tym beztroskim zachowaniem i tym czerwono-białym ubiorem."
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "Dziękuje za twój wysiłek.",
+                "Jak ostatnio miewają się dusze?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Czy są ludzie, co od początku mogą iść do nieba?"
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "Ach, wybacz za kłopoty co sprawiłam."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Dzięki tobie, rozumiem, dlaczego",
+                "istnieje Hakurouken."
+            ]
+        }
+    },
+    "131": {
+        "50_0": {
+            "lines": [
+                "Ach, racja.",
+                "Moja Panienka jest duchem..."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Czemu nie jest w stanie osiągnąć nirwany...?"
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "Zabawa tutaj to strata czasu."
+            ]
+        }
+    }
+}

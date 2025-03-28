@@ -1,0 +1,922 @@
+{
+    "70": {
+        "140_0": {
+            "lines": [
+                "Słyszę śpiew hałaśliwej piosenki."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Pięciu muzyków dworskich～♪"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Straciło swe głowy～♪"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Hej. Zapomniałaś, co ci powiedziałam?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Eh?",
+                "Że niby kiedy?!"
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "Koniec końców, prawić kazania",
+                "ptakowi to tylko strata czasu."
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "Jesteś tak okrutna, przerywając",
+                "moją pieśń."
+            ]
+        }
+    },
+    "50": {
+        "140_0": {
+            "lines": [
+                "Przyszłam zobaczyć,",
+                "jak ci idzie."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Przyszła ta zrzęda."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Mam nadzieję, że wzięłaś sobie",
+                "do serca to, co powiedziałam?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Nie, szczerze niezbyt zrozumiałam."
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Cóż, z wróżkami nic nie poradzę.",
+                "I tak nie mają zbyt wielkiej duszy czy umysłu."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "Niezbyt dobrze czuje się,",
+                "więc pójdę sobie na chwilę."
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "Gdzieś tutaj słyszę dźwięk iluzji."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ach, ty jesteś tą,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "co lubi prawić kazania..."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Przyszłam sprawdzić, czy kierujesz się tym,",
+                "co ci wtedy powiedziałam."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Przypomnij, co dokładnie powiedziałaś?"
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "Bardziej ulotne niż fantomy są poltergeisty.",
+                "Wystarczy podmuch i znikną."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "Ach, czy było to coś z ograniczeniem",
+                "smażonego jedzenia?"
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "Więc żyje w tym domu."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ach, widzę, że przyszła szanowna Yama."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "O co chodzi?",
+                "Coś się stało?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Przyszłam sprawdzić, czy zrozumiałaś to,",
+                "co ci powiedziałam."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Ta twoja lekcja...",
+                "Była zbyt wielką abstrakcją, abym ją zrozumiała."
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "Na to wygląda."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Wygląda na to, że będziesz musieć żyć",
+                "ze świadomością swoich grzechów."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Cóż, żyję sumiennym życiem, więc raczej",
+                "ci nie przeszkadzam."
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "Zaświaty na serio są beztroskie.",
+                "Mimo tego, że obecnie wiele się dzieje w Higanie."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Och,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "czy to nie szanowna Yama we własnej osobie.",
+                "Jeśli przyszłaś aż do Zaświatów, to musi być coś ważnego."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Wcale nie, po prostu przyszłam sprawdzić,",
+                "czy zrozumiałaś, co ci powiedziałam."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Tak, jestem pewna, że tak.",
+                "Patrz, nawet umiem nalać pysznej herbaty."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "Czy ja ci to mówiłam?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Posłuchaj,",
+                "twój miecz jest w stanie odciąć wątpliwości."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Ludzie, co ich nie mają, są w stanie",
+                "osiągnąć oświecenie."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "To tak, jakbyś pomogła komuś",
+                "osiągnąć nirwanę."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Biorąc pod uwagę twój obecny sąd,",
+                "nie możesz im tak pomagać."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "To dlatego, że tylko tyle uczy mnie",
+                "Pani Yuyuko."
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "Nigdy nie gubię się w lesie bambusowym."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Już kiedyś widziałam tę twarz."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Przyszłam sprawdzić, czy wzięłaś",
+                "sobie do serca to, co ci powiedziałam."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Ach, oczywiście.",
+                "Od wtedy żyję szczerym życiem."
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Nadal tyle kłamiesz. Szczerze to nie wiem, czy",
+                "nie dostanie ci się od kogoś przed moim osądem."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "Cóż, na mnie już pora~."
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "Komachi, tyle jeszcze zostało.",
+                "Żadne mi „fantomów już prawie nie ma”."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Och,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "powinnaś więcej kazać swoim podwładnym.",
+                "Jakoś nie widzę, żeby kwiaty wracały do normy."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Tak zrobię.",
+                "Więc, czy stałaś się nieco milsza?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Moje ciało teraz może pić dobrą herbatę."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "Dobrze jest dbać o swoje ciało, ale",
+                "skup się na całokształcie."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Bardziej jednak martwię się, czy kwiaty",
+                "wrócą do normy."
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "Znalezienie ludzi, co ciągle się poruszają",
+                "to taka udręka."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "O kim mówisz?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Ja mam podobny problem."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "O, jesteś.",
+                "Jak ci idzie trzymanie się moich kazań?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Powiedziałam ci już, nigdy nie skłamałam."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Nie ma takich ludzi, co nigdy nie skłamali."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Co oznacza, że ci, co są w stanie tak odważnie",
+                "powiedzieć, że nigdy nie kłamali, to są ci, co kłamią."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Narka, muszę gdzieś się udać."
+            ]
+        }
+    },
+    "100": {
+        "140_0": {
+            "lines": [
+                "Tengu powinny być gdzieś tutaj."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ach, czy ty jesteś"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Yamą we własnej osobie?",
+                "Co się stało tym razem?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Przyszłam sprawdzić, czy zrozumiałaś to,",
+                "co ci powiedziałam."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Oczywiście. Pomyślałam o",
+                "swojej gazecie na swój własny sposób."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Tak. Zapytam więc jeszcze raz."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Dlaczego istnieją gazety?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Pisząc artykuł, zmienia się prawda."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Wpisując tę zmienioną prawdę do artykułu,",
+                "ta prawda zmienia się po raz kolejny."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Napisanie artykułu bez zrozumienia tego to jest",
+                "zadanie głupca, ale jeśli ktoś rozumie ten fakt,"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "to wychodzi, że gazety mają moc zmieniania prawdy."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Więc, jak masz zamiar tworzyć swoją gazetę?"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Będę pisać, aby zreformować świat.",
+                "Zmienię prawdę i polepszę ten świat."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Blisko, ale niezupełnie.",
+                "30 punktów."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "30 punktów to blisko?"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Musisz się zastanowić nad tym",
+                "nieco bardziej."
+            ]
+        }
+    },
+    "101": {
+        "51_0": {
+            "lines": [
+                "Musisz być też przygotowana na wszystkie problemy",
+                "z wydarzeń spowodowanych twoimi artykułami."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Dlaczego ktoś tak bardzo się stara,",
+                "aby napisać artykuł?"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Dlatego, że moc zmieniania prawdy jest",
+                "ponad wszystkie inne."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Gazety są to po, by tworzyć wydarzenia."
+            ]
+        }
+    },
+    "102": {
+        "50_0": {
+            "lines": [
+                "Nie będę nic pisać o szanownej Yamie.",
+                "Muszę uszanować prywatność innych."
+            ]
+        }
+    },
+    "120": {
+        "140_0": {
+            "lines": [
+                "Ta Komachi... Nadal jest tak samo."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Lilie pajęcze czerwone nadal sobie kwitną.",
+                "Jakoś nie widzę tego pośpiechu."
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Ach, wybacz mi, wybacz mi."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Już idę posprzątać."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "A ja właśnie skończyłam podróż do",
+                "wielu ludzi i youkai z kazaniami."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Jeśli moja własna podwładna taka jest,",
+                "to co dopiero inni..."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Nie, nie.",
+                "Robię tyle, ile mogę."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Po prostu w tym roku fantomów było",
+                "nieco zbyt dużo."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Komachi, nie tłumacz się, nic ci to nie da."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Nawet twoja łódka jest wolniejsza,",
+                "niż innych shinigami..."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Pewnie sobie gadasz z tymi fantomami, co nie?"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Nie, nie, wcale nie."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Jestem rzetelną shinigami, co",
+                "wiele nie mówi."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Słucham?"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Przeprawiając zmarłych, otrzymujesz",
+                "za to zapłatę, co nie?"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Komachi, nie pragniesz wystarczająco wiele."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Jeśli twoim priorytetem będą ludzie, co posiadają",
+                "wiele, to jest ci, co mają wiele wartości..."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "To wtedy przeprawienie się przez rzekę wiele",
+                "nie zajmie. Jest wydajne i wartościowe..."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Ach, to.",
+                "To nie tak, że nie chcę zarabiać pieniędzy..."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Jeśli shinigami zarabia, to ci z dobrymi",
+                "uczynki za życia też są traktowani dobrze."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "W twoim przypadku, zarabianie pieniędzy jest",
+                "dobrym uczynkiem."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Tak, wiem, wiem.",
+                "Ale, historie tych złych też są interesujące."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "A więc jednak sobie ucięłaś pogawędkę."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Nie, cóż, ja..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Musisz być bardziej sumienna."
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "Często mówi się, że zarabianie pieniędzy",
+                "nie jest czymś dobrym."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Ale to mówią z zawiści ci, co nie mają wartości.",
+                "Brak pracy nigdy nie jest dobry."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "System walutowy jest tak stworzony, że zyskiwanie i wydawanie",
+                "pieniędzy stają się same w sobie dobrymi uczynkami."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Tak, rozumiem.",
+                "To dlatego chramy nie otrzymują datków, prawda?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Jeśli rozumiesz w głowie tę ideę,",
+                "to zacznij działać. Bez mówienia."
+            ]
+        }
+    },
+    "122": {
+        "50_0": {
+            "lines": [
+                "Wybacz mi, wybacz mi."
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "Wygląda na to, że tym kwiatom wiśni potrzeba",
+                "nieco więcej czasu, zanim opadną."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Jeśli to ma jakieś znaczenie, to ci w Gensokyo w",
+                "porównaniu do tych na zewnątrz są mniej źli."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Grzechy w tutejszych kwiatach wiśni nie mają nic",
+                "wspólnego z złymi uczynkami świata zewnętrznego."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Na prawo zgodzili się ludzie.",
+                "Grzechy, których prawo nie może osądzić, osądzam ja."
+            ]
+        },
+        "143_1": {
+            "lines": [
+                "Ach, nadal jest tak samo."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Mówisz, że wkrótce, wkrótce...",
+                "Kiedy dokładnie kwiaty wiśni wrócą do normy?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Przyszłaś w idealnym momencie."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Jak ci idzie?",
+                "Czy zrozumiałaś i wdrożyłaś to, co ci powiedziałam?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Jak powiedziałam, upiekłam i zrobiłam",
+                "rzeczy jadalne. Wiele rzeczy."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Pod fioletowymi kwiatami wiśni jest",
+                "wiele dusz z grzechami."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Cnotliwe dusze są przeprawianie do Higan po kolei.",
+                "Tutaj kwiaty wiśni wrócą do normy ostatnie."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Nie, nie tylko tutaj, ale kwiaty",
+                "wiśni w ogóle."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Serio? Kwiaty wiśni są właśnie",
+                "tak uporczywe w sprzątaniu po..."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Gdy zostaną tylko kwiaty wiśni, w Gensokyo",
+                "rozpocznie się nowy kalendarz."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Tegoroczny rok jest rokiem „Odrodzenia”,",
+                "co jest u nas co 60 lat."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Można by powiedzieć, że obchodzimy",
+                "„sześćdziesiąte urodziny” Gensokyo."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Zaś kwiaty wiśni symbolizują śmierć i odrodzenie."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Dlaczego tego rodzaju rok jest",
+                "raz na 60 lat?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Zwykle tak mówi się na temat Zodiaku, ale",
+                "ludzie tak po prostu powiedzieli po fakcie."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "60 lat to tak naprawdę cała natura",
+                "wyrażona jako matematyka."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Słońce, księżyc i gwiazdy to trzy światła.",
+                "Wiosna, lato, jesień i zima to cztery pory roku."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Drewno, woda, ogień, ziemia",
+                "i metal to pięć elementów."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Połącz trzy światła, cztery pory roku i",
+                "pięć elementów: 3 × 4 × 5 = 60."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "60 to kombinacja wszystkich naturalnych rzeczy."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Krótko mówiąc, natura odradza się co 60 lat.",
+                "Gensokyo odrodzi się w tym roku."
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Więc, to tak działa?",
+                "Nie było mnie 60 lat temu, więc nie mogę potwierdzić."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Gdybyś się wglądała, zrozumiałaś byś",
+                "od razu."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "Ci, co doświadczyli tego incydentu 60 lat",
+                "temu, niezbyt się nim przejęli, co nie?"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Niektórzy bardzo się przejęli."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "60 lat to pełny cykl pamięci."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Ponadto, ten incydent nie jest zbyt unikalny,",
+                "więc łatwo się o nim zapomina."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "Więc to tak jest.",
+                "Nic dziwnego, że nie wydawał się na groźny."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "...Hej, nie zmydlisz mi oczu."
+            ]
+        },
+        "201_0": {
+            "lines": [
+                "Kwiaty kwitną bo wy się lenicie, co nie?"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "Fantomy rozmnażają się raz na 60 lat.",
+                "Wynikiem tego są te kwiaty."
+            ]
+        },
+        "203_0": {
+            "lines": [
+                "Trzęsienia ziemi, erupcje, tsunami, wojny.",
+                "Nie jestem dokładnie pewna co, ale..."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "Nieważne co się stało, gdybyście tylko wzięli",
+                "się do pracy, wszystko wróciłoby do normy!"
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "A teraz, pośpieszcie się z",
+                "przeprawianiem fantomów do Higan!"
+            ]
+        }
+    }
+}

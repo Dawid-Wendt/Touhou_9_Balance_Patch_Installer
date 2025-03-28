@@ -1,0 +1,867 @@
+{
+    "50": {
+        "140_0": {
+            "lines": [
+                "Alright, I'll start off my solo performance by",
+                "heading to the scarlet people's place!"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "What's going on?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "You're so loud in the morning."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "But I haven't even started my performance yet."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "You're loud enough just by being here,",
+                "and now you're saying you'll perform?!"
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "It's pointless performing for a fairy."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "The only thing loud in the mornings are youkai and old hags."
+            ]
+        }
+    },
+    "70": {
+        "140_0": {
+            "lines": [
+                "I wonder if there's anyone who'll listen to my performance around here."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah, geez!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Who's the one making that annoying sound",
+                "in my territory?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Me, me!",
+                "You're a little bird!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I won't feel like singing at all with that grating noise."
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "You sing, I perform without using my hands.",
+                "In a battle of endurance, I'm probably stronger, right?"
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "It's finally quiet.",
+                "Now I can sing all I want~!"
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "It's easy to get lost around here."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Oh,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Yet another one becomes lost."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Hmph, there are a lot of kinds of people in the bamboo thicket."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "It's no mistake that I'm lost, but the sky is right above me,",
+                "so I'm fine."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "If you wanna fly then give it a shot."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "When you fly into the mist in this bamboo thicket,",
+                "I wonder what kind of monsters you meet, hm."
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Hmm. Maybe it's better if I don't escape above."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "What could be there?",
+                "A tengu? Or maybe..."
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "It's so hectic down on the ground.",
+                "I'll get tired if I don't return once in a while."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Oh,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "There's even something this high above the clouds."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ah, geez.",
+                "It looks like it's going to get a little more hectic."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "This soul seems to be hiding something."
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "With someone coming even while above the clouds,",
+                "it's pretty hard to catch a break."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Huh, there isn't much of a secret after all."
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "It's more like fairy scenery on ground rather than",
+                "flower scenery, no, definitely phantom scenery."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "What's wrong,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Lost in a place like this by yourself.",
+                "You're not with your sisters today?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I'm not lost or anything."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "The way back to the sky is right above."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "I at least know the way back to the sky."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Strange spirits have come because of this commotion."
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "It's easy to get lost around here."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah, you're usually together but you're alone today?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "You got lost, huh."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "No, but you're right about me being alone.",
+                "I just lost my way a little."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Exactly, you got lost."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "It feels like phantoms might come out of this fog coming in."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "You're noisy enough alone."
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "It's easy to get lost around here."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah, perfect timing."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Was Eientei around here?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Are you asking me the way?",
+                "I'm lost, you know."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I see, if I don't attack you won't tell me."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "If I keep flying around, I'll eventually make it."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Aah, I remember.",
+                "I'm in the middle of returning from Eientei."
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "It's a lot more chaotic on the ground than I thought."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Huh?",
+                "Alone today?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "But I don't think we've asked for any performances today."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Hm?",
+                "Since you came back from the world of living,"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "that means you've seen the state of the flowers there."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "I have, so?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "I'd like to hear some interesting new sounds, that's all."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "Yeah, there are a lot of phantoms after all."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "I'm getting tired of searching for sounds by myself,"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "but I have to do this once in a while.",
+                "I'll search around a little more."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "I wasn't shown any useful sounds."
+            ]
+        }
+    },
+    "100": {
+        "140_0": {
+            "lines": [
+                "Wow, it's reaaally quiet."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "I didn't know this pond was here."
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "This is rare.",
+                "Going to do a live performance here?"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Who're you?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "But the good part about this place is its tranquility.",
+                "When someone as noisy as you comes along, it's a little..."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Oh, it's just a Tengu.",
+                "I didn't come here to do a live performance or anything."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Then you're discreetly taking a break?",
+                "Will this get you in any news?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "What's with that?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "It's not like we perform to end up in",
+                "some tengu's newspapers."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "We?",
+                "Aren't you alone today?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Ah, that's right.",
+                "Me."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Right now I'm gathering sounds."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Gathering sounds, huh?",
+                "Coming to a quiet place like this, though..."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "You're right.",
+                "But I'm lucky."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "I think I'll be able to hear the sound of a tengu's wind."
+            ]
+        }
+    },
+    "101": {
+        "50_0": {
+            "lines": [
+                "Alright, I remembered it!",
+                "And your sound as well."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "What are you going to do with the sounds you gather?"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "I'm going to remember a lot and make a new one!"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "The flowers are blooming right now, but you can",
+                "hear a faint sound mixed within, can't you?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "A faint sound, yes, the sound of the outside world."
+            ]
+        }
+    },
+    "102": {
+        "50_0": {
+            "lines": [
+                "Whoops, I've been tricked into an attack,",
+                "so I accidentally counterattacked without thinking."
+            ]
+        }
+    },
+    "90": {
+        "140_0": {
+            "lines": [
+                "It's amazing here too~"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "On the side of the sunflowers, the phantoms are more noisy than usual."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "I think I'll be able to gather a lot of good sounds~"
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "If it isn't another noisy spirit."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Someone's here too?"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Someone is."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "You're a lot noisier than the spirits from the outside world here."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "That's my job after all.",
+                "Although I'm alone today and not too noisy."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Your noisiness is Gensokyo's noisiness.",
+                "An already dead sound."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "You can hear what the phantoms here are saying, can't you."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Hmm.",
+                "I'm not quite sure what you're saying..."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Look, the sunflowers are paying attention to you."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "The souls possessing the flowers think that someone",
+                "who can understand them has finally come."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Wait a minute, what the heck,",
+                "what's with these sunflowers?!"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Why are they all facing me~?!"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "That's because you're the same type of spirit."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Not only here, but the situation with all",
+                "of the flowers is because of the souls here."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "The souls this year are noisy.",
+                "Perhaps they're more noisy than you and the others are."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Others?",
+                "But I'm alone today..."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Now, my adorable sunflowers!",
+                "Let's start our live poltergeist performance!"
+            ]
+        }
+    },
+    "91": {
+        "50_0": {
+            "lines": [
+                "A live poltergeist performance at the sunflower field, huh~"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "That sounds really fun."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "You're welcome anytime."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "However, the only time souls reside in the sunflowers",
+                "is every 60 years, I think."
+            ]
+        }
+    },
+    "92": {
+        "50_0": {
+            "lines": [
+                "They're not going to be satisfied with just that.",
+                "The sunflowers here are very boisterous after all."
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Oh yeah, I haven't heard the sound of cherry blossoms yet."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "I was too focused on the strangeness of the flowers that",
+                "I completely forgot about the spring flowers."
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Higan cherry blossoms and the red spider lilies."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "At this usually quiet Muenzuka, flowers that",
+                "don't bloom together, are doing that simultaneously."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "The red spider lilies appeal to lament.",
+                "The higan cherries play the melody of conviction."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "It's so rare to see a clear group of",
+                "poltergeists in a place like this."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Plural again~",
+                "Get it through, I'm alone today."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Oh, then what are the two behind you?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Ah?",
+                "You're not supposed to say that~"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "After managing to hide this much too..."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Huh!?",
+                "When did you two end up behind me!?"
+            ]
+        },
+        "178_1": {
+            "lines": [
+                "We were watching you from the beginning."
+            ]
+        },
+        "178_2": {
+            "lines": [
+                "You looked like you were doing something interesting,",
+                "so we did it in secret."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "There, three noisy spirits."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "You are going to perform live in this cemetery, are you not?"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "What the heck~"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "If you were going to follow me then tell me",
+                "from the beginning!"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "We were going to come out if it got dangerous."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Yes, yes.",
+                "Like right now."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Right now?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "The souls here are human souls from the outside world.",
+                "They are using the flowers as their foundation right now."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "You three were born as spirits.",
+                "What was once your foundation does not exist anymore."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Yes, you three are",
+                "a little too unclear toward yourselves."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "At this rate, you three will either break down into chaos,",
+                "or simply disappear altogether."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "I may not be able to judge you all, however,",
+                "to abandon you is a little cruel..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Who on earth are you?"
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "I am the one who judges the sins of ones who have died,",
+                "yes, the judge of Hell."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "If you three wish to continue performing from here on,"
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "you have no choice but to listen to my advice."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "What are you talking about?",
+                "Sis, you don't need to listen to what she's saying."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Yes, yes.",
+                "She says advice, but it sounds like some sort of fraud or religion!"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Exactly."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "Spirits without a foundation are extremely unstable."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "It appears that your musical instruments are your foundation,",
+                "but that in reality is false."
+            ]
+        },
+        "201_0": {
+            "lines": [
+                "Your foundation was the human that created you.",
+                "And that human is no longer here."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "If you do not wish to disappear,",
+                "the first thing you must do is realize your reason for existence!"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "The attacks of the two behind you seem a little unfocused.",
+                "In that case, there may be a possibility."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "World of living is a world of hesitation.",
+                "That hesitation will hold you together."
+            ]
+        }
+    }
+}

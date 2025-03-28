@@ -1,0 +1,203 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "W tym świecie są dwie rodzaje kapłanek chramów;",
+                "te co żyją bardzo długo i te co żyją bardzo krótko."
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "Kiedy umrzesz, jakim fantomem się staniesz?",
+                "Nie powinno być trudno sobie wyobrazić."
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "Patrząc na ciebie z bliska, wyglądasz na",
+                "taką, co chyba nigdy nie umrze."
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "Ty jesteś tego typu osobą, co bym opisała jako",
+                "„Ta, co jest zawsze bliska śmierci.”."
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "Czy wiesz, dlaczego mówi się, że",
+                "króliki umierają z samotności?"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Przygnębienie może doprowadzić do śmierci."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Cóż, to przez to, że w japońskim przygnębienie",
+                "(fusagi) i królik (usagi) brzmią podobnie."
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "Wróżki i fantomy są podobnymi istotami.",
+                "Dlatego nie macie długości życia."
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "Trochę nudno jest patrzeć na kogoś bez daty śmierci.",
+                "...Z drugiej strony, czy pracuję jako shinigami bo jest ciekawie?"
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "Trochę nudno jest patrzeć na kogoś bez daty śmierci.",
+                "...Z drugiej strony, czy pracuję jako shinigami bo jest ciekawie?"
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "Trochę nudno jest patrzeć na kogoś bez daty śmierci.",
+                "...Z drugiej strony, czy pracuję jako shinigami bo jest ciekawie?"
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "Czy ptaszki boją się śmierci?"
+            ]
+        }
+    },
+    "80": {
+        "52_0": {
+            "lines": [
+                "Przygnębienie może doprowadzić do śmierci."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Czy wiesz, dlaczego mówi się, że",
+                "króliki umierają z samotności?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Cóż, to przez to, że w japońskim przygnębienie",
+                "(fusagi) i królik (usagi) brzmią podobnie."
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "Żyjesz już od długiego czasu. Czy ta twoja",
+                "osobowość to maska, co ma ukryć twój wiek?"
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "Kolejna, co nie ma daty śmierci.",
+                "Chociaż ta to bardziej jakby nie miała daty urodzenia."
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "Może, to przez to, że długość życia",
+                "youkai nigdy nie jest stała..."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Może umrzesz jutro.",
+                "A może za 100 tysięcy lat?"
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "Nawet jeśli jesteś shinigami, to nie możesz",
+                "sobie ot tak zabijać osób."
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "Ach, przepraszam!",
+                "Od teraz będę mocno pracować!"
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "Czemu by nie dać ci rady na to,",
+                "jak przestać mieć myśli samobójcze?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Nie myśl o tym, że pójdziesz do piekła",
+                "po śmierci."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Raczej, to co daje nam siłę za życia jest myśl o",
+                "tym niewyobrażalnym raju co nas czeka po śmierci."
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "Dbaj o swoje relacje z innymi."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "W oczach shinigami, odizolowany człowiek jest",
+                "najmniej cnotliwą duszą."
+            ]
+        }
+    },
+    "212": {
+        "50_0": {
+            "lines": [
+                "Hej, wiem, kiedy umrzesz."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Wzrok shinigami. Czy chcesz go",
+                "za skrócenie twojego życia o pół?"
+            ]
+        }
+    }
+}

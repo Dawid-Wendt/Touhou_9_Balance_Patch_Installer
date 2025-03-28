@@ -1,0 +1,124 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Widzisz? Nic tu nie ma!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Uspokój się.",
+                "Noc dopiero się zaczęła."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Nie masz prawa mnie ganić, skoro ",
+                "sama w pośpiechu mnie tu przytargałaś."
+            ]
+        },
+        "63_1": {
+            "lines": [
+                "„Nic tu nie ma!”?!",
+                "Byłam tu przez cały czas!"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Nie martw się..."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Wynagrodzę Ci to.",
+                "Nie jestem taka jak ty."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Hej, hej, hej."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Musicie mieć jaja, żeby mnie ignorować."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Mam nadzieję, że wystarczy wam determinacji."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "To gra słów?"
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Chyba tak."
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "Jestem świetlikiem!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Pamiętaj, że sporo mi wisisz za to wszystko."
+            ]
+        },
+        "124_h1_0": {
+            "lines": [
+                "Owad Światła Wijący się w Mroku"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "A, właśnie. Zapomniałam zabrać czegoś z chramu",
+                "bardzo potrzebnego na wieczorny spacer."
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "?"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Rozumiem.",
+                "Coś na komary, prawda?"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Naprawdę, noc jest okropna gdy lata tyle robactwa."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Powiedziała osoba wstająca z łóżka jedynie w nocy."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Owszem. Przyroda prosperuje nocą."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Ostatnio jest tu naprawdę dużo świetlików...",
+                "Trochę się boję o świat zewnętrzny."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Czyli rozumiesz, co się dzieje.",
+                "Dziw bierze, że potrafisz się czymś przejąć."
+            ]
+        }
+    }
+}

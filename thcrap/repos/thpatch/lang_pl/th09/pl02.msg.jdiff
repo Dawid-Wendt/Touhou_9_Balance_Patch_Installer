@@ -1,0 +1,946 @@
+{
+    "0": {
+        "140_1": {
+            "lines": [
+                "rzadkie, czyż nie?"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Kwiaty bambusa są..."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Na kolację wolałabym raczej pędy bambusa."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Ale kwiaty same w sobie nie są rzadkie."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Tyle teraz kwitnie, że na wieczór będzie",
+                "danie z kwiatami bambusa."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Wiesz dlaczego rzadkie składniki smakują lepiej?",
+                "To dlatego, że ludzie smakują nie za pomocą języka,"
+            ]
+        },
+        "50_1": {
+            "lines": [
+                "tylko umysłu."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "Szkoda, ze nie ma jeszcze sezonu na pędy bambusa."
+            ]
+        }
+    },
+    "10": {
+        "140_1": {
+            "lines": [
+                "Co jest?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Też poszukujesz osoby odpowiedzialnej za to wszystko?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "A ty co, pszczołą jesteś?"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Gdzie tylko nie pójdę, wszędzie są kwiaty.",
+                "Nie rozumiem, o co tutaj chodzi."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Nie, po prostu uważam, że kwiaty są piękne."
+            ]
+        }
+    },
+    "80": {
+        "140_1": {
+            "lines": [
+                "Hm?",
+                "Zgubiłaś się w bambusowym lesie?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Jeśli chcesz stąd wyjść, zrób tak, jak ci powiem."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Przechodziłaś tędy już kilka razy."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Dlaczego...",
+                "Bez wyjątku, incydent jest wszędzie w świecie żywych."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ach, miałam wrażenie, że coś drobnego się zmieniło."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Jakbym była bliżej źródła tego incydentu z kwiatami."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Kwiaty?",
+                "Zgubiłaś się w bambusowym lesie, nie?"
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "Wyjście z lasu jest o tam.",
+                "Hahah~!"
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Nie, w ogóle nie byłam zagubiona."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Jednakże, jeśli wezmę trochę twojego",
+                "szczęścia, może uda mi się uchwycić mój cel."
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "Powinnam się pospieszyć."
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "Ludzie, którzy tu przychodzą to debile."
+            ]
+        }
+    },
+    "70": {
+        "172_0": {
+            "lines": [
+                "Dzisiejszą przystawką będzie ludzka pokojówka!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Jaką przystawkę mamy jutro, a jaką dziś~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Wiosenno bryzo~ powiedz mi~♪"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Nie ma potrzeby pytać o to wiosennej bryzy.",
+                "Jutrzejszą przystawką będzie pieczony ptak."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Rzadko bywam w tej okolicy za dnia.",
+                "Jest bardzo piękna."
+            ]
+        }
+    },
+    "50": {
+        "140_0": {
+            "lines": [
+                "Zrobiło się znacznie cieplej;",
+                "jednakże, nad jeziorem jest zimno jak zwykle."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Fajnie?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Taa, to zabawne.",
+                "Bardziej niż oglądanie tych dziwnych kwiatków!"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Żabulka~żabulka~ zapomniała, że przyszła wiosna i nadal śpi snem zimowym."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Gdy zamrożę żabę, śpi snem zimowym i się nie budzi.",
+                "Fajnie."
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Jak będziesz tak dalej się znęcać nad żabami, to kiedyś",
+                "będziesz w tarapatach z żabim youkai."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "Wygląda, jakby spała snem zimowym, ale chyba",
+                "ją zamroziłam. Śpi snem lodowym."
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "Ponad chmurami...",
+                "Nie wygląda, żeby było coś dziwnego."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Na serio przyszłaś tak wysoko, aż ponad chmury."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Rzadko taka jesteś."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Możliwość, że tutaj się czegoś dowiem,",
+                "doprowadziła mnie tak wysoko."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Naprawdę nic nie wiesz, co?",
+                "Jak znaleźć coś na temat kwiatów aż tak wysoko?"
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "Jak zwykle, na tej wysokości wiele hałaśliwych",
+                "brzmień, ale żadnych kwitnących kwiatów, więc..."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "Tutaj, tutaj! Tak się zaczynają moje solo występy."
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "O?",
+                "Pewna byłam, że tutaj też będzie pełno kwiatów..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Jedyne świat żywych"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "jest przepełniony kwiatami. Zaświaty są jak zawsze."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Rozumiem...",
+                "Może znajdę tutaj coś podejrzanego."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Nie kłamię, okej?"
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "Mówiłam, że nie kłamię."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Ale to właśnie takie słowa są podejrzane!"
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "Mówiłam, że nie kłamię.",
+                "Czemu atakujesz?"
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "Ta rezydencja jest zawsze taka ciemna. Rezydencja Szkarłatnego",
+                "Diabła nie ma wiele okien, ale i tak jest jaśniejsza, niż ta..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Dlatego tutaj jest tak ciemno.",
+                "Więc, o co chodzi?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Przyszłam szukać tropu."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Nie mogę dać wskazówki, jeśli nie wiem czego szukasz."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "W japońskich domach nie ma fikuśnych świateł do zapalenia."
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "Wejście do tej rezydencji o tej",
+                "godzinie to był mój błąd."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Nawet jeśli są kwiaty, to nie będzie ich widać."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "A, że kwiaty?",
+                "Sama to obecnie sprawdzam."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Jeśli będę tak latać i zataczać koła,",
+                "to nigdy nie dolecę do swojego celu."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Uważam, że ostatnio wszyscy stracili poczucie celu."
+            ]
+        }
+    },
+    "110": {
+        "140_0": {
+            "lines": [
+                "W tych górach nigdy nie byłam..."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Nie wiedziałam, że tutaj jest pole,",
+                "gdzie kwitną konwalie majowe."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Mogą się przydać do przyrządzenia leków."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Och, ktoś tutaj jest?"
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Leki~?",
+                "Lek może stać się trucizną, co nie?"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Tak. To miejsce jest pełne konwalii majowych,",
+                "więc możesz zrobić tyle trucizny, ile chcesz."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Czy konwalie majowe są tak trujące?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Trucizna... Jeśli jest zbyt mocna,",
+                "to ciało ją natychmiast oczyści."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Ale jeśli jest jej mało... Zanim ciało",
+                "się zorientuje, będzie w każdym zakamarku."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Najgroźniejsze trucizny są te, co najpierw powoli",
+                "niszczą ciało, a potem powoli niszczą umysł."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Jeśli tak jest, to czy w tym wypadku",
+                "alkohol nie jest najlepszą trucizną?"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Hahaha."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Ale z ciebie szczęściara.",
+                "Zaśniesz w tym polu konwalii majowych."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "To dlatego, że wcześniej znalazłam",
+                "królika na szczęście..."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Chociaż właściwie, to trochę mi się chce spać..."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "To pole konwalii majowych jest pełne lekkiej trucizny.",
+                "Te kwiaty z natury są trujące."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Czy to dlatego, że wczoraj tak późno poszłam spać?",
+                "Muszę to załatwić szybko..."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "...Jakim cudem nic ci nie jest w tej truciźnie?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Aha, nie widać patrząc?",
+                "Jestem ni martwa, ni żywa."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Jestem lalką, którą ktoś porzucił. Dla mnie,",
+                "ta trucizna jest jedynie kosmetykiem."
+            ]
+        }
+    },
+    "111": {
+        "50_0": {
+            "lines": [
+                "To pole jest niebezpieczne...",
+                "Powinnam natychmiast odejść."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Rany...",
+                "Naprawa tego ciała trochę zajmie."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Koniec końców, czy nie lepsza jest trucizna,",
+                "co działa szybko, niż ta, co jest powolna?"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Hm. Możliwe.",
+                "Więc, czy wypijesz to dla mnie?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "A to co?"
+            ]
+        },
+        "55_0": {
+            "lines": [
+                "Napój z pokrzyku wilczej jagody."
+            ]
+        },
+        "56_0": {
+            "lines": [
+                "Kto by coś takiego pił?"
+            ]
+        }
+    },
+    "112": {
+        "50_0": {
+            "lines": [
+                "Tak... Powoli... Trucizna zacznie",
+                "krążyć w twoim ciele i umyśle."
+            ]
+        }
+    },
+    "120": {
+        "140_0": {
+            "lines": [
+                "Kończą mi się miejsca, gdzie nie byłam."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Kwiaty wiosenne, letnie, jesienne, zimowe, trujące...",
+                "Nieważne gdzie jestem, widzę to samo."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Jednak w tamtym polu konwalii majowych...",
+                "Poczułam to dziwne uczucie siły życiowej w kwiatach."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "To na pewno ważny trop..."
+            ]
+        },
+        "143_1": {
+            "lines": [
+                "Kolejna, co chce umrzeć, co? Jeszcze nie",
+                "za późno na poprawę swojego życia. Przemyśl to!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "E?",
+                "Niby od kiedy chcę się zabić?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "To jest Muenzuka, gdzie pochowani są bezimienni.",
+                "Żywi ludzie przychodzą tutaj tylko po to, by się zabić."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Szukając kwiatów z siłą życiową,",
+                "znalazłam to miejsce."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Kim jesteś, wątpiąc w moją cnotę?"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Jestem pierwszorzędnym przewodnikiem rzeki Sanzu,",
+                "Komachi Onozuka."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Samobójców wyrzucam w środku rzeki,",
+                "więc się na to przygotuj."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Nie będę się na to przygotowywać.",
+                "Phi."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Jeśli podejrzane są trujące kwiaty, to według mnie najbardziej",
+                "podejrzane są lilie pajęcze czerwone. Więc przyszłam tutaj."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Lilie pajęcze czerwone?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Bzdury.",
+                "To nie na pora na ich zakwit..."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Kwitną i to bardzo.",
+                "Może rozejrzysz się dookoła?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "E? Co się dzieje?",
+                "Kwitną lilie pajęcze czerwone oraz fioletowe kwiaty wiśni..."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Co?",
+                "Czy to może być?!"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Wygląda na to, że coś wiesz."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "W-wcale nie, nic nie wiem!"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Latałam przez całe Gensokyo i ani tropu."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Odwiedziłam nawet te miejsca, gdzie zwykle nie bywam,",
+                "jak ta tu Muenzuka. W końcu znalazłam źródło."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Serio, nie wiem.",
+                "Jestem zajęta, więc do widzenia..."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Chwila moment."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Odejdź, a się zabiję."
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Rany... Jesteś",
+                "kłopotliwa, wiesz?"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Ale na serio jestem zajęta."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "Miałam rację co do lilii pajęczych czerwonych.",
+                "Nie mogę ci pozwolić odejść!"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Powiadasz."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Chaos zakwitania lilii pajęczych czerwonych",
+                "mierzy ile mam pracy do zrobienia."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Trujące kwiaty to oznaka, że coś stało się w świecie zewnętrznym.",
+                "Jeśli będziesz mi przeszkadzać w pracy, to nie okażę litości!"
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "Więc, czym dokładnie jest ten incydent z kwiatami?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Proszę~",
+                "Nie przeszkadzaj mi w pracy~"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Jak tak dalej będzie..."
+            ]
+        },
+        "53_1": {
+            "lines": [
+                "Znów się obijasz!? Komachi!"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "O nie!"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Nakrzyczy na ciebie szef?"
+            ]
+        },
+        "55_0": {
+            "lines": [
+                "(To miał być tylko taki żart...)"
+            ]
+        }
+    },
+    "122": {
+        "50_0": {
+            "lines": [
+                "Jeśli spróbujesz się zabić, to ja zabiję ciebie.",
+                "Mogę ci to zapewnić."
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Komachi nie przyniosła żadnych dusz mimo tego upływu",
+                "czasu, więc przyszłam sprawdzić, o co chodzi."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Shigan jest pełny fantomów i kwiatów,"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "i jakby tego mało, Komachi coś kombinuje z jakimś człowiekiem.",
+                "Czemu ona próżnuje tak dużo?!"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Ach, nie chciałam przeszkadzać w jej pracy."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Obecnie, Komachi ma za dużo pracy..."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Nie obchodzi mi, jak wam idzie praca."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Co ważniejsze, rozejrzyj się dookoła.",
+                "Nie uważasz, że ta epidemia kwiatów wymaga twojego oka?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Oczywiście, rozumiem.",
+                "Ale tak po prostu jest w mojej pracy."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "(Praca związana z zakwitaniem kwiatów?",
+                "Czy jest kwiaciarką?)"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Zrozum; te kwiaty są opętane przez zagubione",
+                "dusze ze świata zewnętrznego."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Inaczej mówiąc, dusze, co nie są",
+                "świadome, że są martwe."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "...Jeśli nagle się rozmmnożyły, co to oznacza?"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Kto wie...",
+                "Czemu fantomy się rozmnożyły, nie wiem."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Może seryjne morderstwa?",
+                "To jest możliwe."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Zamiast tego, porozmawiajmy o tobie."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Tak, jesteś zbyt zimna wobec innych ludzi."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Jeśli umrzesz taka, jaka jesteś obecnie...",
+                "Będziesz miała długą przeprawę przez rzekę."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Moje noże są metalowe, bez ciepła krwi."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "W sensie, że?"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Jeśli nie będziesz milsza, to może",
+                "być tak, że w ogóle nie przeprawisz się."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Szerokość rzeki zależy od wielkości twojej historii.",
+                "Twoich uczynków za życia."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Dusze się męczą przed dotarciem na drugi brzeg."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Ponadto, ta łódź nie jest zbyt wygodna."
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Rozumiem. Dusze także mogą się zmęczyć. Ale to będzie po",
+                "mojej śmierci, więc jest okej, nie?"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Muszę bardziej dbać o teraźniejszość...",
+                "Na razie, muszę zająć się tą całą epidemią kwiatów."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "Zacznij pokutę teraz, bo po śmierci będzie za późno!"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Coraz więcej osób uważa, że dobrze dbać",
+                "o teraźniejszość, co mnie smuci!"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Nie do końca rozumiem, ale załóżmy, że chcę",
+                "przeprawić się przez Sanzu. W czym tkwi problem?"
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Wiedz, że aby mieć dobre życie pozagrobowe,",
+                "trzeba być dobrą osobą za życia!"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "Najpierw musisz zacząć się bać mojego osądu.",
+                "Myślę, że tego ci brakuje do dobrych uczynków."
+            ]
+        }
+    }
+}

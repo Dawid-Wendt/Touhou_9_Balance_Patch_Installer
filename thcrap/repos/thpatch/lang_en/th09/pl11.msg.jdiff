@@ -1,0 +1,850 @@
+{
+    "70": {
+        "140_0": {
+            "lines": [
+                "Su-san.",
+                "Is Su-san growing a bit too much this year?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ahaha~"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I flew all the way to the roof and it broke and disappeared~♪"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Done in by the poison?",
+                "Bird's wings are easily affected by poison after all."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Harahorotia~"
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "You're blooming by energetically taking down flying birds this year.",
+                "That's going a little overboard, Su-san."
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "Gotta run. Gotta run."
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "This year's Su-san might be a bit quick-tempered."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Gotta whack their heads when cutting the lily-of-the-valley~"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "It sounds like Westernization"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "See, just by flying over her, she goes crazy."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Westernization is the bud of war~"
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "Amazing.",
+                "If the poison's this strong I could dominate the world."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "Aah, it's dangerous here.",
+                "I'd better get out of here quick."
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "Perhaps I mixed up the seasons?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Lily-of-the-valley's antidote store~, Lily-of-the-valley's antidote store~"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Don't need antidote for lily-of-the-valley poison,",
+                "do you?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Trying to swindle again, huh."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "If it's antidote, use it on yourself."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Aah, I'm becoming numb~"
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Hey, Su-san.",
+                "Why are you so strong this year?"
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "Aah, I've got to get myself cured.",
+                "Gotta run!"
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "With this much of Su-san's power,",
+                "I might be able to make more allies."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Amazing."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "There are so many poisonous flowers,",
+                "I've gotta tell master."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Hey!",
+                "These lily-of-the-valley are mine!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Nngh, the poison's already affecting me..."
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "It's impossible for you to stand up to this many",
+                "Su-san for a long time!"
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "I've got to hurry and tell master...",
+                "Aah, this poison is strong..."
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "Full of power~"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ooh,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Is this the actual spot of the poison gas event?",
+                "This is troublesome."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Fog of poison.",
+                "Fog and gas are two completely different things."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "They're the same, the same.",
+                "Breathe it in and feel pain."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Fog is liquid, gas is vapor.",
+                "When you fuse chi into water, it absorbs the properties."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Ah, geez! If I stay here my beautiful voice will be ruined.",
+                "I've gotta run!"
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "I don't know.",
+                "The poison seems a little too strong."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Aah! Geez."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "What's with this place?",
+                "The smell here is so acrid!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ah, a human? A human.",
+                "Su-san, take her down!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "There's something weird here, too. Fine, that just",
+                "means this place has nothing to do with the flower incident!"
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Were humans this weak?",
+                "Maybe Su-san's just too strong."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "Ugg. This place isn't good for my body.",
+                "I've gotta run!"
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "Hmm. I think I've gotten a little more confident.",
+                "Thanks to Su-san of course."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Wow, this is amazing."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "With this much poison, I could make delicious tea."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Delicious tea.",
+                "You're a strange human."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Oh, I'm not the one who's going to drink it."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "I see.",
+                "Tea meant for killing others."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Not at all.",
+                "There's a person who would enjoy tea made with poison."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "I think that it might be okay for me to",
+                "leave this place now, Su-san!"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "A shut-in?"
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Tomorrow's tea shall be made with lily-of-the-valley.",
+                "...Maybe it's about time I leave this place..."
+            ]
+        }
+    },
+    "90": {
+        "140_0": {
+            "lines": [
+                "Huh? It's definitely blooming a lot here too."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Sunflowers are kinda disgusting so I don't",
+                "really like them."
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Hmm.",
+                "Yet so cute, though."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Me?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "The sunflowers.",
+                "Rather, the sunflower seeds."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Oh yeah. With poison, I've just defeated a bunch of people",
+                "who came to me."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Can you be taken down too?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Do you know why they came and attacked you?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "It's because you smell."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Eh?",
+                "Wh-what are you talking about?!"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "It's not good spreading the smell of poison so much.",
+                "It'll make others want to run."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Poison?",
+                "Oh, poison. It's my life."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "That won't change."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Tsk, tsk."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "So you're going to attack me after all?"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "You want me to, don't you?",
+                "It can't be helped."
+            ]
+        }
+    },
+    "91": {
+        "50_0": {
+            "lines": [
+                "Haah, that felt good."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "It feels great to defeat living things."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Don't they know a walking tool is dangerous..."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "What exactly were the foolish humans thinking",
+                "when they threw something in the flower field?"
+            ]
+        }
+    },
+    "92": {
+        "50_0": {
+            "lines": [
+                "Don't they know a walking tool is dangerous..."
+            ]
+        }
+    },
+    "120": {
+        "140_0": {
+            "lines": [
+                "Wow."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Wow, wow!"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "There are so many poisonous flowers here~"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "That's what I get for going out once in a while.",
+                "I'm really lucky!"
+            ]
+        },
+        "143_1": {
+            "lines": [
+                "A scrapped tool, huh..."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "It's definitely easy for souls to possess a",
+                "human shaped tool,"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "but I haven't seen one",
+                "that can move their body so freely."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "*giggle*",
+                "Amazing, isn't it?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "The fact that I can move my own body.",
+                "The fact that an object can think freely."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "It's thanks to the poison.",
+                "Su-san's poison."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "If you are a tool, then it's not my job."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "It's dangerous here so you should leave",
+                "before it gets hectic."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I don't want to."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "I just found this many poisonous flowers after all."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Poisonous flowers?"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "...Huh~?",
+                "Red spider lilies are blooming...?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "...You didn't notice?"
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "We-well. This is a bit unpleasant."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "I'm going to take some flowers and head off,",
+                "so if you're going to attack me now is the time."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Aagh.",
+                "You look like you want to be attacked."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Can't be helped."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "I'm going to chase you out with power,",
+                "so once you're out go home!"
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "Aah, my body's brimming with poison."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "You're a strange doll.",
+                "Has the poison sunk deep into your brain too?"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Of course, I'm being fulfilled.",
+                "Right, Su-san."
+            ]
+        }
+    },
+    "122": {
+        "50_0": {
+            "lines": [
+                "I'll get scolded at if I keep playing with a doll...",
+                "I should keep my breaks short."
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Alright then, I've enjoyed the red spider lilies to my heart's content,"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "I guess I should head back now.",
+                "...is what I'm supposed to be thinking..."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "What is this? It's not poison,",
+                "but I'm being drawn in by these violet cherry blossoms..."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "It is dangerous."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "If you are not careful,",
+                "those cherry blossoms will..."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "An endless number of hands will stretch and beckon for you.",
+                "They're holding on to you."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Eeeeeh!?",
+                "That's disgusting~"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "There is no helping it.",
+                "You are a type of tool, a doll."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "No matter how you think, the ones using you",
+                "will selfishly put their love or hate into you."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "At times they will give a name, at times they will change your appearance,",
+                "but by every user's will tools are used."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Yes, tools are something that humans selfishly",
+                "push their feelings onto."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "That's right.",
+                "You understand well."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "There are many souls here in the Muenzuka",
+                "that have not realized they have died."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "That is why it is not safe for a tool",
+                "such as yourself to come here."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "You will be taken in by their unstable minds."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "No, then I'll fight until..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Until the status of dolls rise,",
+                "I'll fight humans!"
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Has your head been infected by the poison as well?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "The lily-of-the-valley is the poison of the mind the red",
+                "spider lily and the lily-of-the-valley poison different parts."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "If you bask in both poisons,",
+                "it would not be wrong to call you a lump of poison."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "You know, I've been thinking for a while."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "It's about time for me to take a stand",
+                "and achieve the liberation of dolls!"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "You have not realized the effect of poison.",
+                "You need to cool off a little."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "If dolls are liberated, who will create dolls?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Do you believe that the dolls other than yourself",
+                "will follow your small mind?"
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Yes, your outlook is a little too narrow."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "How many times have you left your",
+                "small lily-of-the-valley field?"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Humans are the same. If they shut themselves in a",
+                "small place too long..."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "They will become blind to others.",
+                "Only your mind alone will become toxic and aggressive."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "You are the same as other typical humans,",
+                "one who holds a small mind."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "Th-that isn't true!",
+                "It's true that I haven't left the lily-of-the-valley field until today..."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "...how did you know",
+                "that I'm living in the lily-of-the-valley field..."
+            ]
+        },
+        "201_0": {
+            "lines": [
+                "If you do not receive support from others, you will not be able to",
+                "cross the Sanzu River and you will be dropped into the river partway."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "A soul that does not understand the pain of others",
+                "will never receive support from others."
+            ]
+        },
+        "203_0": {
+            "lines": [
+                "Even if you wish for the liberation of dolls,",
+                "you will embrace despair at the fact that nobody will aid you."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "As a doll that will not come to me after death,",
+                "I shall judge you here and now!"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "Cherry blossoms are...",
+                "Look, the hands that have grasped you have increased."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Ones that are poor in heart are also poor in mind.",
+                "They'll return to the Earth, and eventually be forgotten."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "But you do not have to worry.",
+                "All humans have only small hearts."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "You are that close to a human being.",
+                "What's left is to nurture your plentiful heart, and surpass humans."
+            ]
+        }
+    }
+}

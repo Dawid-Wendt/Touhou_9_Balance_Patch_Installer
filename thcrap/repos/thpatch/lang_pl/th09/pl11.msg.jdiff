@@ -1,0 +1,859 @@
+{
+    "70": {
+        "140_1": {
+            "lines": [
+                "Ahaha~"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Załatwiona przez truciznę?",
+                "W końcu ptasie skrzydła są bardzo na nią podatne."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Poleciałam aż do samego sufitu,",
+                "a ten się rozwalił i zniknął~♪"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Su-san.",
+                "Czy Su-san urosła nieco za dużo tego roku?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Harahorotia~"
+            ]
+        }
+    },
+    "40": {
+        "171_0": {
+            "lines": [
+                "Ej!",
+                "Te konwalie majowe są moje!"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Niesamowite."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Jest tyle trujących kwiatów, muszę o",
+                "tym powiedzieć Mistrzowi."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Z taką mocą Su-san, może uda",
+                "mi się stworzyć więcej konwalii."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Mmm, trucizna już na mnie wpływa..."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Muszę się pospieszyć i opowiedzieć o tym Mistrzowi...",
+                "Aah, silna ta trucizna..."
+            ]
+        }
+    },
+    "90": {
+        "179_0": {
+            "lines": [
+                "Trucizna?",
+                "Och, trucizna. To moje życie."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Słoneczniki są nieco obrzydliwe, ",
+                "nie za bardzo mi się podobają."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Ja?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "To dlatego, że śmierdzisz."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Ech?",
+                "O c-co ci chodzi?!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Tego się nie da zmienić."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Słoneczniki.",
+                "A raczej ich nasiona."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Wiesz dlaczego przyszli cię zaatakować?"
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Hmm.",
+                "A jednak takie urocze."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Hę? Tutaj też wiele zakwita."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "A, racja. Z trucizną, pokonałem parę",
+                "osób, co przyszły do mnie."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Czy ciebie też dam radę pokonać?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Niedobrze jest rozprowadzać zapach trucizny aż",
+                "tak bardzo. Im będzie się tylko chciało uciekać."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Więc i tak mnie zaatakujesz, co nie?"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Tak chcesz, co nie?",
+                "Inaczej się nie da."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Oj, oj."
+            ]
+        }
+    },
+    "20": {
+        "171_0": {
+            "lines": [
+                "Pyszną herbatę.",
+                "Dziwny z ciebie człowiek."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Och, to nie ja będę ją pić."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Wow, niesamowite."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Z tak dużą ilością trucizny, ",
+                "mogłabym przyrządzić pyszną herbatę."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Hmm. Chyba stałam się nieco bardziej pewna siebie.",
+                "Wszystko oczywiście dzięki Su-san."
+            ]
+        }
+    },
+    "10": {
+        "140_1": {
+            "lines": [
+                "Ooch,"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Jeden diabeł. ",
+                "Wdychasz i czujesz ból."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Mgła trucizny.",
+                "Mgła i gaz to zupełnie różne rzeczy."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Tyle mocy~"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Czy to jest miejsce z tym problemem",
+                "z trującym gazem? Co za problem."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Mgła jest cieczą, a gaz jest parą.",
+                "Kiedy połączysz chi z wodą, pochłonie ona jej właściwości."
+            ]
+        }
+    },
+    "0": {
+        "170_0": {
+            "lines": [
+                "Co tu się dzieje?",
+                "Ten zapach tutaj jest taki drażniący!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ach, człowiek? Człowiek.",
+                "Su-san, zajmij się nią!"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Nie jestem pewna.",
+                "Trucizna wydaje się nieco zbyt silna."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ach! Rany."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Tutaj też jest coś dziwnego. Okej, dobra, przyjmijmy,",
+                "że to miejsce nie jest powiązane z incydentem z kwiatami!"
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "Rozumiem.",
+                "Herbata do zabijania innych."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Ani trochę.",
+                "Jest osoba, której smakowałaby herbata z trucizny."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Chyba teraz jest okej, żebym opuściła ",
+                "to miejsce, Su-san!"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Ktoś, kto nie lubi wychodzić z domu, co?"
+            ]
+        }
+    },
+    "80": {
+        "170_0": {
+            "lines": [
+                "Nie przydałoby ci się może antidotum",
+                "na truciznę konwalii majowej?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Znowu próbujesz naciągać, co?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Jeśli to antidotum, to użyj jego na sobie."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Aach, drętwieję~"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Może pomyliłam pory roku?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Sklep z antidotum na konwalię majową~",
+                "Sklep z antidotum na konwalię majową~"
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "Aach, niebezpiecznie tu.",
+                "Lepiej czym prędzej się stąd zmyję."
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "Niesamowite.",
+                "Z taką silną trucizną dałabym radę zdominować świat."
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "Muszę zmykać. Muszę zmykać."
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "W tym roku zakwitasz poprzez energiczne zestrzeliwanie",
+                "latających ptaków. Trochę przesadzasz, Su-san."
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "Tegoroczna Su-san jest chyba nieco impulsywna."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ścinając konwalie majowe, należy trafiać w ich głowy~"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Brzmi jak Westernizacja~"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Widzisz, wystarczy przelecieć nad nią,",
+                "a ta już świruje."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Westernizacja jest pąkiem wojen~"
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Hey, Su-san.",
+                "Dlaczego jesteś tak silna tego roku?"
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "Ach, muszę się jakoś odtruć.",
+                "Czas zmykać!"
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "Nie uda ci się przeciwstawić tyle Su-san",
+                "przez tak długi czas!"
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Ach, rany! Jeśli tutaj zostanę, to stracę swój",
+                "piękny głos! Czas zmykać!"
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Czy ludzie byli zawsze tacy słaby?",
+                "A może to Su-san jest po prostu zbyt silna."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "Mmm.... To miejsce nie robi mi dobrze",
+                "na ciało. Muszę uciekać!"
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Jutrzejsza herbata będzie z konwalii majowej.",
+                "...Chyba już powinnam opuścić to miejsce."
+            ]
+        }
+    },
+    "91": {
+        "50_0": {
+            "lines": [
+                "Haaaa, co za wspaniałe uczucie."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Jak wspaniale pokonywać żywe istoty."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Czy nikt nie wie, że narzędzie, co",
+                "chodzi samodzielnie, jest niebezpieczne..."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Co w głowie mieli ci głupi ludzie, gdy",
+                "wyrzucili coś w tamto pole z kwiatami?"
+            ]
+        }
+    },
+    "92": {
+        "50_0": {
+            "lines": [
+                "Czy nikt nie wie, że narzędzie, co",
+                "chodzi samodzielnie, jest niebezpieczne..."
+            ]
+        }
+    },
+    "120": {
+        "140_0": {
+            "lines": [
+                "Łał."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Rany julek!"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Tutaj jest tyle trujących kwiatów~"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "To moja nagroda za wyjścia z domu raz na jakiś czas.",
+                "Co za ze mnie szczęściara!"
+            ]
+        },
+        "143_1": {
+            "lines": [
+                "Że porzucone narzędzie..."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Duszom na pewno łatwo jest opętać",
+                "narzędzia o ludzkim kształcie."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Ale jeszcze nigdy nie widziałam takiej, co",
+                "jest w stanie tak swobodnie ruszać ów ciałem."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Hehehe.",
+                "Niesamowite, co?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Fakt, że mogę ruszać swoim ciałem.",
+                "Fakt, że obiekt ma swobodną świadomość."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "To dzięki tej truciźnie.",
+                "Truciźnie Su-san."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Jeśli jesteś narzędziem, to",
+                "nie moja działka."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Tutaj jest niebezpiecznie, więc powinnaś",
+                "sobie pójść, zanim zrobi się chaotycznie."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Ale nie chcę."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Dopiero co znalazłam tyle trujących kwiatów."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Trujących kwiatów?"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "...Hę~?",
+                "Zakwitają lilie pajęcze czerwone...?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "...Nie zauważyłaś?"
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "C-cóż. To jest nieco kłopotliwe."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Zabiorę ze sobą kilka kwiatów i sobie pójdę,",
+                "więc jeśli masz zamiar atakować, to teraz."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Aaach.",
+                "Wyglądasz, jakbyś chciała, żebym to zrobiła."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Nic na to nie poradzę."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Wygonię cię stąd przemocą, więc",
+                "jak już się wyniesiesz, idź do domu!"
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "Aah, moje ciało jest pełne trucizny."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Jesteś dziwną lalką.",
+                "Czy trucizna przesiąkła też twój mózg?"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Oczywiście, jestem nią przepełniona.",
+                "Racja, Su-san?"
+            ]
+        }
+    },
+    "122": {
+        "50_0": {
+            "lines": [
+                "Jeśli będę nadal bawić się z tą lalką, to na mnie",
+                "nakrzyczą... Powinnam nie robić długich przerw."
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "W porządku, nacieszyłam się liliami pajęczymi",
+                "czerwonymi tyle, ile dusza zapragnie."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Chyba powinnam już wracać.",
+                "...A przynajmniej to powinnam myśleć..."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Co to? To nie trucizna, ale te fioletowe",
+                "kwiaty wiśni mnie przyciągają..."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Są niebezpieczne."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Jeśli nie będziesz uważać, to",
+                "te kwiaty wiśni..."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Nieskończenie wiele rąk urośnie i będzie",
+                "cię kusić. Trzymają się ciebie."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Eeeech?!",
+                "Obrzydlistwo~"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Nic na to nie da się poradzić.",
+                "Jesteś rodzajem narzędzia, lalką."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Nieważne, co sobie myślisz, ci co ciebie używają,",
+                "samolubnie wlewają w ciebie swoją miłość czy nienawiść."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Czasami nadadzą ci imię, czasami zmienią twój wygląd,",
+                "ale z każdej woli użytkownika, narzędzia są użytkowane."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Tak, narzędzia to są rzeczy, w które ludzie",
+                "samolubnie wlewają swoje uczucia."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "To prawda.",
+                "Bardzo to rozumiesz."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Tutaj w Muenzuce jest wiele dusz, co jeszcze",
+                "nie zrozumiały, że są martwe."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "To dlatego nie jest bezpieczne tutaj",
+                "przychodzić dla narzędzia takiego, jak ty."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Zostaniesz pochłonięta przez ich niestabilne umysły."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Nie, wtedy będę walczyć, dopóki..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Dopóki status lalek nie urośnie,",
+                "będę walczyć z ludźmi!"
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Czy trucizna zainfekowała także twoją głowę?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Konwalia majowa jest trucizną umysłu, lilia pajęcza",
+                "czerwona i konwalia majowa zatruwają inne części ciała."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Jeśli wystawisz się na obie trucizny, to",
+                "słusznie byłoby nazwać cię kawałkiem trucizny."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Wiesz, myślałam sobie nad czymś od pewnego czasu."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Czas, żebym w końcu wzięła się do roboty",
+                "i wypracowała wolność dla lalek!"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Nie zrozumiałaś efektu trucizny.",
+                "Musisz się nieco uspokoić."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Jeśli lalki zostaną uwolnione, to",
+                "kto stworzy nowe?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Czy uważasz, że są inne lalki, co będą",
+                "myśleć tak samo, jak twój mały umysł?"
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Tak, twój pogląd jest nieco zbyt wąski."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "....."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "Jak wiele razy opuściłaś swoje",
+                "małe pole konwalii majowych?"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Ludzie są tacy samy. Jeśli zamkną się w",
+                "małym miejscu na zbyt długo..."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Nie będą w stanie rozumieć innych.",
+                "Tylko twój umysł będzie trujący i agresywny."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Jesteś jak typowy człowiek,",
+                "co posiada mały umysł."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "T-to nie prawda!  Tak, dzisiaj",
+                "po raz pierwszy opuściłam pole konwalii majowych..."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "...Skąd ty wiesz, że ja żyję na",
+                "polu konwalii majowych..."
+            ]
+        },
+        "201_0": {
+            "lines": [
+                "Bez pomocy innych, nie będzie w stanie się przeprawić",
+                "przez rzekę Sanzu i zostaniesz wrzucona do niej po drodze."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "Nie ma takiej duszy, co by współpracowała z",
+                "duszą, co nie rozumie bólu innych."
+            ]
+        },
+        "203_0": {
+            "lines": [
+                "Nawet jeśli życzysz sobie wolności lalek,",
+                "pochłonie cię rozpacz, że nikt ci nie pomoże."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "Jako że jesteś lalką, której nie ujrzę po",
+                "jej śmierci, osądzę cię tu i teraz!"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "Kwiaty wiśni są...",
+                "Patrz, urosła liczba rąk, która cię uchwyciła."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Ci, co mają słabe serca, mają też słaby umysł.",
+                "Zjednoczą się z ziemią i zostaną zapomniani."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Ale nie musisz się martwić.",
+                "Wszyscy ludzie mają tylko małe serca."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Jesteś tak bliska istocie ludzkiej.",
+                "Musisz jedynie zadbać o bogate serce, aby przewyższyć ludzi."
+            ]
+        }
+    }
+}

@@ -1,0 +1,239 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "Even Reimu doesn't know the reason for these flowers;",
+                "This is dangerous."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "The scope of the incident is so broad that I can't figure out the perpetrator's intent.",
+                "Who would benefit from this incident?"
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "Have you noticed?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "The shrine's cherry blossoms have bloomed thrice already.",
+                "They scatter and bloom, then scatter and bloom again...."
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "When you move, flowers scatter.",
+                "Could you not walk a little more gracefully?"
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Look, there are petals on your hat."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "I was concerned, but..."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "There aren't many changes in the forest.",
+                "Perhaps I should pursue the perpetrator along this route?"
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "You should practice stopping time at this level."
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "Do you get orders from your mistress?"
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "It's nice that phantoms are so carefree. ",
+                "They don't seem to be thinking about anything."
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "The mochi that the moon rabbit made",
+                "was just normal mochi, wasn't it."
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "Yeah, ever since then,",
+                "we've been trying hard to reach the Moon but...."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "isn't there a good way to do that?"
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "It's wrong to think you are stronger than frogs.",
+                "Because fairies are of the lowest rank."
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "I hate playing above the lake.",
+                "It's such a hassle to retrieve my knives."
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "My, you're alone today?",
+                "Are you lost?"
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "I'm not really familiar with trumpets.",
+                "But, are they silver?"
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "We have a violin at home, too.",
+                "Though it's only for decoration."
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "If I had to say which was better,",
+                "a bird's song or your song, well..."
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "You sing unusual songs."
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "The carrot I found the other day was a rare one.",
+                "When I uprooted it, it let out a sad cry."
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "I wonder if you also eat Asian ginseng?"
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "So there was a newspaper running here after all!",
+                "But there isn't much to report about in such a peaceful place."
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "If you're killing time alone, why don't you come sell medicine at my place?",
+                "We don't have a pharmacy that specializes in poison around here anyway."
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "Do you think I could get sunflower seeds from you? In bulk.",
+                "Their oil is very useful."
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "Even if one's money is taken by a shinigami,",
+                "in a way they're just gonna scatter it back."
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "Suicide prevention by such attacks..."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "What's the point of that?"
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "A statute of limitations for a crime is a ridiculous thing to talk of,",
+                "but I wonder if there is such a statute in your trials?"
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "It's not good if the smell of flowers is too strong."
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "I heard a rumor in the wind about humans weak to pollen.",
+                "Maybe it's untrue."
+            ]
+        }
+    }
+}

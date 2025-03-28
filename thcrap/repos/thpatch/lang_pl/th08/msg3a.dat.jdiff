@@ -1,0 +1,271 @@
+{
+    "2": {
+        "61_0": {
+            "lines": [
+                "Czy to wy? Czy wy próbujecie zaatakować",
+                "tą wioskę w środku nocy?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Ta okropna scena, to przez ciebie, co nie?",
+                "Gdzie wysłałaś ludzi i ich wioskę?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Nie oddam ludzi wam youkai."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Zrobię tak, że ta noc nigdy się nie wydarzyła!"
+            ]
+        }
+    },
+    "3": {
+        "61_0": {
+            "lines": [
+                "Ach, czym u licha jesteście?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hej, zwróć wioskę!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Tak uparta."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Nie jesteś teraz zbyt ważna."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Ludzka Wioska powinna być tutaj, co nie?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Ale obecnie nie ma nic. Co się stało",
+                "z ludźmi i ich domami i w ogóle?!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Nic."
+            ]
+        },
+        "64_h1_0": {
+            "lines": [
+                "Keine Kamishirasawa"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Po prostu zrobiłam, że wioska jest",
+                "niewidzialna dla twojego gatunku."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Reimu, nie mamy czasu, aby tutaj się wałęsać."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Gdy my sobie gadamy, księżyc powoli osuwa",
+                "się niżej."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Nie mamy zamiar tutaj zostać, ale poczekaj chwilę."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Nie mogę po prostu zignorować youkai, która usunęła",
+                "całą wioskę ludzi."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "„Ludzie nigdy tutaj w ogóle się nie osiedlili.”"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Po prostu spowodowałam, że na taką sytuację wygląda."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Ochronię ludzi od tej złowrogiej nocy."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Hej, hej."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Ja jednak widzę ludzi tak jak zwykle."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Przekręty na tym poziomie nie są zbyt użyteczne,",
+                "co nie?"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "!"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Na serio, kim wasza dwójka <i$jest>?"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Nie martw się. Dla mnie są dość niewidzialni."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "...kurcze. Twoje politowanie nie pomaga."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "I ty."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Ty jesteś w połowie bestią, co nie?"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Jestem człowiekiem, gdy nie ma pełni księżyca."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Czyli podobnie jak pies z ludzką twarzą,",
+                "czy skała z ludzką twarzą."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Czemu zakładasz, że wszystko oprócz mojej twarzy się",
+                "zmienia?! Powiem ci, że zmienia się całe ciało!"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "A może jest jak Gozu i Mezu, gdzie",
+                "tylko głowa jest jak u potwora."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "...No cóż."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Jeśli tak mówisz, to nie pozwolę ci tego odszczekać."
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "Dzisiaj, stworzę cesarską ucztę z waszych historii!"
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "Nie licząc mnie, historia tej tutaj to byłaby",
+                "najwyżej lekka przekąska."
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "Zamknij się. Nawet wtedy, to oznacza, ",
+                "że dla mnie każdy dzień to herbata i przekąski."
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "A teraz, przywróć Ludzką Wioskę!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Będzie dobrze, jak ją odstawisz. W ogóle nie ",
+                "myśleliśmy na temat ciebie i tutejszych ludzi."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Więc, gdzie próbujecie się dostać?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "O tam."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Nie, tam."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Jeśli szukacie tych, co spowodowali niedawno ten",
+                "dziwny księżyc, idźcie w tym kierunku."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Widzisz, miałam rację, co nie?!"
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Reimu, twój palec pokazywał o jakieś 70 stopni",
+                "w innym kierunku."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "A twój o 110.",
+                "Zaraz, czy ona odgadła, co my chcemy zrobić?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Zdziwiłabym się, gdyby nie odgadła."
+            ]
+        }
+    }
+}

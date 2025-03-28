@@ -1,0 +1,978 @@
+{
+    "50": {
+        "140_0": {
+            "lines": [
+                "What's around here is..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Oh, you're speeding."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Where are you going in such a hurry?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I'm looking for some big news.",
+                "Very big."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Why are you stressing the \"big\"?"
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Hmm."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "I'm looking for big news.",
+                "The flower incident will get me some material to an extent."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "I know, write about me!"
+            ]
+        }
+    },
+    "70": {
+        "140_0": {
+            "lines": [
+                "There are some good stores around this area."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Crow~, why do you cry~"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "It's the will of the crow~"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ah, there you are.",
+                "Are you going to set up a store tonight?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I'll be flower viewing tonight."
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "I see. It's more preferable to drink saké under",
+                "the evening cherry blossoms, I suppose."
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "It's great that crows are able to cry freely."
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "Above the clouds lies this gate.",
+                "Is it possible to open this?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah, I've seen you before somewhere."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Where was it again?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ah, the youngest of the Prismrivers.",
+                "I'm not covering an event today, though."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Ah, that's right.",
+                "You're the media."
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "When this gate opened, a serious disaster must have occurred."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "We're going to be doing a live performance soon.",
+                "When that time comes put us on the newspaper. Make it really flashy."
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "This was... too narrow so it went under...",
+                "This was... too suspicious so it went under..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Oh,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "And where are you going while mumbling to yourself?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Looking back at it, they were all pretty boring news stories.",
+                "There aren't any suspicious people around here, huh."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "You're going to attract ghosts if you keep talking to yourself."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "Oh my, while I was thinking it looks like I ran into a human."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Since you're thinking, that means you're trying",
+                "to solve the flower incident for your story, right?"
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "It looks like there isn't as much material as",
+                "I thought there'd be..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Now selling info~ Now selling info~"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "One for ¥1~"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "When did that kind of business originate, I wonder."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Because there's a demand for something, a business is born."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "If there's someone searching for news material,",
+                "there'll be someone selling news material."
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "So did you enjoy my one yen's worth?",
+                "I'd appreciate it if you'd fill me in now."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "To tell the truth, there's actually better news",
+                "than the ¥1 info..."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "But it costs ¥2."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "That's too expensive..."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "It's pointless to attack me~"
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "Story~ Story~"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "A tengu?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "It's rare to see a tengu worry."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ah, to find you here!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "A shrine maiden is a great source for information.",
+                "I can always count on the shrine maiden when it's this clamorous."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Am I being made fun of?"
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Now, now, is it okay for you to be doing whatever you want?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "I give up. My intuition is pretty dull today anyway."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Oh geez, what's with that weak line?"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "If you're going to skip out, <i$I> might just",
+                "make the flowers go back to normal."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "That's right, if you're a tengu then you might know something.",
+                "About this flower incident too."
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "Shoot.",
+                "I carelessly ran into a house while looking for material."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Carelessly, you say,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "There are too many careless people lately.",
+                "Really."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "So, you wouldn't happen to have any",
+                "information for a careless article would you?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "It's full of flowers outside this house.",
+                "How about going out and writing about that?"
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "I've somehow figured out the cause of the strange flowers."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "It's not a normal incident."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Really, can someone carelessly enter someone else's house?"
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "It's been a while since I came to the Netherworld.",
+                "But it looks as normal as ever here."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Hm?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "A tengu, right. Don't tell me Lady Yuyuko did something again..."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I thought she might be behind this so I came here,",
+                "but I was off the mark."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "This world is as usual; peaceful and quiet."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "...Attacking won't get me anything.",
+                "Maybe I'm growing a dueling habit."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "I just said it's quiet and peaceful~"
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "Everyone's causing a commotion, but they're",
+                "just taken aback by the flowers so I have no destination."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "That's it."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "It's true that everyone's acting strange.",
+                "They're flying all over the place, but they don't seem to have a destination."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ah, Ms. Thief.",
+                "Are you flying around with a destination?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Th-thief!?",
+                "Who are you talking about?"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Ah, you were a magician.",
+                "So, destination?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "I'm looking for a rare flower.",
+                "Although it doesn't have to be a flower."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "With this many flowers blooming, rare has become even rarer."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "What.",
+                "You're a tengu right?"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "If so, I bet you've got a lot of interesting stuff with you."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "I don't have a single thing",
+                "to lend to a thief."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "It looks like you only cause disruption",
+                "that'll make for tiny news stories..."
+            ]
+        },
+        "55_0": {
+            "lines": [
+                "Oh well, looks like I shall",
+                "reveal the truth behind this flower incident."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Thief, that's harsh.",
+                "Do I look like someone who'd steal?"
+            ]
+        }
+    },
+    "110": {
+        "140_0": {
+            "lines": [
+                "The wind has stopped."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "The wind isn't blowing on the hill here."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "It feels bad so why not make some gusts myself."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Hold it!"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "First, a gale."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "It's perfect that the wind doesn't blow here,",
+                "the poison doesn't scatter everywhere then."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Who might you be?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "I was living here from the beginning.",
+                "Rather, that's what I should be asking you."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Ah, excuse me.",
+                "I'm a newspaper reporter, Aya Shameimaru."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "It's my day off and I'm collecting information."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "For work?",
+                "For fun?"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "And newspaper reporter you say,",
+                "but was there a newspaper?"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "There is.",
+                "Just between the tengu."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "I see, so what are you investigating now?",
+                "Or are you on a break?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Are you... a youkai that would be likely to",
+                "do something that'll make a good story?"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Geh, that's tough to answer."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "If I said yes, it'd be coming straight from me and all,",
+                "if I said no, it'd be kind of annoying..."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Well that's fine. If you're not going to make a good",
+                "article I'm wasting my time, I'll hurry on to the next."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Wait a second!"
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Write about me!",
+                "I won't do anything weird though."
+            ]
+        }
+    },
+    "111": {
+        "50_0": {
+            "lines": [
+                "Even if you threaten me, I won't write anything",
+                "straying from the truth."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "It won't even be threatening in the first place, though."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "I see, tengu are the wind.",
+                "No wonder my poisonous mist didn't work..."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Be careful from now on",
+                "so that I won't have to write an article about poison overuse."
+            ]
+        }
+    },
+    "112": {
+        "50_0": {
+            "lines": [
+                "Now, be sure to write cool things about me!"
+            ]
+        }
+    },
+    "120": {
+        "140_0": {
+            "lines": [
+                "I wasn't just wasting my time myself."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Yes, I was just searching for the place",
+                "with the most phantoms."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Deep in here is where the most phantoms gather.",
+                "Muenzuka..."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Ones who commit suicide"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Are either enlightened sages or fools that think too much."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Ninety out of one hundred times, they're the latter."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "The fools who try to justify suicide don't realize",
+                "the foolishness of that."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Well, tengu do think too much.",
+                "There might've been some who have come to commit suicide."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Who said I was going to commit suicide?"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "The only people who come here are such fools."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Nobody would enjoy a story about a suicide.",
+                "Nobody would want to read or hear about it."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "If it's written about, one might cease their suicide.",
+                "See, even the phantoms flying around here..."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "...Wait, phantoms!?"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Why are there so many?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Did you not notice?",
+                "Gensokyo is full of phantoms right now."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "I think those phantoms are making the flowers bloom.",
+                "Because of that, Gensokyo is full of flowers."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "What!?",
+                "We-well. This is a bit unpleasant."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Ah, I can feel a scoop."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Is that the problem here?",
+                "If I don't get back to work now-"
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Do you think you can escape Gensokyo's fastest tengu?"
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "You're very suspicious.",
+                "Are you Sanzu River's shinigami?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "That's right.",
+                "Since you understand that much let go of me."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "I guess it's fine.",
+                "I've mostly figured out the true nature of this flower incident anyway."
+            ]
+        }
+    },
+    "122": {
+        "50_0": {
+            "lines": [
+                "If I don't hurry and go back to my workplace,",
+                "I'll be scolded at~"
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "I've gathered a lot of information.",
+                "It feels like I can make an article with this."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "It's not my job to solve this,",
+                "so I'll be heading back to work now."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "...but, huh?",
+                "Why am I heading toward those cherry blossoms?"
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "The violet cherry blossom gathers sins and makes flowers bloom."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Sins that cannot be spoken of, or even sins that the person themselves",
+                "are not conscious of, have no meaning in front of the cherry blossoms."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "The violet cherry blossoms have come and witnessed all sins."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Excuse me~, but who might you be?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "What's wrong? These cherry blossoms seem like something you",
+                "are inclined to, treasures of the past."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Murderers, locked room murders, serial murderers,",
+                "and manslaughters; there are many cases sleeping here."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Do the cases only consist of murders?",
+                "I don't really wish to write about murders, though..."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "I am the one who measures the weight of sins;",
+                "yes, the Yama."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Eh, you're the Yama!?",
+                "Why have you come to such a remote place?"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "The number of deceased from the outside world",
+                "occasionally drastically increases."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "They generally increase by a cycle of every sixty years."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "It turns out that now is that time..."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "So that's how it is..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Speaking of which, I think I recall",
+                "flowers blooming out of season in the past as well."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "But a cycle of sixty years is too long ago,",
+                "it can't be helped if I forget it."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "You are drawn to the violet cherry blossoms that bloom sins."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Tengu are naturally curious,",
+                "so they are sensitive to new occurrences."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "But sometimes,",
+                "curiosity can cause events."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Yes, you are a little too inquisitive."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "To relay events through a newspaper is",
+                "to create a new event."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "You may be intending to investigate an incident,",
+                "but you yourself are causing one."
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "If the sins of events you have caused are",
+                "included with your own sins,"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "you will most likely fall to Hell."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "Eeh~",
+                "I write articles with no bias or fabrications~"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "It is impossible to truly record the truth."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "That is because you cannot bear in the fact",
+                "that there are others who read the article."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "If you write an article, the truth will change."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "If you watch the truth change and rewrite the article,",
+                "the truth will change yet again."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "When writing an article,",
+                "you must be prepared to cause an event!"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "The souls in the cherry blossoms here",
+                "wish to be written in an article."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "They wish to realize their sins and be freed."
+            ]
+        }
+    }
+}

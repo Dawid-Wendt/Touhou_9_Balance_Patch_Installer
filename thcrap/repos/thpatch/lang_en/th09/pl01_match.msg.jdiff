@@ -1,0 +1,241 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "Today it's your turn to take care of",
+                "cooking and all that."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "You worry too much. ",
+                "I don't think all the flowers blooming at once is a bad sign."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "Did you know?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "The cherry blossoms in Kourindou turned unnaturally white. ",
+                "I think that's a sign of the incident."
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "I'm heading back.",
+                "Playing alone is no fun."
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "You're alone today? I guess she",
+                "doesn't need a babysitter."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "How about taking this pheasant's eye ",
+                "and putting it the tea for your mistress to drink?"
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "Oh yeah. I haven't been to this world lately.",
+                "Although the surface world is overwhelmingly more gorgeous."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "If the flower incident is reaching the Netherworld,",
+                "then maybe that cherry tree might bloom, too."
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "My eyes are tired lately.",
+                "Mix me some eye treatment medicine, will you?"
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "Oh? ",
+                "Your eyes are red, too."
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "I don't get why you like the cold at all. ",
+                "I don't get your existence in general, really."
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "What will you do to take down those other fairies?"
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "For some reason you're noisier alone than when you're together."
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "Oh? This is some nice sound.",
+                "You're the best of the three."
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "Violins sound like scratching on a wooden plank."
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "You're just a simple bird in daylight.",
+                "But not a sparrow."
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "My firepower isn't enough for roasting chicken, is it?"
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "Give me more luck, will you?",
+                "The kind that makes rare things come out when I ask for my fortunes."
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Speaking of which, the shrine around these parts ",
+                "gave me a spell card when I asked for my fortune."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Now that was rare."
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "Oh yeah, go bring me a newspaper",
+                "that has my stories on it this time!"
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "Whatever anyone says, even something you eat every day could be full of poison."
+            ]
+        }
+    },
+    "111": {
+        "50_0": {
+            "lines": [
+                "I picked up something that looked like preserved food from the outside world recently."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "It's called \"space food\", I think.",
+                "At least that's what Kourin said."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "It's in this weird bag....",
+                "It's supposed to be a taste of space, but is it poisonous?"
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "You're not behind all this?",
+                "Nobody would think it's strange for it to be you."
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "What time period did this money come from?",
+                "Can I really use this?"
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "I don't intend to tell lies."
+            ]
+        }
+    },
+    "131": {
+        "50_0": {
+            "lines": [
+                "Lies are convenient.",
+                "That said, I don't have any intentions to lie."
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "There's too many flowers.",
+                "My color perception is going berserk."
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "The fragrance is strong, too.",
+                "My nose is going to malfunction."
+            ]
+        }
+    }
+}

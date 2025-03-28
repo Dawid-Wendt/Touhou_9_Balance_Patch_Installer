@@ -1,0 +1,862 @@
+{
+    "50": {
+        "140_0": {
+            "lines": [
+                "If I'm right, then even on this desolate lake",
+                "the flowers should be blooming."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Where exactly on the lake,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "are flowers growing?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Watch.",
+                "In just a moment you'll be able to see flowers."
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Hmm.",
+                "I guess there's no use teasing a fairy."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "Flowers... On the lake, flowers are—"
+            ]
+        }
+    },
+    "70": {
+        "140_0": {
+            "lines": [
+                "They're cherry blossoms alright, in various colors."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "When I cut the cherry blossoms I got scolded~♪"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "When I said it honestly I was moved~♪"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Hey, hey, don't mix up the lyrics.",
+                "It's not moved, it's disowned."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Eh?",
+                "I sang it wrong?"
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "Oh, I can't tell if there's a mistake just from the lyrics.",
+                "But from your face I could."
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "What kind of parents would be moved",
+                "if they were told that the cherry blossom tree was cut down?"
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "This is a place where flowers wouldn't bloom normally—Above the clouds.",
+                "Then if I'm right..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah, something came~"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Where are you headed?",
+                "Ms. Flower Youkai."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Naturally, to make flowers bloom. All over this world."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Wow, I already found the flower incident culprit!"
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "Cherry blossoms are so dense, that they're called clouds of the ground.",
+                "Cherry blossoms are clouds that have fallen to the ground."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Afterward, when cherry blossoms return to the heavens,",
+                "what comes next is the scenery of clouds."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "That's the so-called rainy season."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "The incident quickly settled~!",
+                "...But now this isn't fun at all."
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "Flying all around here",
+                "isn't going to make the situation any better."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Oh?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I see, this was all your doing.",
+                "I've noticed since the beginning."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "If you're not coming, then I am."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Thanks for cutting short my travel distance.",
+                "It's nice taking it easy."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "It's still fun even with this incident in the air."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Now hurry up and change everything back to normal!"
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "When humans die, they use flowers as decoration, was it?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "That's how it goes."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "But they do the same for happy events, right?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Do you know why flowers can be a symbol of death as",
+                "well as happiness?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Why am I having idle banter with a youkai here?"
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "That's because they're the same as humans."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Souls gather, flowers bloom,",
+                "when souls leave flowers scatter."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "That's because flowers predict fate.",
+                "There's even flower divination, isn't there?"
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "It's kind of annoying flying around the bamboo thicket since my",
+                "umbrella keeps getting damaged."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Then it'd be fine not flying at all, right?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "It's not raining and it's foggy,",
+                "so why do you have an umbrella at all?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "This curved shape is made for gathering the faint scent of flowers."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Aah, I see."
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Of course that can't be true.",
+                "This is the only flower in Gensokyo that doesn't wither."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "The flowers now have a strong scent,",
+                "so you must be able to smell it."
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "Flowers, phantoms...",
+                "Life, death..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah, are you possibly..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "That flower-like chi!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I am indeed one who dabbles in flowers.",
+                "Is there anything I can help you with?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Help! I don't even have to say it!"
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "If you thought I'd know without you even saying anything, big mistake."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "It looked like you wanted to say that tonight is rabbit stew."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "There's no mistake that a flower youkai caused this flower incident."
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "The flowers that bloom in the world of living are",
+                "very bright, so they symbolize life,"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Someone came again."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Geez, ever since the flowers started blooming in the world",
+                "of living, everybody has been going wherever they want."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "And at the same time, rather than transience, flowers",
+                "symbolize death. Mysterious, isn't it."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "There aren't many flowers blooming in the Netherworld."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "Even if they're not here, the flowers in the",
+                "world of living right now reek of death."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "You know there are more symbols of death",
+                "than just putting down flowers at a funeral."
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "Flowers and phantoms and..., hmm.",
+                "Speaking of which, this happened once before didn't it?"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "How many decades ago was it?",
+                "It's been so ordinary since then, I can't remember."
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Ah, there you are!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "You're the culprit, aren't you?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Last time I just let it happen and it",
+                "all went back to normal, didn't I tell you?"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Everything went back to normal when I defeated you back then!"
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "What are you talking about?",
+                "I'm talking about an event that happened decades ago, you know?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Way before you were even born."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Ah, that's right, that was sixty years ago.",
+                "Aah..."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "I see, it's almost that time again...",
+                "Sixty years, huh? It's coming around again."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "You saved me a lot of trouble coming out yourself!",
+                "Now make return everything to normal."
+            ]
+        }
+    },
+    "100": {
+        "140_0": {
+            "lines": [
+                "Everywhere I go, flowers, flowers, and more flowers."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "I haven't seen Gensokyo like this in a long time."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "The last time this happened was exactly 60 years ago."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "*stare*"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "*stare*"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Um, uh, well, I was just hiding and observing you."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Well, I was observing you without hiding."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "You're a tengu, right?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "There are other humans that'll net you",
+                "more material than me."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "I'm a newspaper reporter that mainly focuses on youkai."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "The wind told me that there was a youkai flying about",
+                "and causing a ruckus, so I searched for you."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "How much do you want?"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Even if I receive money, I intend to record the truth."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "I see, that's unfortunate."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "I'm a youkai that manipulates flowers.",
+                "I'm the one that caused this incident to occur."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Eh?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "I don't see what's so unfortunate about that but,",
+                "if that's true then it'll be a huge scoop!"
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "What's unfortunate is that I was lying."
+            ]
+        }
+    },
+    "101": {
+        "50_0": {
+            "lines": [
+                "You'll need about 2 to 3 more years before you can stick to me."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "This feels like it'll be a good story, though...",
+                "Extremely."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Try going to the shrine and writing about",
+                "a certain shrine maiden's shameful behavior."
+            ]
+        }
+    },
+    "102": {
+        "50_0": {
+            "lines": [
+                "You say you're lying,"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "but you really did do it, didn't you?",
+                "This flower incident."
+            ]
+        }
+    },
+    "120": {
+        "140_0": {
+            "lines": [
+                "Now then..."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "My brief survey of Gensokyo's flowers led me here,",
+                "this is the last of it."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "You're here, aren't you?",
+                "The bottleneck that hangs around here."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Bottleneck?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "What's that supposed to mean?",
+                "Is there something here at Muenzuka?"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "You came.",
+                "The bottleneck shinigami."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "What? What are you talking about?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "...Wha, this place has become~!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "See?",
+                "The red spider lilies are out of season."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "A certain shinigami was taking it a bit too easy."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Th-that isn't true."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "See, there are just way too many phantoms now.",
+                "Something strange must've happened in the outside world."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "So I wasn't working for a little bit,",
+                "and I let a couple of flowers become possessed, forgive me."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "What nonsense are you blabbing about!"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "That's what you call a rush of business."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Besides, if the flowers bloom all on their own,",
+                "there's no place for me here, is there?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Okay.",
+                "I'll try to take care of it."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Take care of it right now!"
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "Maybe things will go back to normal a little faster with this."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "I said I'll try to take care of it~!"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Now then, I've said what I wanted to.",
+                "I don't have any more tasks, huh..."
+            ]
+        }
+    },
+    "122": {
+        "50_0": {
+            "lines": [
+                "I'll do my best and ferry the phantoms to the other side.",
+                "I'll ferry them, okay~?"
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Although it's perfectly natural,"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "even the Higan cherry blossoms are in full bloom."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "I'm here anyway, so I might as well enjoy the flowers",
+                "before heading back."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Purple cherry blossoms bloom flowers of melancholy, and scatter the petals of memory."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Fallen flowers, after a long time, return to the Earth",
+                "and once again bloom flowers."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "This is the endless cycle of sins.",
+                "Yes, the fate that occurs once every sixty years."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "But it's been in full bloom for a while.",
+                "The Higan cherry blossoms."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "It shows just how many sinners have died."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "It makes you wonder what's happening outside."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "It doesn't matter."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "I just want to rest under these cherry trees",
+                "and reminisce about the past."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "If you rest here, you will become insane."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "No, you might already be a little strange."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Whether they were humans or youkai,",
+                "whether they were ghosts or fairies,"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "you have attacked everyone.",
+                "Without much reason, as well."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "I was just teasing them.",
+                "It's a daily thing."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Living is that much of a sin."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Yes, you have lived a little too long."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "If you continue living on like this, nothing good will come of it."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "If you were quiet and listened for a little,",
+                "you'd know it was all only fooling around."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Do you think when you're not teased,",
+                "you're above everyone else?"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Let's make it as clear as black and white",
+                "who of us is the strongest in Gensokyo!"
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "It's my job to discern black and white."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "However, I am not of Gensokyo.",
+                "Nor am I of the world of living."
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Judgment is done from top to bottom, from left to right,",
+                "and must always be completely one-sided!"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "No matter how you fall, the one who shall be judged",
+                "to be black or white is you!"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "Cherry blossoms...",
+                "really want to become white."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Since you have lived so long,",
+                "you have seen white cherry blossoms, have you not?"
+            ]
+        }
+    }
+}

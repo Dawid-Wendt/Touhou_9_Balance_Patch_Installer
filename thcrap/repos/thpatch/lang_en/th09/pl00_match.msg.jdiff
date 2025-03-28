@@ -1,0 +1,246 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "Who're you?"
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "The forest doesn't have plants as fancy as flowers, does it? ",
+                "And that's why you're weak."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Flower petals fall more naturally, you know.",
+                "Unnatural straightness like that isn't going to work out."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Can you see the fairies with the flowers?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "That's the proof that the flowers aren't natural."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Since fairies are nature itself, they're",
+                "having an uproar over the unnatural flowers."
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "Metal on flower's just a sad thing. ",
+                "Do pick it up before you go back, will you?"
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "At times like this, I feel sorry for whoever can't walk outside during daytime."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Your name..."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "points to which flower's blooming?"
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "Must be nice; Otherworldly people can be carefree all the time."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "Why don't we have a flower viewing in the other world, instead of always at the shrine?"
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "By the way, I heard your rabbit's doing mischief here and there."
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "Oh, right. I saw the Moon waning in a breakneck speed before."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Was that you and your friends' doing?"
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "You're the one fairy we don't need in spring."
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Don't you go wild. ",
+                "Flowers are gonna wilt."
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "Too noisy. ",
+                "Souls are supposed to come out more subtly."
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "Really, your sound's dangerous,",
+                "it makes me all hyper."
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "Being with you makes me somewhat gloomy."
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "First time I've seen you in a bright place and you look weird."
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "Amazing, how you can sing without even drinking."
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "Rabbits seem to be increasing nowadays. ",
+                "Must be rabbit hunting season again, I guess?"
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "Now go write a heroic tale about me beating a tengu or something!"
+            ]
+        }
+    },
+    "101": {
+        "50_0": {
+            "lines": [
+                "Why do you only make news out of people's failures?"
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "Too much poison's going to be bad for you."
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "Great, more bothersome ones."
+            ]
+        }
+    },
+    "91": {
+        "50_0": {
+            "lines": [
+                "By the way, this mishap's your doing, right?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "I knew it from the start."
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "Why do you have so much money?"
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "Before you talk about anyone else, how about you? ",
+                "You really didn't do anything wrong?"
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "Can I really kill time in a place like this? ",
+                "This is all the flowers' fault."
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "Spring breeze making flowers fall is just about the right level."
+            ]
+        }
+    },
+    "212": {
+        "50_0": {
+            "lines": [
+                "Doesn't really matter to me, but..."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Flowers are just gonna fall after blooming, right? ",
+                "After that, this year's gonna be over so soon?"
+            ]
+        }
+    }
+}

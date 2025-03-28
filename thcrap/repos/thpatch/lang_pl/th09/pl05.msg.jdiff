@@ -1,0 +1,818 @@
+{
+    "70": {
+        "172_0": {
+            "lines": [
+                "Nie liczyłam na wróżkę."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Patrz! Zamrażanie spadających",
+                "płatków kwiatów wiśni jest takie fajne!"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Kwiaty wiśni! Kwiaty wiśni!"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Kwiaty wiśni~ Kwiaty wiśni~♪"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Porwę głupiego człowieka zapatrzonego w kwiaty wiśni~♪"
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "Jak zamrożę płatki kwiatu wiśni, to stają się śmiertelnymi broniami!",
+                "Z nimi, jestem niezwyciężona!"
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "Przez ciebie jest zimno.",
+                "Teraz ludzie pewnie tędy nie będą iść."
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "R-rany!",
+                "Ogromne!"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "W końcu, tutaj nad chmurami,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "znalazł się jakiś dziwak."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Pomyślałam sobie, że jeśli polecę wysoko,",
+                "to zobaczę wiele kwiatów naraz!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Dużo nie zobaczysz, jak jesteś nad chmurami."
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "Dzisiaj tego czegoś nauczyłam."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Ponad chmurami, lód lubi się przywierać do",
+                "mnie, więc powinnam rzadko tutaj przychodzić."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "Nad chmurami jest niska temperatura sama",
+                "w sobie, więc tutaj się nie przydasz."
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "Ręka, którą zrywam kwiaty, także",
+                "je zamraża. Jak fajnie!"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Niby co"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "jest w tym fajne?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Nie wiesz? Zrywanie zamrożonych kwiatów",
+                "powoduje taki przyjemny dźwięk."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "A, to wiem."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "Wielkie odkrycie! Zamiast je zrywać, lepiej",
+                "jest zamrozić obszar i położyć się na nich!"
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Dzisiaj wróżki są niesamowicie żywe...",
+                "Ty nie jesteś wyjątkiem."
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "Za każdym razem gdy wchodzę do",
+                "bambusowego lasu, gubię się w nim."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Potrzebujesz mnie~?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Chwila, nie prosiłaś o mnie.",
+                "Rozumiem."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Nie prosiłam!",
+                "Ale potrzebuję twojej pomocy z wyjściem."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Wróżkom nie przeszkadza, jeśli nie mogą wyjść, co nie?",
+                "Czemu nie skorzystać ze swojego zagubienia~?"
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Nie, chcę wrócić do domu, zanim będzie ciemno! Wyglądasz,",
+                "jakbyś znała te okolice, więc zaprowadź mnie do jeziora."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "Bambusowy las to wielka pułapka na zagubionych ludzi.",
+                "Sama dałaś się złapać w pułapkę, więc przestań narzekać."
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "Ledwo co wyszłam z jeziora, a już",
+                "tyle fajnych rzeczy znalazłam."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Widzę, że masz ubaw."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "W pojedynkę."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Czego chcesz? Nie przeszkadzaj mi."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Wygląda na to, że masz ubaw.",
+                "Pozwól mi się wmieszać."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Nawet zakłopotałam się zrobieniem",
+                "suszonych kwiatów bambusa!"
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "Nagle zrobiło się serio zimno!",
+                "I to nie jest byle jakie zimno!"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Jeśli o to chodzi, to"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "głośna wróżka w okolicy nie powinna",
+                "wiele zmienić..."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Z mojego punktu widzenia, samo to, że",
+                "ktoś przyszedł, to znacząca zmiana."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Wybacz, że cię przestraszyłam."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Dostaniesz za to łomot."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "To jest mój zamek.",
+                "Nie właź sobie w zimnych butach."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "Ach, rozumiem, badasz te kwiaty. Ja",
+                "też to badam, więc jeśli coś wiesz, powiedz mi."
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "Jeśli pójdę tu lub tam, wszędzie kwiaty~"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ach, znalazłam idiotkę."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Masz w planach zrobić coś złego?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Oczywiście!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Nigdy się nie nauczysz, co."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "W moim świecie, wszystkie bambusy są w kawałkach."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "Nie ma zwierzęcia czy rośliny co lubi zimno.",
+                "Nieważne gdzie pójdziesz, nikt cię nie polubi."
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "Ech... Nawet jeśli pójdę tutaj się ",
+                "włóczyć, niewiele się zmieni."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Och,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "tutaj jest wróżka, co niezbyt",
+                "zlewa się z kwiatami."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Że co...?!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Ach, to nie miała być obelga, ok?"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Po prostu, kwiaty niezbyt radzą sobie z zimnem.",
+                "Chociaż jakoś wątpię, żeby te kwiaty były takie same."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Mogę rozerwać kwiat na kawałki,",
+                "lub nawet dwa!"
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "Ta, jestem najsilniejsza."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Jako że nie mam zamiaru z nikim przegrać,",
+                "chyba czas powiększyć obszar moich działań!"
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Każdy jest w stanie rozerwać na kawałki",
+                "jeden lub dwa kwiaty."
+            ]
+        }
+    },
+    "100": {
+        "140_0": {
+            "lines": [
+                "Rany, nawet w takim miejscu jest staw.",
+                "Warto było przyjść tak daleko."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Ciekawe, czy są tutaj jakieś żaby..."
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Brzmi ekscytująco."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Co nie?",
+                "Ktoś mnie śledzi od pewnego czasu."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Tutaj żyje wielka ropucha, więc ",
+                "nie powinnaś być nieco ostrożna?"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Co?",
+                "Wygląda, jakbyś wcześniej miała ubaw."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "To dlatego, że myślałam, że jeśli znajdziesz jakąś ropuchę i",
+                "zrobisz jej kilka psikusów, zrobi się interesująco."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Niezbyt rozumiem, ale nie będzie interesująco!",
+                "Jesteś niemiła."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Cóż, w takim wypadku, rób swoje.",
+                "Nie przejmuj się mną i baw się."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Zaraz, mam pomysł!",
+                "Coś bardziej zabawnego, niż mrożenie ropuch!"
+            ]
+        }
+    },
+    "101": {
+        "50_0": {
+            "lines": [
+                "I jak?!",
+                "Poddajesz się?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Poddaje się, poddaje się. Ale wiesz,",
+                "atakowanie głosu społeczności jest okrutne..."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Następne na liście jest dręczenie ropuchy!",
+                "Na pewno jest gdzieś w tym stawie!"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Brzmi ekscytująco."
+            ]
+        }
+    },
+    "102": {
+        "50_0": {
+            "lines": [
+                "O rany, przez przypadek wygrałam.",
+                "A myślałam, że wystarczająco się powstrzymuję."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Cóż, z tego nie ma frajdy."
+            ]
+        }
+    },
+    "90": {
+        "140_0": {
+            "lines": [
+                "Słoneczniki, słoneczniki,",
+                "Słońce sobie biega~"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Niesamowite. Jest wiosna,",
+                "ale słoneczniki nadal tak kwitną."
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Rany, co za urocza wróżka."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Ehehehe~tak myślisz?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Tutejsze słoneczniki tak się na ciebie patrzą,",
+                "że aż chce mi się zmienić ciebie"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "w kolejny okaz."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Jak już o tym wspominać...",
+                "To te słoneczniki tak jakby się tak na mnie patrzą."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Bo tak jest."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Ponieważ jesteś niczym słońce."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Nie okłamuj mnie.",
+                "Jestem lodową wróżką. Ja, niczym słońce?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Tutejsze kwiaty są bardzo wrażliwe",
+                "na nieproszonych gości."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Chcę, żeby tutaj było bardziej cicho,",
+                "to dlatego mam te słoneczniki na straży."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Niezbyt rozumiem...",
+                "Ale trochę zaczynam się bać."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Hej~",
+                "Chyba byłoby lepiej, gdyby mnie tutaj nie było."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Teraz, moje urocze słoneczniki!",
+                "Niech ta wróżka do was dołączy!"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Wiesz, że niektórzy mówią „zrobić z kogoś ul”,",
+                "gdy chcą komuś spuścić naprawdę niezłe lanie.\u0014Japońskie przysłowie, coś w stylu „zrobić z kogoś ser szwajcarski”."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Ale w ulu są pszczoły, a te mogą zaatakować w obronie."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Dlatego ja wolę mówić „zrobić z kogoś słonecznik”."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Słonecznik z tymi wszystkimi nasionami w środku",
+                "trochę przypomina ul i ma w sobie te wszystkie łuski."
+            ]
+        }
+    },
+    "91": {
+        "50_0": {
+            "lines": [
+                "Teraz, muszę uciec, gdy nadal mogę!"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Teraz pójdę tam, gdzie jest ciszej!"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "To, że uciekłaś, to nie problem.",
+                "Wygląda na to, że słoneczniki będą jeszcze trochę zakwitać."
+            ]
+        }
+    },
+    "92": {
+        "50_0": {
+            "lines": [
+                "Wygląda na to, że jesteś zauroczona kwiatami.",
+                "Wróżki są podobne do owadów, co nie?"
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Może tutaj nie będzie dziwaków?",
+                "Trochę się pobawię."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "...Zaraz, czy to nie jest cmentarz?"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Ach, kogo to obchodzi, te kwiaty wiśni są ładne."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Przyszła tutaj wróżka, co nie lubi",
+                "ponurych rzeczy, co za rzadkość."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Ach! Znowu ktoś mi przeszkadza~",
+                "Czy nie mogę chociaż raz pobawić się samodzielnie?!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Ach, przepraszam."
+            ]
+        },
+        "145_0": {
+            "lines": [
+                "Gdzie nie pójdę, ktoś do mnie przychodzi~",
+                "Czy to dlatego, że kwiaty są tak piękne?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Czyli szukając miejsca, w którym możesz się bawić,",
+                "przez przypadek znalazłaś się w Muenzuce."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Po prostu poszłam tam, gdzie mnie nie było! Kwiaty wiśni",
+                "są ładne, ale to miejsce jest cmentarzyskiem, co nie?!"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Każdy człowiek kiedyś umrze.",
+                "Umarłych nie trzeba chować do grobów, ale..."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Dla żyjących, groby są potrzebne, aby",
+                "przyjąć do wiadomości czyjąś śmierć."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Tak, groby istnieją dla potrzeb",
+                "żyjących osób."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Nie rozumiem, ale na cmentarzach są ludzie",
+                "typu strażnicy! Nie chcę być na cmentarzu!"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Idę sobie do domu!"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Hehehe, chwila moment."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Nie jestem strażnikiem tego cmentarzyska.",
+                "Do świata żyjących przyszłam z innego powodu..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Jednak gdy ujrzę wróżkę z wieloma",
+                "grzechami, nie mogę ot tak jej zostawić."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Jeśli nie jesteś strażnikiem, to kim?",
+                "To jest cmentarz, więc... ty jesteś...!"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Nie jestem fantomem, nie."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Chociaż jesteś tylko wróżką, posiadasz ogromną moc."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Jednak z powodu tej mocy, często jesteś poza",
+                "swoim terytorium i zawłaszcza te, co są innych."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Tak, powodujesz nieco za dużo problemów."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Mimo wszystko, jesteś siłą natury. Może coś ci",
+                "się stać, czego nie będzie się dało odwrócić."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "To nie prawda!",
+                "Jestem najsilniejsza!"
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Innymi mówiąc, śmierć.",
+                "Jeśli umrzesz, to na pewno cię osądzimy."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Wtedy, to czy pójdziesz do piekła, czy nieba...",
+                "Cóż, tego jeszcze nie wiemy."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "To... tego typu ludzkie...",
+                "P-pogróżki tego typu nie działają na mnie!"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Chlupotanie strumyka, odgłos ptaka, owadzia pieśń."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Nawet sama matka natura po części umiera.",
+                "W naturze nie istnieje coś takiego, jak wieczność."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "A teraz, bądź świadoma tego, że",
+                "twoja moc jest nieco za duża!"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "Moja wygrana nie jest niespodziewana.",
+                "Ale to samo w sobie nie ma znaczenia."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Będziemy kontynuować, aż zrozumiesz."
+            ]
+        }
+    },
+    "12": {
+        "51_0": {
+            "lines": [
+                "To dlatego, że przez twoją interwencję,",
+                "przestają być tym, kim byli na początku."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Czy wiesz, dlaczego gdy próbujesz nawiązać z kimś",
+                "rozmowę, możesz powiedzieć, że chcesz się wmieszać?"
+            ]
+        }
+    }
+}

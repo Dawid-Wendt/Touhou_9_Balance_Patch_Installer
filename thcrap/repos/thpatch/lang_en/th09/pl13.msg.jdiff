@@ -1,0 +1,904 @@
+{
+    "70": {
+        "140_0": {
+            "lines": [
+                "I can hear a noisy song coming."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Took the head of~♪"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Five court musicians~♪"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Heigh. Have you forgotten what I have told you?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Eh?",
+                "When did you say anything?!"
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "In the end, lecturing a bird is a waste of time."
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "You're so cruel to interrupt my song."
+            ]
+        }
+    },
+    "50": {
+        "140_0": {
+            "lines": [
+                "I came to check on you."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ahh!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "The really talkative noisy one came again, huh."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Have you properly taken",
+                "to heart what I have said?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Nah, I didn't really understand it."
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Well, fairies are fine.",
+                "It is not as if they hold great mind and spirit."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "I'm not feeling nice right now, so I'll be heading out for a bit."
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "It was around here, I can hear the sound of illusions coming."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah, you are"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "that one who liked lecturing..."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I came here to observe if you have been",
+                "abiding to what I have said."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "What did you say again?"
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "What is more transient than phantoms are poltergeists.",
+                "If blown, they will disappear."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "Ah, was it to hold back on fried food?"
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "So she lives in this house."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah, if it isn't the Yama."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "What's the matter?",
+                "Did something happen?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I came here to see if you properly",
+                "understood my teachings."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Teachings...",
+                "It was too abstract, I don't understand."
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "That's right."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "It seems as if you must live with the",
+                "consciousness of your sins..."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Well, I am living a diligent life,",
+                "so it's not like I'm troubling you or anything."
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "The Netherworld sure is carefree.",
+                "Despite Higan being in a very busy state."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Oh,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "if it isn't the Yama.",
+                "It must be a serious affair for you to come all the way to the Netherworld."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Not at all, I came to see if you",
+                "understood my teachings."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Yes, I'm sure I understand.",
+                "See, I can even pour delicious tea."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "Did I teach you that?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Listen,",
+                "your sword is one that severs hesitation."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Humans without hesitation are opened to enlightenment."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "This is the same as helping someone reach Nirvana."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "With your current judgment, you cannot be allowed",
+                "to do such a thing."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "That's because that's all that Lady Yuyuko teaches me."
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "I never get lost in the bamboo thicket."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I've seen that face somewhere before."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I came to see if you have been keeping to",
+                "what I have said."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Ah, of course.",
+                "I've been living a proper life since then."
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "You still speak nothing but lies.",
+                "Do not come to me if someone takes revenge before I judge you."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "Well then, I'll be off on my way here~"
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "That Komachi, there is still plenty left.",
+                "What does she mean by \"I've almost cleaned up all the phantoms\"?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Oh,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "you have to be more strict with your subordinates.",
+                "After all, I don't think the flowers have gotten any better."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I will do so.",
+                "So, have you become a little kinder?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Now my body can drink good tea."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "Being nice to your body is fine,",
+                "but let us try to focus on our whole being."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "But more importantly, I'm worried about whether",
+                "the flowers will return to normal."
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "It is troublesome to get a hold of humans",
+                "who tend to move around a lot."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Who're you talking about?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I'm having the same troubles."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "There you are.",
+                "How is it, are you keeping to my teachings?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I already said, I haven't lied at all."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "There are no humans who do not lie."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Therefore, one who can with great confidence say",
+                "they do not lie is in itself the proof of a liar."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Later, I've got someplace I need to head to."
+            ]
+        }
+    },
+    "100": {
+        "140_0": {
+            "lines": [
+                "The tengu were supposed to be around here."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah, are you possibly"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "the Yama?",
+                "What occurred this time?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I came to see if you",
+                "understood my teachings."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Of course.",
+                "I've thought about my newspaper in my own way."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "That's right. So I'll ask you again."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Why do newspapers exist?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "By writing an article, the truth changes."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "By writing that changed truth into an article,",
+                "the truth changes once again."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "To write an article without fully understanding it's",
+                "a foolish thing, but if one understands at least that,"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "a newspaper has the power to change the truth."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Well then, how will you go about writing your newspaper?"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I'll write to straighten the world.",
+                "I'll change the truth, and make this world better."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Close, but no cigar, 30 points."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "30 points is close?"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "You need to think a little deeper."
+            ]
+        }
+    },
+    "101": {
+        "50_0": {
+            "lines": [
+                "Newspapers exist to cause events."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "You must be prepared to bear all the responsibility",
+                "from the events your articles cause."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Why must one go that far to write an article?"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "That is because the power to change the truth is,",
+                "above all, a very great power."
+            ]
+        }
+    },
+    "102": {
+        "50_0": {
+            "lines": [
+                "I won't write about the Yama.",
+                "I have to respect the privacy of others."
+            ]
+        }
+    },
+    "120": {
+        "140_0": {
+            "lines": [
+                "That Komachi... Nothing has changed at all."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "The red spider lilies are freely blooming.",
+                "What happened to \"It'll be done soon\"?"
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Ah, I'm sorry. I'm sorry."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I'll go clean up right now."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "And I just finished with visiting various humans",
+                "and youkai to lecture them."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "If my own subordinate is like this,",
+                "I have absolutely no persuasive influence."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "No, no.",
+                "I'm still doing my best in spite of things."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "It's just that this year's number of phantoms",
+                "is just a little too much."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Could you give the fancy excuses a rest?"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "The speed of your boat is also slower than the",
+                "rest of the shinigami..."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "You are probably having idle banter with the phantoms, are you not?"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "No, no, not at all."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I'm an upright shinigami of few words."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Komachi, you do not have enough wants."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Excuse me?"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "When you are ferrying the deceased, you receive a fee,",
+                "do you not?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "If you give priority to riders who possess a lot,",
+                "that is, those with many values..."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "It will not take that much time to cross the river, then.",
+                "It is efficient, it is profitable..."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Ah, no.",
+                "It's not as if I don't have the will to earn anything."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "For a shinigami, to earn a profit is to kindly",
+                "receive those who have done good during their life."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "In other words, for you, earning money is to do good."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Yes, I already understand.",
+                "But, the life stories of bad guys are also pretty interesting."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "So you were idly chatting."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "No, ah, well..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "You need to be more diligent."
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "It is often said that to make a profit is not",
+                "a good thing,"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "but that is only what humans that lack values say out of envy.",
+                "They think that not working is good, but that is not the case."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Money works in such a way that",
+                "earning and spending become good deeds in themselves."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Yes, I understand.",
+                "That's why shrines don't receive donations, right?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "If you understand the concept in your mind,",
+                "then put it into action. Without words."
+            ]
+        }
+    },
+    "122": {
+        "50_0": {
+            "lines": [
+                "I'm sorry. I'm sorry."
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "It looks like more time is required for",
+                "the cherry blossoms to scatter."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Having said all, when comparing the people of Gensokyo to the people",
+                "of the outside world, the bad ones of Gensokyo are still fewer."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "The sins of the ones residing in these cherry blossoms",
+                "here have no relevance to the crimes of the outside world."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "The law is decided by humans.",
+                "Sins that cannot be judged by laws are judged by me."
+            ]
+        },
+        "143_1": {
+            "lines": [
+                "Oh, it's still the same as ever."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Always with the \"It'll be soon, it'll be soon.\"",
+                "When exactly will the cherry blossoms return to normal?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "You came at the perfect time."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "How is it?",
+                "Have you understood my teachings, and are you keeping to them?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Like I said, I baked and made things edible.",
+                "Various things."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "There are many sinful souls under the violet cherry blossoms."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Souls with virtue are ferried in order to Higan.",
+                "The cherry blossoms here will be the very last."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "No, not just here,",
+                "but the very last will be cherry blossoms in general."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Is that so?",
+                "And cleaning up cherry blossoms is the most annoying task..."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "When all that is left are the cherry blossoms,",
+                "Gensokyo will begin reading a new calendar."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "This year is the year of \"Rebirth,\"",
+                "which comes upon us every sixty years."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "One could say, it's Gensokyo's \"sixtieth birthday.\""
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "And the cherry blossoms represent death and resurrection."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Why does this kind of year come once every sixty years?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "It is often said that it is of the Zodiac,",
+                "but that is just what humans conjectured afterward."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Sixty years is really a",
+                "number form of all of nature expressed."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Sun, moon, and stars comprise the three lights.",
+                "Spring, summer, fall, and winter comprise the four seasons."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Wood, water, fire, earth, and metal comprise the five phases."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Combine the three lights, four seasons, five phases:",
+                "3 × 4 × 5 = 60."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Sixty is a combined number of complete nature revealed."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "In other words, nature is reborn once every sixty years.",
+                "Gensokyo will resurrect this year."
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "So that's how it is?",
+                "I wasn't born sixty years ago so I can't confirm anything."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "If you have insight, you should understand right away."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "The ones who have seen this incident sixty years ago",
+                "were not too clamorous, were they?"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "There were some that were a bit too clamorous."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Memories of the past sixty years revolve."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Also, it was not a particularly unique incident,",
+                "so it is easily forgettable."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "So that's how it is.",
+                "No wonder I didn't feel any danger from it."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "...Hey, I won't be tricked."
+            ]
+        },
+        "201_0": {
+            "lines": [
+                "The reason the flowers are blooming is",
+                "because you guys were slacking off, right?"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "The phantoms multiply once every sixty years.",
+                "The flowers are a result of that."
+            ]
+        },
+        "203_0": {
+            "lines": [
+                "Earthquakes, eruptions, tsunami, wars.",
+                "I am not sure exactly what, but..."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "It doesn't matter what it is, if you guys",
+                "just worked at it everything would turn back to normal!"
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "Now, hurry and ferry those phantoms to Higan!"
+            ]
+        }
+    }
+}

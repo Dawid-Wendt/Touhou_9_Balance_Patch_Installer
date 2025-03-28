@@ -1,0 +1,142 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "You're a little overexcited for a shrine maiden.",
+                "Watch over the incident with composure."
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "When somebody so explosive like you",
+                "gets carried away, it's scary."
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "Hey, now I remember what's going on with you.",
+                "You're locked up by a devil."
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "In a level-headed way...",
+                "Think about your current circumstances."
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "It's nothing like a flower blooming.",
+                "I see the sad state you are in now."
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "Calm down.",
+                "You're making yourself look foolish."
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "The sound is dying.",
+                "I'll look for a more unearthly sound."
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "You missed a note.",
+                "Practice with your feet firmly on the ground."
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "Huh, the sound's a bit off..."
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "Pick a song and let's sing.",
+                "Or do you only have weird songs?"
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "Please walk more calmly."
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "Why not do some rethinking and write an autobiography?",
+                "I wonder how many volumes would it have."
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "You were born in a sad environment.",
+                "It's no time to be merry."
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "Sunflowers turn to the Sun out of jealousy and envy.",
+                "Of course I wouldn't call them cheerful flowers."
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "I think if the mood around you weren't always that of a funeral, it wouldn't feel like you've died."
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "I wonder if the trials in hell are noisy.",
+                "Do you judge because you're fascinated by the opposition of the phantoms?"
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "That's right.",
+                "You're a little too excited, so calm down."
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "If you don't calm down a little more, even what's been determined won't settle."
+            ]
+        }
+    }
+}

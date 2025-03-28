@@ -1,0 +1,239 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "Nawet Reimu nie wie, dlaczego jest tyle kwiatów.",
+                "Bardzo źle."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Skala tego incydentu jest tak ogromna, że nie wiem, o co chodzi.",
+                "Kto by zyskał na tym wszystkim?"
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "Zauważyłaś?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Kwiaty wiśni przy chramie zakwitły już trzykrotnie.",
+                "Rozpraszają się i kwitną, a potem robią to ponownie..."
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "Gdy się ruszać, kwiaty się rozpraszają.",
+                "Nie możesz chodzić bardziej delikatnie?"
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Hej, na twoim kapeluszu też są płatki."
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "Powinnaś bardziej poćwiczyć zatrzymywanie czasu."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Miałam obawy, ale..."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "W tym lesie niezbyt się zmieniło.",
+                "Może winowajcy powinnam szukać tędy?"
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "Czy rozkazy dostajesz od swojej pani?"
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "Miło, że fantomy są tak beztroskie.",
+                "Chyba o niczym nie myślą."
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "To całe mochi, co księżycowe króliki",
+                "robią, to po prostu normalne mochi, nie?"
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "Tak, od tego czasu, próbowaliśmy",
+                "dostać się na księżyc, ale..."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Masz jakieś sugestie?"
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "Jeśli myślisz, że pokonasz żaby, to źle myślisz.",
+                "Wróżki są najmniejsze nawet pośród płotek."
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Nienawidzę zabaw nad jeziorem.",
+                "Tyle mam roboty odzyskując noże."
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "Rany, dzisiaj jesteś sama?",
+                "Nie zgubiłaś się?"
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "Niezbyt znam się na trąbkach.",
+                "Czy te są ze srebra?"
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "U nas też są skrzypce.",
+                "Ale tylko tak dla wyglądu."
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "Jeśli mam wybierać co lepsze:",
+                "ptasie odgłosy, czy twoja pieśń, to..."
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "Śpiewasz nietypowe piosenki."
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "Jakiś czas temu znalazłam rzadką marchew.",
+                "Kiedy ją wykorzeniłam, krzyknęła."
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Ciekawe, czy jecie też żeń-szeń właściwy."
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "A więc ktoś jednak prowadzi gazetę. Ale w tym spokojnym",
+                "miejscu nie ma zbyt materiału na artykuły."
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "Jeśli nie masz co zrobić z czasem, czemu nie przyjść do mnie i sprzedać",
+                "nam trucizny? W okolicy nie ma apteki zajmującej się truciznami."
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "Dasz mi nasiona słonecznika? Masowo.",
+                "Olej z nich jest pożyteczny."
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "Nawet jeśli shinigami zabierze twoje monety,",
+                "to i tak zostaną rzucone z powrotem."
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "Takie ataki, aby zapobiec samobójstwu..."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Jaki w tym cel?"
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "Przedawnienie przestępstw to taka dziwna idea, ale",
+                "ciekawi mnie, czy twoje osądy uwzględniają przedawnienia?"
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "Nie jest dobrze, jeśli zapach kwiatów jest za mocny."
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "Ponoć niektórzy ludzie są wrażliwi na pyłki kwiatów.",
+                "Ciekawe, czy to prawda?"
+            ]
+        }
+    }
+}

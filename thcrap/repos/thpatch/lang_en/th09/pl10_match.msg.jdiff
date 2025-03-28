@@ -1,0 +1,154 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "Of course, when I'm stuck for stories I'm limited to those of shrine maidens.",
+                "After this as well I'll be looking forward to fun activities from you."
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "By the way, no matter how much you steal, I don't find fault in it."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Because that would work against the newspaper.",
+                "You always have to watch with an objective eye."
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "I'm always indebted to the Scarlet Devil Mansion.",
+                "There is no other place with quite as many strange events."
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "I don't often visit Netherworld, but...",
+                "I have to wonder if maybe there are interesting stories there."
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "That reminds me, the mochi the moon rabbit was pounding",
+                "was just an everyday mochi, wasn't it."
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "I'd like to do a write-up on fairies if something big happens. Will I have the chance?"
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "Because nothing really happens, it's impossible to write",
+                "only of the Prismriver Sisters' concerts."
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "Ah, the trumpet sounds lovely.",
+                "I'd like to put together a feature in the paper like that."
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "Where will you be holding your next performance?",
+                "A sunflower field?"
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "That's right.",
+                "I also think grilled chicken skewer is bad."
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "Even if I got my hands on proof that you were swindling me,",
+                "writing it up in the paper would be..."
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "\"Learn wisdom by faults of others.\" Those who write for",
+                "the paper must demonstrate good conduct no matter what."
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "Could you be.... a doll? Surely not"
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "\"Never invite suspicions needlessly.\"",
+                "It's better for you to be docile."
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "The story of a dead person is a treasure chest for scandal.",
+                "But there's the problem that it might be an old story to everyone."
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "Ah, that's right.",
+                "May I collect data on you until the equinoctial week?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "I'd like to do a documentary write-up called \"Getting to the Heart of how the",
+                "Presiding Judge of Gensokyo Spends her Daily Life.\""
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "Extra, extra! An extra of the Bunbunmaru newspaper",
+                "to deliver the truth, the best in Gensokyo!"
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "How about it? Won't you take a copy of the \"Bunbunmaru Newspaper\"?"
+            ]
+        }
+    }
+}

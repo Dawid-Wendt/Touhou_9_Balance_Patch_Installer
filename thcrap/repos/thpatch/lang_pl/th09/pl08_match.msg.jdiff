@@ -1,0 +1,165 @@
+{
+    "1": {
+        "50_0": {
+            "lines": [
+                "Chcesz się dowiedzieć, jak zarabiać więcej datków?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Nie chcesz.",
+                "Okej."
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "Hej wy wszyscy, jeśli będziecie słuchać tego",
+                "co mówię,  staniecie się szczęśliwsi~"
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "Co zamierzasz zrobić z tymi monetami,",
+                "masz ich tak dużo, że ot tak je wyrzucasz?"
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "Widzisz? Uszczęśliwiam wszystkich.",
+                "Mogę za to wykupić moją duszę z piekła?"
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "Trucizna jest pewnego rodzaju skarbem,",
+                "więc jeśli nie będziesz odpowiednio o niego dbać..."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Co ty na to?",
+                "Może pozwolisz mi o nie dbać?"
+            ]
+        }
+    },
+    "0": {
+        "50_0": {
+            "lines": [
+                "To prawda; jeśli Reimu ustawi torii tak, żeby była skierowana",
+                "na południe, a nie na zachód, będzie miała więcej szczęścia~"
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "Jeśli Marisa zbudowałaby swój dom na zewnątrz",
+                "lasu, miała by więcej szczęścia~"
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "Jeśli Sakuya zostawiłaby rezydencję w spokoju",
+                "i żyła sama, miała by więcej szczęścia~"
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "Jeśli Youmu dźgnęła by samą siebie,",
+                "otrzymała by więcej szczęścia~"
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "Ah!",
+                "Nadal mam na głowie kilka rzeczy, więc poczekaj!"
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "Czy chcesz złapać bardziej imponujące żaby?",
+                "Mam kilka dobrych pomysłów..."
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "Ach, żyjesz sobie całkiem błogo, co nie?",
+                "Ciepło twojego szczęście czuję i tutaj."
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "Też planujesz koncert solo na żywo?",
+                "Zostaw reklamowanie go mi."
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "Te skrzypce są całkiem stare.",
+                "Czy znasz może Stradivariego?"
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "Cóż, przemyślałam to sobie. Dla ciebie",
+                "najlepiej byłoby założenie nowego biznesu."
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "W okolicy na serio jest sporo",
+                "uroczych królików."
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "Czy chcesz zwiększyć ilość subskrybentów",
+                "swojej gazety? Mam dobry pomysł, ale..."
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "Czemu nie obrócisz tego tak, jakby ten cały incydent",
+                "to była twoja sprawka? Myślę, że jesteś w stanie."
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "Bycie szczęśliwszym wymaga posiadania",
+                "głębszych emocji."
+            ]
+        }
+    }
+}

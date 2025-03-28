@@ -1,0 +1,168 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "Och, dawno się nie widziałyśmy.",
+                "Nadal jesteś byle jaką kapłanką, jak mniemam?"
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "Ach, nadal żyjesz?",
+                "Sporo urosłaś."
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "Co sądzisz o wiesiołkach?",
+                "Och, ja tylko myślę o kwiatach, które ci pasują."
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "Co sądzisz o tulejniku kamczackim?",
+                "Och, ja tylko myślę o kwiatach, które ci pasują."
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "Co sądzisz o miechunce rozdętej?",
+                "Och, ja tylko myślę o kwiatach, które ci pasują."
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "Co sądzisz o skalnicy rozłogowej?",
+                "Och, ja tylko myślę o kwiatach, które ci pasują."
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "Co sądzisz o sztucznych, tańczących kwiatach?",
+                "Och, ja tylko myślę o kwiatach, które ci pasują."
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "Co sądzisz o sztucznych, tańczących kwiatach?",
+                "Och, ja tylko myślę o kwiatach, które ci pasują."
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "Co sądzisz o sztucznych, tańczących kwiatach?",
+                "Och, ja tylko myślę o kwiatach, które ci pasują."
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "Co sądzisz o sake podczas podziwiania kwiatów?",
+                "Och, ja tylko myślę o kwiatach, które ci pasują."
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "Co sądzisz o kwiatach sosny? Och,",
+                "tobie najlepiej pasuje niewyrafinowany wygląd."
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "Co sądzisz o ważkowatych fajerwerkach?",
+                "Och, ja tylko myślę o kwiatach, które ci pasują.\u0014W japońskim fajerwerki to 花火; dosłownie ‘ognisty kwiat’."
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "Gelsemium elegans. Roślina z najsilniejszą trucizną.",
+                "Może zabiłaby nawet i ciebie."
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "Nawet słoneczniki czują zmęczenie."
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "Ogień i bijatyki?",
+                "Nie, po prostu myślę o kwiatach, co do ciebie pasują."
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "Jakie kwiaty zakwitają w piekle?",
+                "Na pewno takie, co zgrzeszyły."
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "Kwiaty zakwitają poprzez pobranie kolorów z gleby",
+                "i jako płatki powracają z powrotem do gleby."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Tak samo jest z kwiatami żyjących istot."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Zabierają kolory swoich otoczeń i zakwitają w piękne",
+                "kwiaty. Po zakwicie, oddają otoczeniu te kolory."
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "Jest bardzo niewiele osób, które mogą",
+                "spowodować zakwit swoich kwiatów."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Dlaczego? To przez pełny arogancji pomysł próby",
+                "całkowitego zakwitu samodzielnie, bez pomocy innych."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "To dzięki glebie zakwitają kwiaty. Więc,",
+                "nie zapomnij oddać coś glebie po zakwicie."
+            ]
+        }
+    }
+}

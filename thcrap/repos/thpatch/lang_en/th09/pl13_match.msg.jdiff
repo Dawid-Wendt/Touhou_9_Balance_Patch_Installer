@@ -1,0 +1,157 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "Exterminating youkai. ",
+                "This is the good deed you can do right now."
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "Returning those sundries you gathered back to the Earth. ",
+                "This is the good deed you can do right now."
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "Building strong bonds with humans. ",
+                "This is the good deed you can do right now."
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "Listening to your mistress's words every day. ",
+                "This is the good deed you can do right now."
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "Gathering round things and offering them.",
+                "This is the good deed you can do right now."
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "Going to different places and knowing the world. ",
+                "This is the good deed you can do right now."
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "Respecting those senior to you.",
+                "This is the good deed you can do right now."
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "Performing more in the graveyard. ",
+                "This is the good deed you can do right now."
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "Controlling your sisters' sounds well. ",
+                "This is the good deed you can do right now."
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "Understanding the power of your own song. ",
+                "This is the good deed you can do right now."
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "Taking care of your family. ",
+                "This is the good deed you can do right now."
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "Actively covering good news. ",
+                "This is the good deed you can do right now."
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "Losing your hatred toward humans. ",
+                "This is the good deed you can do right now."
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "Terrorizing humans more. ",
+                "This is the good deed you can do right now."
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "Hey, wait a minute! ",
+                "You do not have the time to play around here!"
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "Huh, so bored... ",
+                "With all these phantoms around, too..."
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "So, did you do some good deeds?"
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "If only all were as honest as you people.",
+                "Trials would be so much easier."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "So many people mistakenly believe that money and",
+                "a knowledge of law is all you need for a trial."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Since when were humans capable of judging other humans,",
+                "anyway? Such conceit."
+            ]
+        }
+    }
+}

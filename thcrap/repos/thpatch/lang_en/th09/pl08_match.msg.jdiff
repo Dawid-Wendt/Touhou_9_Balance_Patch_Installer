@@ -1,0 +1,162 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "That's right, if Reimu makes the torii face south instead of east, ",
+                "more good luck will come to her~"
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Don't you want to know how to earn more donations?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "You don't.",
+                "Okay."
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "If Marisa built her home outside the forest,",
+                "she would receive good luck~"
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "If Sakuya left the mansion behind and lived alone,",
+                "she would receive good luck~"
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "If Youmu stabbed herself with that sword,",
+                "she would receive greater good luck~"
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "Ah!",
+                "I've still got a few more things to do, so just wait!"
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "Do you want to catch frogs of higher rank?",
+                "I might've some good ideas..."
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "Ah, you're living a pretty blessed lifestyle, aren't you.",
+                "I'm feeling your happiness warmly over here."
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "You're also planning a solo live concert? ",
+                "Then leave the promotions to me."
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "That's quite an old violin.",
+                "Do you know Stradivari?"
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "You see, I've thought this through.",
+                "It would be best if you started a new business, I think."
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "There sure are a lot of cute rabbits around here."
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "Do you want to increase your paper's subscriptions?",
+                "I've got a good idea but..."
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "Poison is a kind of treasure,",
+                "so if you don't take care of it well...."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "How about it?",
+                "Why don't you let me keep them safe for you?"
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "Why don't you make this incident as if it's your own?",
+                "I think you should be able to do that."
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "What are you going to do with your money,",
+                "having so much that you can throw them away like this?"
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "See, I'm making everyone attain happiness.",
+                "Do I redeem myself from hell now?"
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "Everyone, if you listen to what I have to say you'll be more happy~"
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "If you want to be happier, it means holding deeper emotions."
+            ]
+        }
+    }
+}

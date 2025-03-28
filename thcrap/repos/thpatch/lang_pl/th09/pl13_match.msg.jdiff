@@ -1,0 +1,157 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "Eksterminacja youkai.",
+                "To twój dobry uczynek na dzisiaj."
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "Zwrócenie swoich zebranych rozmaitości ziemi.",
+                "To twój dobry uczynek na dzisiaj."
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "Tworzenie dobrych więzi z ludźmi.",
+                "To twój dobry uczynek na dzisiaj."
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "Słuchanie się tego, co mówi twoja Panienka.",
+                "To twój dobry uczynek na dzisiaj."
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "Zbieranie okrągłych rzeczy i składanie ich",
+                "w ofierze. To twój dobry uczynek na dzisiaj."
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "Udanie się do różnych miejsc i poznanie",
+                "świata. To twój dobry uczynek na dzisiaj."
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "Szanuj starszych od ciebie.",
+                "To twój dobry uczynek na dzisiaj."
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "Występuj więcej na cmentarzu.",
+                "To twój dobry uczynek na dzisiaj."
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "Panuj nad dźwiękami swoich sióstr.",
+                "To twój dobry uczynek na dzisiaj."
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "Zrozum moc swojej piosenki.",
+                "To twój dobry uczynek na dzisiaj."
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "Dbaj o swoją rodzinę.",
+                "To twój dobry uczynek na dzisiaj."
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "Aktywnie informuj o dobrych wieściach.",
+                "To twój dobry uczynek na dzisiaj."
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "Strać swoją nienawiść wobec ludzi.",
+                "To twój dobry uczynek na dzisiaj."
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "Bardziej terroryzuj ludzi.",
+                "To twój dobry uczynek na dzisiaj."
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "Hej, chwila moment!",
+                "Nie masz czasu na bawienie się tutaj!"
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "Ech, co za nudy...",
+                "I to pomimo tych wszystkich fantomów..."
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "Więc, jak tam idą dobre uczynki?"
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "Gdyby tylko wszyscy byli tak szczerzy,",
+                "jak wy. Osądy byłyby wtedy tak łatwe."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Wielu błędnie myśli sobie, że na osąd wystarczą",
+                "pieniądze oraz znajomość prawa."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Tak w ogóle, to od kiedy ludzie mogą sądzić",
+                "innych ludzi? Co za duma i pycha."
+            ]
+        }
+    }
+}

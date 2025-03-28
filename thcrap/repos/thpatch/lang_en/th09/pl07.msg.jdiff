@@ -1,0 +1,825 @@
+{
+    "50": {
+        "140_0": {
+            "lines": [
+                "Drinking unboiled water will make your stomach hurt~♪",
+                "Drink lake water and it's off to the Sanzu River~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "What do we have here?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "One pretty loud pest."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Are you a fairy?",
+                "My songs are meant to lure humans!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Who the heck would come above the lake?!"
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "This place is a dud.",
+                "There aren't any humans and it isn't much fun."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "Everyone's been weird lately.",
+                "It's probably spring's fault."
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "Tala-tala-tala-ta, a bunny dance~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Tala-tala-tala-ta, a cute dance~♪"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "A rather cheerful monster bird showed up, huh."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I wasn't calling any rabbits."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "You were singing a bunny's song, were you not?"
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Everywhere I go, the scenery doesn't change at all."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "I'm not going to spare any good fortune",
+                "with a sparrow!"
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "The era of Mach is above the skies~♪",
+                "It tastes like Westernization~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "This is rare."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "A little bird flew all the way above the clouds."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Huh? I thought it was strangely",
+                "clear for a place above the clouds."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "No wonder my wings were getting so cold~♪"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "You want to challenge me in music and lose?"
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "I can't lure any humans if I'm above the clouds."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "Ah, a bird falling through the wind sounds",
+                "very surreal and wonderful."
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "\"Hooow many nights to sleep until it's Neeew Yeeear's?♪\""
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "It sounds like someone singing is approaching..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "\"It's still spring, so if you don't sleep enough new year's won't come.\"",
+                "Where is that song coming from?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Nah, if humans sleep once then bam, new year's!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Hmph. A monster has come!"
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "If you sleep once on this road,",
+                "you won't wake up until the next new year's~"
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "Oh, it was just a bird...",
+                "Looks like I rushed too much."
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "What are you saying, Mr. Bunny~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Who...?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I can hear a kind of conversation-like singing voice..."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "The ones who crawl on Earth are no match",
+                "for ones who fly in the skies."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "A little bird is attacking!?"
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "No humans around, huh..."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Even the monster birds around here",
+                "are getting excited. Is today bird hotpot?"
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "The land of fairies wrapped in sadness~",
+                "Is covered by the fertile black soil~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "That's rock, huh."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "But it's a little noisy."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Noisiness expresses silence~"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Ah, shut up already!"
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "If you want a song to be quiet,",
+                "might as well read a sutra!"
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "And I thought I'd finally get to party out at flower viewing,",
+                "but with someone already here partying it really kills my excitement."
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "A person, a person, a person!",
+                "Kidnap some humaaans♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "It sure is spring."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Full of youkai and weird youkai."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "It's a youkai's job to eat humans!",
+                "And you're a human, aren't you?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Too bad, I'm a maid that exterminates youkai."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "A maid huh, too bad.",
+                "Humans are better for kidnapping."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Gensokyo covered by these flowers. If it's going to be",
+                "full of these kind of youkai, I'm going to be feel fed up."
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "Outta the way, outta the way, this bird is strong~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "What the heck is that."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Don't sing restless songs during the daytime."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Songs are an essential part of flower viewing~♪"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Don't answer me singing."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "You went into the range of my song, so it's your loss."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "The little bird meets its maker~♪",
+                "Whoops, I sang."
+            ]
+        }
+    },
+    "3": {
+        "140_0": {
+            "lines": [
+                "I'm tired of flying around here~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "That's strange."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "No matter where I go there's not a single difference with this incident...",
+                "...A bird?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "That's right, everywhere you go there's no difference~"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Agh, birds and fairies and rabbits....",
+                "Isn't there anything else around here?!"
+            ]
+        }
+    },
+    "4": {
+        "50_0": {
+            "lines": [
+                "If there's no difference everywhere you go,",
+                "then it might be fun to go to a place you normally don't go~."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Well, normally there aren't humans there so I don't go."
+            ]
+        }
+    },
+    "5": {
+        "50_0": {
+            "lines": [
+                "Nothing around here, huh.",
+                "The culprit of this incident should be..."
+            ]
+        }
+    },
+    "110": {
+        "140_0": {
+            "lines": [
+                "Even if my wings are injured and I fall~♪"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "I can't sleep here~ Lily-of-the-vallies dreams~♪"
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "You sure are noisy."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Only a crazy weirdo or pathetic loser would come",
+                "running into a flower field singing."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "There're too many people who butt into my singing.",
+                "If I don't continue singing I'll die so it can't be helped."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Stop lying.",
+                "Of course that can't be."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "On top of that, the kind of people who say that",
+                "sing more transient songs."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "What's with that intense song?",
+                "What's with that energetic song?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Songs are the source of vigor."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "If I sing a sad song everyone will be all sentimental."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "At that point I could as well sing",
+                "a song that makes people suicidal!"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "But your song is tiring me."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Then I'll sing a song to make you energetic again.",
+                "Lily-of-the-vallies poison~♪"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Don't sing!"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Circle around to my injured wings~...",
+                "...Eh, ah, aah~..."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "huhuh, the poison has finally taken effect."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Those large wings that absorb poison easily.",
+                "Your continuous movement and rashness made this happen."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Now, sleep on this lily-of-the-valley hill,",
+                "covered by the gentle poison!"
+            ]
+        }
+    },
+    "111": {
+        "50_0": {
+            "lines": [
+                "Now's the time to run~!",
+                "This place's full of poison and dangerous~!"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "What did you come here for?",
+                "Do I have nothing to do with anything?"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Nothing at all!"
+            ]
+        }
+    },
+    "112": {
+        "50_0": {
+            "lines": [
+                "With the poison flowing into your nerves, even you'll",
+                "start singing transient songs."
+            ]
+        }
+    },
+    "90": {
+        "140_0": {
+            "lines": [
+                "Sunflowers spin and spin, sunflowers turn and turn,"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Sunflowers spin and spin, body blow~♪"
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "And that's where the bird is fried in spices~♪"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Who are you?!",
+                "Continuing someone else's song like that!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Oh, I'm sorry."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "You looked so happy singing,",
+                "so I inadvertently continued."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Humans are supposed to be the ones fried in spices."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "...But how did you know that spice came after?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Uhuhu.",
+                "There's an old saying."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "The song you're singing isn't coming from inside you,",
+                "but rather you're singing a song you're hearing from a faint voice."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "That's why I knew what was supposed to be next."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "What does that mean?",
+                "I wrote this song myself."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "As proof, I'll show you I can also predict the next part."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Sunflowers spin and spin, sunflowers turn and turn..."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Of course, that's because that's a chorus."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "See, take a look around;"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "sunflowers spin and spin..."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Uwaa!",
+                "The sunflowers are, the sunflowers are~"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Now then, remember what comes after?",
+                "Your fate is written there."
+            ]
+        }
+    },
+    "91": {
+        "50_0": {
+            "lines": [
+                "This place is bad too~",
+                "I've gotta run or else~!"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "What did you come here for?"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "I just came so I could sing and fly around peacefully~"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "If you sing like that, you'll pick up more",
+                "and more voices of ghosts and gradually..."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "You'll meet someone you won't be able to handle, eventually."
+            ]
+        },
+        "55_0": {
+            "lines": [
+                "Have a nice day."
+            ]
+        },
+        "56_0": {
+            "lines": [
+                "Escape~"
+            ]
+        }
+    },
+    "92": {
+        "50_0": {
+            "lines": [
+                "Sunflowers spin and spin, body blow~♪",
+                "And that's where the bird is fried in spices~♪"
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Cherry blossoms~ Cherry blossoms~♪"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "On the shrine and the hill and everywhere you look~♪"
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Detest sins, not people."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "The purple cherry blossoms require an endless amount of time",
+                "to free people for their sins."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "The rain of the cherry petals."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "When the sinners are too much,",
+                "the cherry blossoms cry."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "A haze or a cloud~ a smell in Higan♪"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Listen when people are speaking!",
+                "People tend to say good things."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Oh?",
+                "Was someone here?"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "The cherry blossoms normally would not bloom during this season.",
+                "Also, this place is Muenzuka."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "The cherry blossoms here are not meant for flower viewing."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Your singing is merely an out of place noise here."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "What the heck.",
+                "No matter where I go I can't sing."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "It's not a flower incident without jolliness."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "You do not understand the power of your songs."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Songs can at times quell spirits, or at times stimulate them."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Yes, you stir up a little too much chaos."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "If you continue singing without thinking,",
+                "the souls around you will become more than strange."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "That may be connected to an unprecedented grave sin."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "A-are you trying to lecture me?",
+                "It's going to go right through my head!"
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "I thought so.",
+                "You are a bird, and birds have small heads."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Let us have you reprimanded."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Under the rain of the purple cherry blossoms, a requiem shall be held!"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "As the purple cherry blossoms scatter...",
+                "A little at a time, sins are forgiven..."
+            ]
+        }
+    }
+}

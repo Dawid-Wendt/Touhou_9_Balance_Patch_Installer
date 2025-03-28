@@ -1,0 +1,848 @@
+{
+    "50": {
+        "140_0": {
+            "lines": [
+                "It's a little chilly above the lake."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "A rabbit above the water~?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "The incident came all the way over here, huh."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Actually, it's cold rather than just chilly",
+                "in this lake with no flowers growing."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "There's no way flowers would be growing on a lake."
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Flowers aren't growing because a certain cold",
+                "fairy is here."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "A rabbit hopping around above the water;",
+                "there's a limit to weird you know."
+            ]
+        }
+    },
+    "70": {
+        "140_0": {
+            "lines": [
+                "Tala-tala-tala-ta, a cute dance~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Coming toward me while singing,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "How provocative.",
+                "What a rabbit dance."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "What. With this many flowers blooming,",
+                "it's fine if I sing."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "It's only fine if I sing around here!"
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "Pride, it's just your pride.",
+                "Aren't there any strong youkai around here?"
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "Now that it's become quiet, why not sing some songs."
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "That's flying high for you,",
+                "I'm getting really dizzy."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Long ago,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Didn't rabbits fly in the sky?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "That's ancient.",
+                "Now we live our lives with our feet on the ground thanks to evolution."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Ah, I see.",
+                "Then why are you flying right now, I wonder~."
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "There wasn't anywhere I could go in two dimensions anymore,",
+                "so I could only head up."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "The rabbit from the ground is falling into the clouds~."
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "It's fun. It's so fun!"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "There's another something that's making merry here."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "With this many flowers blooming there's no helping it."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "At my feet are all four-leaf clovers~!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Whoa, she's right!"
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "There's a one in a hundred-thousand chance",
+                "for a four-leaf clover, so they're not rare or anything."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Should I take some with me?",
+                "Something lucky might happen."
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "The Netherworld, huh~.",
+                "It's quiet and nice here."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "It's rare that an animal says this world's nice."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Despite being a simple creature that would",
+                "unconditionally be afraid of the thought of death."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Rabbits are high class you know.",
+                "There was much exchange with many gods in the past."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Well they're on the Moon as well...",
+                "I wonder why they're still satisfied with being food ingredients."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "But flowers aren't blooming at all here and it's boring.",
+                "The world of living was better after all."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "If my lady saw you here,",
+                "there's no doubt you'd be hunted."
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "Visitors haven't stopped coming to the bamboo forest too."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "I'm sure it was around here..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Ah, perfect timing.",
+                "There was a shining bamboo somewhere around here, I think."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "You're not going to know if it's a shining bamboo if you",
+                "search during the daytime."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "But searching at night is a poor idea."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Bamboo forests are labyrinths that mislead people."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "To be lost is very like humans that have lived."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "I was sure that there was something shining, though."
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "Vistors haven't stopped coming to the bamboo forest too."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah, there it is."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Oh, just a rabbit.",
+                "And I was looking for something more rare."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Is that so~?",
+                "Then, how about searching for a shining bamboo?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "If it's a shining bamboo, I just found one back there."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Ah, I see.",
+                "If you're looking for rare things,"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "then try splitting that bamboo."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "It's kind of... there's not a",
+                "difference anywhere I go."
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "The visitors are definitely not going to stop coming."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Aah, I finally found you!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Stop wandering around and enjoying the flowers",
+                "and go back home already!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Gege!",
+                "I've been found~."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "You still have a lot of work to do."
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "It's fine, save it for later!"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "I can't afford to be captured until",
+                "I find more and more rare flowers~."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "I caught you.",
+                "Now let's go home."
+            ]
+        }
+    },
+    "110": {
+        "140_0": {
+            "lines": [
+                "Eeehhh"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Lily-of-the-valley? If the stink gets on me when I get home",
+                "I'll be angry~"
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Rare for a rabbit to be here."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Lured by the smell of lily-of-the-valley, huh."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Nah,",
+                "my heart isn't bad at all~."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "I can only make a glancing guess.",
+                "But it looks like the poison is working."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "The poison around here is amazing.",
+                "Did you make all this poison?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "It's mostly the flowers,",
+                "but I made some more high quality poison."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Amazing, amazing."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Ehehe."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "But you know,"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "I know someone who's an expert with medicine.",
+                "Not just for poison, but medicine for everything."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "You're using the poison of these lily-of-the-valley,",
+                "but don't you sometimes think you'd like to make stronger poison?"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "I see~. I didn't think there was someone who",
+                "was better than me at handling poison."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "So then, do you want to have a battle to see",
+                "who's better at handling poison?"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Hmm. It's not like that."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "If you could just leave",
+                "a small portion of this lily-of-the-valley field to me..."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "The poison will multiply and be sent back to you."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Don't you think it's a good deal?",
+                "You just have to lend me a tiny portion of this huge field of yours."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "You just became really suspicious."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "I'm not handing over my precious lily-of-the-valley field.",
+                "You can taste for yourself whether my poison is weak or not."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Then, if I taste and come out fine, contract established, right♪"
+            ]
+        }
+    },
+    "111": {
+        "50_0": {
+            "lines": [
+                "Then, I'll take this portion for myself...",
+                "...Ah, it's become harder to breathe."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "The slow-activating smell directly affects your mind."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "I'll lend you a portion so when you leave this place,",
+                "you'll feel the true deadliness of my poison."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Ah, it's fine.",
+                "I'll just trick the other bunny at home to come get them."
+            ]
+        }
+    },
+    "112": {
+        "50_0": {
+            "lines": [
+                "If you fall to my attacks before the poison circulates,",
+                "there's no point."
+            ]
+        }
+    },
+    "120": {
+        "140_0": {
+            "lines": [
+                "Haah."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "The poison just might be circulating..."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "...Ah, this place is full of poisonous flowers too~..."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "What exactly is happening with Gensokyo?"
+            ]
+        },
+        "143_1": {
+            "lines": [
+                "Another one desiring suicide has appeared!?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Who's there!?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "You're a rabbit huh...",
+                "And on top of that you've got poison circulating your whole body."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "For even a rabbit to desire death,",
+                "did something happen?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "That's what I want to know!",
+                "Just when I thought I could take a rest, this place is also full of poison."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Full of poison? This place is Muen no Tsuka... Huh?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Red spider lilies? Why are the red spider lilies blooming now?"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "If I collapse here I'll become even more weak,",
+                "but just because of that I didn't come here to die!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I see.",
+                "You're too energetic for someone who wants to die."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "But it's no use tricking me.",
+                "You really want to die, don't you?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Wait a second, hold it right there.",
+                "Do I look like a rabbit that would try to trick people~?"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "You really do."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "It's said that a rabbit crosses the river by",
+                "tricking a shark into riding on the shark's back."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "There shouldn't be any sharks in the river."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "The Sanzu River isn't a normal river.",
+                "Of course, it's also not comprised of sea nor fresh water."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Extinct sea creatures from the outside world live in it,",
+                "it's a river of ruin."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "The creatures that live there are creatures of the past.",
+                "From sea dragons to gombessa, an extensive range."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Even if you were taken across the river,",
+                "the most you can do is be eaten by the shark you tricked."
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "Saying all these half-hearted things;",
+                "I was never lying in the first place."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Ah, geez, I want to rest soon."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "See, you want to die."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "No, not at all."
+            ]
+        }
+    },
+    "122": {
+        "50_0": {
+            "lines": [
+                "Hey now, if you collapse here you're really going to die.",
+                "Hurry up and head back home and sleep."
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Cherry blossoms...!"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "It's quiet, I might be able to get some rest here."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Even though the color of the cherry blossoms",
+                "here is kinda unsettling..."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "The cherry blossoms that bloomed violet.",
+                "The color of unforgivable sin."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Sleeping in silence is the thought of regret."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Are you saying you wish to sleep under these",
+                "violet cherry blossoms?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Geez.",
+                "Let me rest for a bit."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "I've been done in by the lily-of-the-valley",
+                "and the red spider lily you know~"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "The flower disturbance is the responsibility of my subordinate,",
+                "however... The poison is caused by your rash actions."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "You're high and mighty.",
+                "You and I, how are we related?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "I judge sins after death.",
+                "I look over all misdeeds during your whole life."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Ah, if it isn't the dear Yama.",
+                "Pardon my earlier rudeness~"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "As there is nobody else doing so, I decided to come",
+                "even alone to pay my respects at Muenzuka."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Pray tell, what business do you have with me?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "A youkai rabbit hitting her stride."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "You must be joking~",
+                "I always patiently listen to what others say,"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "and I am called Gensokyo's",
+                "most charming and clever rabbit."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "That is what a sly rabbit full of flattery would mishear."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Unlike the mischief of fairies,",
+                "you use low, dirty tricks."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Yes, you fool others a little too much."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "At this rate, someone will tear off your hide",
+                "before you will be judged by me."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "And even if that is not the case, during judgment",
+                "you'll be extraordinarily disadvantaged."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Eeh that can't be~",
+                "Can't you do something, dear Yama~"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "If you have even a little bit of will to",
+                "reflect upon what you have done and feel remorse,"
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "you can from here on face my judgment with honest feelings."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Heaven or Hell.",
+                "Where do you wish to go?"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "Your sins will not vanish from just this.",
+                "Of course, you cannot pretend that you have died."
+            ]
+        }
+    }
+}

@@ -1,0 +1,875 @@
+{
+    "50": {
+        "140_1": {
+            "lines": [
+                "Co my tutaj mamy?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Jesteś taka głośna rankiem."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ale nawet nie zaczęłam mojego występu."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Jesteś taka głośna tylko będąc tutaj, a",
+                "teraz jeszcze będziesz robić jakiś występ?!"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Okej, rozpocznę swoją karierę solo poprzez",
+                "udanie się do miejsca tych szkarłatnych!"
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Nie ma sensu występować dla wróżek."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "Jedyne co rankami jest głośne, to youkai i stare baby."
+            ]
+        }
+    },
+    "70": {
+        "140_0": {
+            "lines": [
+                "Zastanawiam się, czy jest tu ktoś,",
+                "kto mógłby słuchać mojego występu."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Rany!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Kto robi ten denerwujący dźwięk na moim terenie?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ja, ja!",
+                "Jesteś małym ptaszkiem!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Nie będę miała ochoty śpiewać przy takim hałasie."
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "Ty śpiewasz, ja występuję bez użycia rąk.",
+                "Jeżeli chodzi o wytrzymałość, pewnie ja jestem silniejsza, nie?"
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "Wreszcie jest cicho.",
+                "Teraz mogę śpiewać ile chcę~!"
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "Łatwo się tu zgubić."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Och,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "kolejna się zgubiła."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Hmf, w bambusowym gąszczu jest wiele rodzajów osób."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Masz rację, że się zgubiłam, ale nade mną jest niebo,",
+                "więc jestem w porządku."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Jak chcesz polecieć, to spróbuj."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Jak wlecisz w mgłę w tym gąszczu,",
+                "ciekawi mnie jakie potwory napotkasz."
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Hmm. Może jednak będzie lepiej jeśli nie ucieknę górą."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "Co tam może być?",
+                "Tengu? Czy może..."
+            ]
+        }
+    },
+    "40": {
+        "140_1": {
+            "lines": [
+                "Och,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "jest coś nawet tak wysoko nad chmurami."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "O rety.",
+                "Wygląda na to, że będzie jeszcze gorzej."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Ta dusza coś ukrywa."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Tam na dole jest tak napięto. Jeśli",
+                "co jakiś czas tu nie wrócę, to się zmęczę."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Huh, jednak nic wielkiego nie ukrywa."
+            ]
+        }
+    },
+    "20": {
+        "140_1": {
+            "lines": [
+                "Co jest?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Zgubiłaś się w takim miejscu sama.",
+                "Nie jesteś dzisiaj z siostrami?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Przecież się nie zgubiłam."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Krajobraz tam na dole jest bardziej pełen",
+                "wróżek aniżeli kwiatów... Nie, fantomów."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Do chmur idzie się prosto w górę."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "Ja przynajmniej znam drogę z powrotem do nieba."
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "Łatwo się tu zgubić."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ach, zazwyczaj jesteście razem, ale dzisiaj jesteś sama?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Zgubiłaś się, co?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Dokładnie, zgubiłaś się."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Nie, ale tak, jestem sama.",
+                "Trochę się tutaj pogubiłam."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "Sama w sobie jesteś wystarczająco hałaśliwa."
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "Łatwo się tu zgubić."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ach, idealnie."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Wiesz, czy jest tu gdzieś Eientei?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Pytasz się mnie o drogę?",
+                "Ja się zgubiłam."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Widzę, czyli muszę cię pobić,",
+                "zanim mi coś powiesz."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Aaa, no, pamiętam.",
+                "Przecież wracam z Eientei."
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "Na ziemi panuje większy chaos, niż myślałam."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Co?",
+                "Sama dzisiaj?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Nie przypominam sobie, żebyśmy zamawiały jakieś występy."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Hm?",
+                "Skoro wróciłaś ze świata żywych,"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "oznacza to, że widziałaś ten stan kwiatów."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Widziałam, i co?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Chciałabym usłyszeć jakieś ciekawe nowe dźwięki, tyle."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "No tak, jest sporo fantomów."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Męczy mnie już samodzielne szukanie dźwięków,"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "ale muszę to zrobić od czasu do czasu.",
+                "Poszukam jeszcze trochę."
+            ]
+        }
+    },
+    "100": {
+        "140_0": {
+            "lines": [
+                "Wow, jest straaasznie cicho."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Nie wiedziałam, że jest tu taki staw."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Kim jesteś?"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Och, to tylko tengu.",
+                "Ale nie przyszłam tu żeby występować."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "To potajemnie robisz sobie przerwę?",
+                "Będziesz przez to w jakiś wiadomościach?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Nie występujemy żeby trafić do",
+                "gazety jakiegoś tengu."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Występujemy?",
+                "Jesteś dzisiaj sama."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Ach, masz rację.",
+                "Występuję."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Obecnie zbieram dźwięki."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Zbierasz dźwięki?",
+                "Ale w takim cichym miejscu...?"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Masz rację.",
+                "Ale mam szczęście."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Myślę, że uda mi się usłyszeć dźwięk wiatrów tengu."
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Co za rzadki widok.",
+                "W planach występ na żywo o tutaj?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Lubię to, jak cicho tutaj jest. Gdy ktoś tak",
+                "hałaśliwy jak ty tutaj przychodzi, to..."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Że co?"
+            ]
+        }
+    },
+    "101": {
+        "50_0": {
+            "lines": [
+                "Dobra, zapamiętałam to!",
+                "Twój dźwięk też."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Co będziesz robić z tymi dźwiękami, które zbierasz?"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Nauczę się ich i zrobię nowy!"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Pośród kwitnących kwiatów wybrzmiewa lekki",
+                "dźwięk, czy go słyszysz?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Lekki dźwięk, tak. Dźwięk zewnętrznego świata."
+            ]
+        }
+    },
+    "130": {
+        "189_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "A, racja, jeszcze nie usłyszałam",
+                "dźwięków kwiatów wiśni."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Tak się przejęłam tymi dziwnymi kwiatami,",
+                "że zapomniałam o wiosennych kwiatach."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "W tej zwykle cichej Muenzuce, kwiaty co",
+                "zakwitają osobno, zakwitają razem."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Rzadko w tym miejscu widać tak",
+                "wyraźnie grupę poltergeistów."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Znowu liczba mnoga~",
+                "Wbij sobie to do głowy, jestem dzisiaj sama."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Och, więc kim jest ta dwójka za tobą?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Ah?",
+                "Nie powinnaś tego mówić~"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "I po tym, jak się tyle chowałyśmy..."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Hę?",
+                "Kiedy wam się udało za mną skryć!?"
+            ]
+        },
+        "178_1": {
+            "lines": [
+                "Obserwowałyśmy cię od początku."
+            ]
+        },
+        "178_2": {
+            "lines": [
+                "Wygląda na to, jakbyś robiła coś",
+                "interesującego, więc patrzyłyśmy z ukrycia."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Proszę bardzo, trzy głośne dusze."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Wystąpicie na żywo na tym cmentarzu, co nie?"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Co do-"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Jeśli mnie śledzicie, to powiedzcie",
+                "mi o tym od razu!"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Miałyśmy w planach się ujawnić",
+                "jeśli byłyby problemy."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Ta, tak.",
+                "Jak w tej chwili."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "W tej chwili?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Tutejsze dusze to dusze ludzi ze świata zewnętrznego.",
+                "Obecnie te kwiaty to ich baza."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Wy z natury jesteście duszami.",
+                "To, co było waszymi bazami, już nie istnieje."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Tak, wasza trójka jest nieco",
+                "zbyt niejasna wobec siebie."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Jak tak dalej będzie, to skończy się tym, że zrobicie",
+                "coś ryzykownego lub całkowicie znikniecie."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Raczej nie jestem w stanie was osądzić,",
+                "ale też was tak zostawić to trochę okrutne..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Kim ty na Boga jesteś?"
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Jestem tym, co sądzi grzechy zmarłych.",
+                "Tak, sędzia piekła."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Jeśli wasza trójka nadal chce występować,"
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "to radzę wam wysłuchać moich rad."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "O czym ty pleciesz?",
+                "Siorka, nie musisz jej słuchać."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Tak, tak.",
+                "Mówi o radach, ale brzmi jak przekręt lub religia!"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "No właśnie."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "Duszy bez bazy są bardzo niestabilne."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Niby opieracie się na swoich instrumentach,",
+                "ale to nie jest prawdą."
+            ]
+        },
+        "201_0": {
+            "lines": [
+                "Zostałyście stworzone przez człowieka.",
+                "Człowieka, którego już nie ma."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "Jeśli nie chcecie zniknąć, to musicie",
+                "sobie uświadomić, dlaczego istniejecie!"
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Kwiaty wiśni Higan i lilie pajęcze czerwone.",
+                "\u0014Higanzakura (彼岸桜) jest japońską nazwą na trzy różne gatunki wiśni rosnących w Japonii: wiśnię płaczącą, wiśnię różową (która jest hybrydą wiśni płaczącej i wiśni wczesnej) oraz wiśnię dzwonkowatą."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Lilie pajęcze czerwone wyrażają żałobę śmierci.",
+                "Wiśnie Higan grają melodię skazańców."
+            ]
+        }
+    },
+    "91": {
+        "51_0": {
+            "lines": [
+                "To brzmi naprawdę fajnie."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Że niby występ na żywo poltergeistów",
+                "na polu słoneczników..."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Jesteś tutaj mile widziana."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Chociaż, jeśli dobrze rozumiem, to dusze w tych",
+                "słonecznikach pojawiają się jedynie co 60 lat."
+            ]
+        }
+    },
+    "90": {
+        "178_0": {
+            "lines": [
+                "Hmm.",
+                "Nie do końca rozumiem..."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Spójrz, słoneczniki zwracają na ciebie uwagę."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Dusze opętujące te kwiaty myślą, że wreszcie",
+                "przyszedł ktoś, kto potrafi je zrozumieć."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Czekaj, czekaj, co u licha?!",
+                "Co jest z tymi słonecznikami?!"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Dlaczego się wszystkie na mnie patrzą~?!"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Tu też jest niesamowicie~"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Po stronie słoneczników, fantomy hałasują bardziej niż zwykle."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Myślę że uda mi się zebrać wiele miłych dźwięków~"
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Kolejna głośna dusza."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "O, ktoś inny tutaj jest?"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Tak, ja jestem."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Jesteś o wiele głośniejsza, niż te",
+                "dusze tutaj, co są ze świata zewnętrznego."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Taka jest moja praca.",
+                "Chociaż dzisiaj jestem sama i nie aż tak głośna."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Twój hałas jest hałasem Gensokyo.",
+                "Dźwięki, co przeszły do historii."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Słyszysz, co tutejsze fantomy mówią, co nie?"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Ponieważ jesteś tym samem rodzajem duszy."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Nie tylko tutejsze, ale wszystkie",
+                "kwiaty są spowodowane duszami."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Tegoroczne dusze są głośne.",
+                "Może nawet bardziej, niż ty i tobie podobne."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Tobie podobne?",
+                "Ale dzisiaj jestem sama..."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "A teraz, moje drogie słoneczniki!",
+                "Czas na występ na żywo poltergeistów!"
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "Gdy ktoś przychodzi nawet tak wysoko",
+                "nad chmury, trudno jest odpocząć."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "To całe zamieszanie sprowadziło dziwne dusze."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Jest tak mgliście, tak jakby",
+                "miał nagle pojawić się fantom."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Jeśli po prostu będę latać,",
+                "to w końcu się wydostanę."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "Nie znam żadnych przydatnych dźwięków."
+            ]
+        }
+    },
+    "102": {
+        "50_0": {
+            "lines": [
+                "Ups, nagle zostałam zaatakowana i ",
+                "odruchowo zrobiłam kontratak."
+            ]
+        }
+    },
+    "92": {
+        "50_0": {
+            "lines": [
+                "Nie wystarczy im tyle. Bo tutejsze",
+                "słoneczniki są bardzo hałaśliwe."
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "Ataki tej dwójki za tobą są nieco byle jakie.",
+                "W tym wypadku, jest możliwość."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Świat żywych jest światem wątpliwości.",
+                "Ów wątpliwość utrzyma was w całości."
+            ]
+        }
+    }
+}

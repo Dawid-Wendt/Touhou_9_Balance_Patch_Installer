@@ -1,0 +1,887 @@
+{
+    "50": {
+        "140_0": {
+            "lines": [
+                "There shouldn't be too many fairies around if I'm above the lake."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "That's where you're..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "going to freeze to death!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "It looks like I'm mistaken.",
+                "After all, fairies can play around as much as they want."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "That's because there are so many flowers blooming.",
+                "It's the festival that happens once every 60 years!"
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "There's no helping it if fairies rampage a bit.",
+                "I don't feel any fear from this incident, it's strange."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "Freeze to death! Freeze to death!"
+            ]
+        }
+    },
+    "70": {
+        "140_0": {
+            "lines": [
+                "Not quite sure where I should head.",
+                "Heard there were quite a few kidnappers around..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Forward, forward~"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Forward, soldier~♪"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "So the kidnapper was you."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "It's no fun kidnapping a bunny."
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "If I adjust the sound's wavelength a little...",
+                "See, I can't hear you anymore."
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "By the way, that song back then was the recruitment song.",
+                "A kidnapper's song~"
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "The wind feels so nice.",
+                "It feels like I can almost take the smell of flowers off myself."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah, a sound I'll never get used to is...!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Your sound's wavelength is too unique,",
+                "my head's starting to hurt."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I don't really understand, but that's rude."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "If you toy with light's wavelength, it's an optical illusion.",
+                "So if you toy with sound's wavelength, it's an auditory illusion~"
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "Boy, she was loud.",
+                "And here I thought there wouldn't be any fairies above the quiet clouds."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "An optical illusion's sound is nothing like an auditory illusion's.",
+                "Come back after you do some proper tuning!"
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "Where did she go?",
+                "Always so selfish and going wherever she wants."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "In the west a bunny, the east a tail~"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "..eh, aah!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Found you.",
+                "What're you doing hanging around here?!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Well, uh, you know...",
+                "I was chasing a bunny that got away."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "You speak lies.",
+                "You were probably watching the flowers and happily prancing about."
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Leave the flowers to me, you just head back",
+                "and sit quietly at home."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "I'm busy right now,",
+                "so see ya!"
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "First time I've been here..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Wonder who that is."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Oh, you passed away pretty quickly."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I'm not dead!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Then you came to die?"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "The flowers here seem normal...",
+                "I wonder if that means anything."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "Since you're already here, I beat you to see,",
+                "but turns out there's no deep meaning after all."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "I see, you're looking into the flowers.",
+                "I'm investigating too, so if you know anything tell me."
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "Even the bamboo forest is full of flowers."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Since you're so intently focused on the flowers,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "It's safe to assume you're searching around too."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "For what?",
+                "The incident with the flowers?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I don't have the slightest idea, you know."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "But I think I do."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "So, I'll get your information because I won."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "When flowers are blooming in the bamboo forest,",
+                "it means that flowers are blooming all over Gensokyo."
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "Bamboo flowers, huh. When did they bloom before again?",
+                "I can't quite remember..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Bamboo flowers, huh."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "First time I've seen things of nature",
+                "bloom all at once."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "That's because it's said that it happens once every 60 years."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Then I gotta live long."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "This is our soil.",
+                "As long as I have the benefit of the land, you can't win against me."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "In 60 years, I'll be worried if I see these flowers again."
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "When a bunch of flowers bloom all at once,",
+                "there's no elegance or taste or anything."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Oh, that in itself is interesting."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I can make as much tea and pastries as I want,",
+                "as long as these plants are here."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Yeah, and also as much poison."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Indeed, as much as I want."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "There aren't many toxic flowers.",
+                "I don't think it has anything to do with the incident, though."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Where else were these toxic flowers blooming?"
+            ]
+        }
+    },
+    "110": {
+        "140_0": {
+            "lines": [
+                "Oh, there's a lot of lily-of-the-valley growing around here."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "When I get back, I'll tell master about this."
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "The poison of lily-of-the-valley is the mind's poison."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Planning to make something poisonous?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Who?",
+                "Although, yes I am."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "I'm Medicine. I live here."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "So you're some crazy person who"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "lives in a field full of strong poison."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Do you know why poison works so well on the body?"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Well, you see,",
+                "the body simply follows the poison's orders."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "With a small amount, it'll move exactly as the poison wants."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "But with a large amount, the poison becomes uncontrollable",
+                "and destroys itself."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "It's not an exaggeration to say that the body is made of poison."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "I see.",
+                "My master knows a lot more about these things, though."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "\"Just being alive is a sin.\"",
+                "It's because your body is made of poison that people say that."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "That's why I've attained pure life!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Uh, so what do you mean by that?",
+                "...I'm beginning to feel worse and worse."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "I was a doll, thrown away.",
+                "This is a hill filled with poison."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "For a doll with a body without poison,",
+                "poison won't have any effect!"
+            ]
+        }
+    },
+    "111": {
+        "50_0": {
+            "lines": [
+                "I've got to get out of here quick..."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Owowow, geez!",
+                "What did you come here for?"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "I don't know, I was just searching places where",
+                "flowers grew, one after another."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "I'm not going to hand over the lily-of-the-valley here."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "After seeing so many flowers, I'm beginning",
+                "to not care so much anymore..."
+            ]
+        }
+    },
+    "112": {
+        "50_0": {
+            "lines": [
+                "You must be happy.",
+                "You can die surrounded by poison."
+            ]
+        }
+    },
+    "120": {
+        "140_0": {
+            "lines": [
+                "Even here...",
+                "There are poisonous flowers blooming."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "That doll before mentioned something like,"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "if one's body is poison, then it means poisonous flowers are the body...",
+                "or something like that."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Hey!",
+                "It's too early for you to die!"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Was there someone here?"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "I'm the first class Sanzu River guide,",
+                "Komachi of Onozuka."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "It's a real pain when a fool like yourself is taking your",
+                "own life at this here Muenzuka."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Who said I wanted to die?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I'm just going where the flowers bloom."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Muenzuka's flowers..."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "...You mean, the red spider lily is blooming?",
+                "Huh?"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Why is that?",
+                "What the heck happened to the seasons?"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "It's spring right now, for your information.",
+                "You didn't notice this strange incident at all?"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Ye-, yeah."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Well then, I'm busy so we'll leave it at that."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Wait, you look like you know something."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Hey, I got to go back to work....",
+                "If she finds the flowers I'll be scolded."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Way too fishy...",
+                "Explain yourself before going back to work."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "A living youkai's habits are so annoying!"
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "The flowers are the temporary bodies of the dead from the outside.",
+                "My job is to ferry the humans to the other side."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "In other words, you're disrupting my work!",
+                "This is why the flower incident is happening!"
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Your own little habit came out,",
+                "getting angry at the wrong person."
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "You say I'm disrupting your work,",
+                "but you're the one who came up to me."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "You're just slacking off, aren't you."
+            ]
+        },
+        "51_1": {
+            "lines": [
+                "Are you slacking off!? Komachi!"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Kyan!"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "See, your boss's here",
+                "to tell your lazy butt off."
+            ]
+        }
+    },
+    "122": {
+        "50_0": {
+            "lines": [
+                "Now then, back to work,",
+                "I'll get in trouble if I play around too much."
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Komachi did not bring in any souls after such a long time,",
+                "so I came here to check the situation..."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Fooling around with a youkai and completely ignoring her work."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "And now all these flowers have bloomed."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Sigh. When I first met Komachi,",
+                "she seemed like a more diligent person."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "...So, who are you?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "I am the one who judges sins,",
+                "the Yama of Hell."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "The Yama herself!",
+                "For you to come all the way to this world..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "A critical situation?"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "\"Critical situation\"?",
+                "It is nothing that major."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Komachi was not bringing in any new souls,",
+                "so I had some free time on my hands."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Komachi is the one in charge of bringing me souls."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "So when I saw Gensokyo full of phantoms,",
+                "I thought, \"Ah, Komachi is slacking off again.\""
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Phantoms...?",
+                "Now that you mention it, flowers weren't the only thing that were multiplying."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "I will punish Komachi afterward, so Gensokyo ought to",
+                "be back to normal soon."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "I see, well then, I'll be on my way..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Ehehehe, hold on a second.",
+                "I want to say something to you."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Aah.",
+                "Of course the Yama would..."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "What is it?",
+                "Are you saying that I will be lecturing to no end?"
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "I understand.",
+                "I'll listen to you."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "You bear a large sin."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "You abandoned your allies, leaving them to die,",
+                "while you are the only one here living happily."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Yes, you are a bit too selfish."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "As it stands, if you pass away",
+                "without adjusting for your past sins..."
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "You will most certainly fall to Hell."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "If I was in charge of judging you,",
+                "you'd be thrown into Hell."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "Hell, you say!",
+                "I'm telling you, I'm earnestly trying my best right now!"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Even if you are trying now, unless you face your past sins",
+                "there is absolutely no meaning behind it."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Time alone cannot settle a sin.",
+                "Only after a sin is judged will you be able to settle it."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "For that purpose, I am here."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "I don't want to go to Hell!",
+                "There has to be something that can be done."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Reflection alone is not enough,",
+                "much less regret."
+            ]
+        },
+        "201_0": {
+            "lines": [
+                "Committing a sin isn't such a simple matter as that.",
+                "A sin cannot be settled but with judgment."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "However, there is still a way you can prevent going to hell,",
+                "starting now."
+            ]
+        },
+        "203_0": {
+            "lines": [
+                "For that sake, we start by judging you here!",
+                "Together, with the grudge of the comrades you left on the Moon!"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "You are still ignoring your sins.",
+                "It looks like I still need to lecture you much more."
+            ]
+        }
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "Dzisiaj twoja kolej na",
+                "gotowanie i tym podobne."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Zbytnio się martwisz. Wątpię,",
+                "że zakwitanie wszystkich kwiatów naraz jest czymś złym."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "Słyszałaś?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Kwiaty wiśni za Kourindou stały się nienaturalnie białe.",
+                "No, to chyba oznaka incydentu."
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "Wracam do domu.",
+                "Nudno jest bawić się samemu."
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "Dzisiaj jesteś tylko ty?",
+                "Cóż, zgaduję, że nie potrzebna jej niańka."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "Co powiesz na to, żeby wziąć tego miłka",
+                "i dodać go do herbaty dla swojej panienki?"
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "Jeśli ten incydent dosięgnie Zaświatów,",
+                "to może i tamto drzewo wiśni zakwitnie."
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "Ostatnio moje oczy są zmęczone.",
+                "Byłabyś tak miła i sporządziła lek na oczy?"
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "O?",
+                "Twoje oczy też są czerwone."
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "Nie rozumiem, czemu jesteś zimna.",
+                "Szczerze, nie rozumiem w ogóle, czemu istniejesz."
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Co zrobisz, by pokonać te",
+                "inne wróżki?"
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "Z jakiegoś powodu gdy jesteś sama, jesteś",
+                "głośniejsza, niż gdy jesteście razem."
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "O? Jaki przyjemny dźwięk.",
+                "Z waszej trójki, jesteś najlepsza."
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "Skrzypce brzmią jak drapanie po drewnianej desce."
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "Za dnia jesteś po prostu ptakiem.",
+                "Ale nie wróblem."
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "Mojej mocy ognia nie starczy, aby usmażyć kurczaka, co?"
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "Daj mi więcej szczęście, co? Takie szczęście, że na",
+                "tych kartkach z przepowiedniami dostanę coś rzadkiego."
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "A, racja, nie było mnie ostatnio tutaj.",
+                "Chociaż na powierzchni jest o wiele bardziej pięknie."
+            ]
+        }
+    },
+    "81": {
+        "51_0": {
+            "lines": [
+                "To dopiero coś rzadkiego."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Tak w ogóle, ostatnio byłam w chramie i gdy zapytałam",
+                "o kartkę z przepowiednią, dostałam kartę zaklęć."
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "A racja, tym razem przynieś mi gazetę",
+                "z artykułami, gdzie ja występuje!"
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "Cokolwiek ktokolwiek mówi, nawet w codziennym",
+                "posiłku może być dużo trucizn."
+            ]
+        }
+    },
+    "111": {
+        "50_0": {
+            "lines": [
+                "Niedawno znalazłam coś, co wygląda jak konserwowane",
+                "jedzenie ze świata zewnętrznego."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Ponoć to się nazywa jedzeniem dla astronautów.",
+                "Przynajmniej tak mi powiedział Kourin."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Jest w tej dziwnej torebce... Ponoć smakuje",
+                "jak kosmos, ale czy nie jest trucizną?"
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "Nie stoisz za tym?",
+                "Nikt by się nie zdziwił, gdyby to była twoja sprawka."
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "Z jakiej ery są te monety?",
+                "Czy na pewno można ich używać?"
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "Nie zamierzam kłamać."
+            ]
+        }
+    },
+    "131": {
+        "50_0": {
+            "lines": [
+                "Kłamstwa są wygodne.",
+                "Tak w ogóle, nie planuję kłamać."
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "Jest za dużo kwiatów.",
+                "Mój zmysł kolorów świruje."
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "Zapach też jest silny.",
+                "Zaraz padnie mój nos."
+            ]
+        }
+    }
+}

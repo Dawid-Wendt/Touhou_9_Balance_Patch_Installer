@@ -1,0 +1,154 @@
+{
+    "8": {
+        "lines": [
+            "　　Nighttime at the Hakurei Shrine."
+        ]
+    },
+    "10": {
+        "lines": [
+            "　　The true full moon hasn't been seen for a while.",
+            "　　Now that it was back, it cast a bewitching light on Gensokyo.",
+            "　　Two people in particular were entranced by it. They were slinking about the shrine.",
+            "　　No doubt, it was because of the moon."
+        ]
+    },
+    "15": {
+        "lines": [
+            "　　While the full moon had indeed returned...",
+            "　　However, the Princess of the moon and her people went into hiding, nobody knows where."
+        ]
+    },
+    "20": {
+        "lines": [
+            "<l$Marisa:$12345678> \"All right.",
+            "<l$$12345678\"> Seems like we're here.\""
+        ]
+    },
+    "24": {
+        "lines": [
+            "<l$Alice:$12345678> \"What is it? Did you find something interesting?\""
+        ]
+    },
+    "26": {
+        "lines": [
+            "<l$Alice:$12345678> \"Although, interesting in your case usually means",
+            "<l$$12345678\"> moon rabbit sunny-side-ups or Reimu's fried and skewered meat and vegetables.\""
+        ]
+    },
+    "30": {
+        "lines": [
+            "<l$Marisa:$12345678> \"Well it won't be *that* interesting.\""
+        ]
+    },
+    "32": {
+        "lines": [
+            "<l$Marisa:$12345678> \"I noticed this recently...",
+            "<l$$12345678\"> Don't you think that this full moon is strange?\""
+        ]
+    },
+    "36": {
+        "lines": [
+            "<l$Alice:$12345678> \"Full moon?",
+            "<l$$12345678\"> There isn't even a full moon.\""
+        ]
+    },
+    "40": {
+        "lines": [
+            "<l$Marisa:$12345678> \"There isn't? Okay, we're at the shrine.",
+            "<l$$12345678\"> We're about to leave its grounds. Keep your eyes on the moon.\""
+        ]
+    },
+    "44": {
+        "lines": [
+            "<l$Alice:$12345678> \"But you're not going to trip me, will you?\""
+        ]
+    },
+    "47": {
+        "lines": [
+            "<l$Marisa:$12345678> \"Yes I will.\""
+        ]
+    },
+    "51": {
+        "lines": [
+            "<l$Alice:$12345678> \"Ah?\""
+        ]
+    },
+    "53": {
+        "lines": [
+            "<l$Marisa:$12345678> \"Aaah?!!\""
+        ]
+    },
+    "56": {
+        "lines": [
+            "<l$Alice:$12345678> \"Wait, why are you surprised?\""
+        ]
+    },
+    "59": {
+        "lines": [
+            "<l$Marisa:$12345678> \"No matter how many times I see it, it always surprises me.",
+            "<l$$12345678\"> You see that too, right?\""
+        ]
+    },
+    "63": {
+        "lines": [
+            "<l$Alice:$12345678> \"Its size seems to be different.",
+            "<l$$12345678\"> No, no. Its color changed?\""
+        ]
+    },
+    "67": {
+        "lines": [
+            "<l$Marisa:$12345678> \"Somehow it changed.",
+            "<l$$12345678\"> Before you ask, I dunno why.\""
+        ]
+    },
+    "71": {
+        "lines": [
+            "<l$Alice:$12345678> \"Do you think the shrine's border distorts it",
+            "<l$$12345678\"> and it looks normal from the outside?\""
+        ]
+    },
+    "75": {
+        "lines": [
+            "<l$Marisa:$12345678> \"Again, I dunno.\""
+        ]
+    },
+    "78": {
+        "lines": [
+            "<l$Alice:$12345678> \"Still, there needs to be an explanation.\""
+        ]
+    },
+    "81": {
+        "lines": [
+            "<l$Marisa:$12345678> \"Crap! Reimu's home.\""
+        ]
+    },
+    "83": {
+        "lines": [
+            "<l$Marisa:$12345678> \"We gotta scarper before she sees it too.\""
+        ]
+    },
+    "86": {
+        "lines": [
+            "<l$Alice:$12345678> \"Yes, let's go.\""
+        ]
+    },
+    "89": {
+        "lines": [
+            "　　There were changes in the atmosphere.",
+            "　　That must have been what changed the moon's shape or color."
+        ]
+    },
+    "92": {
+        "lines": [
+            "　　The change was obviously not an everyday sight.",
+            "　　Something must have stayed hidden before the two magicians.",
+            "　　This is why soon they started investigating again."
+        ]
+    },
+    "95": {
+        "lines": [
+            "　　Normal Ending No. 6",
+            "　　Try finishing the game again without using a continue!"
+        ]
+    }
+}

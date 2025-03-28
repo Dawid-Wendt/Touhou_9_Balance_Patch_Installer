@@ -1,0 +1,232 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Nie ruszać się, bo strzelę!"
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "Pokićkało mi się.",
+                "Strzelcie, a ja się ruszę. Od razu."
+            ]
+        },
+        "121_1": {
+            "lines": [
+                "Hm?",
+                "Co ty tutaj robisz, Marisa?"
+            ]
+        },
+        "122_h1_0": {
+            "lines": [
+                "Marisa"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "No, wiesz, to co zawsze.",
+                "Poluję na kłopotliwe youkai."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Proszę, cóż za zbieg okoliczności.",
+                "Ja też poluję na kłopotliwych youkai."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "No tego, „Poluję na kłopotliwe youkai.”. U ciebie",
+                "bardziej jest „Kłopocę się polowaniem na youkai.”, nie?"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Niekoniecznie."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Zastanawiam się, co takiego możesz robić sama",
+                "w taką noc."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Mogę polować na kłopotliwe youkai."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Nudzi mi się patrzenie na dzisiejszy księżyc.",
+                "Najwyższa pora, by nastał dzień."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Tak przy okazji,",
+                "na kogo polujesz?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Na was.",
+                "To wy zrobiłyście coś z granicą między dniem a nocą, nie?"
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Tak, my zatrzymujemy noc.",
+                "Nie mamy czasu na kłótnie!"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Owszem.",
+                "Nie masz oczu z tyłu głowy?"
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "Hm?"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "No, raczej nie ma.",
+                "Tak to już jest."
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "Mów po japońsku.",
+                "Jesteśmy w Gensokyo."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Wygląda na to, że nie uda się jej przekonać."
+            ]
+        },
+        "137_0": {
+            "lines": [
+                "Ten zniekształcony księżyc jest naprawdę niebezpieczny..."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Ludziom raczej nie zrobi krzywdy."
+            ]
+        },
+        "139_0": {
+            "lines": [
+                "Eh? Niezbyt czaję, o co chodzi, ale niekończąca ",
+                "się noc brzmi cholernie niebezpiecznie."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "W nocy, youkai jedzą ludzi."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Jeśli noc się nie skończy,",
+                "youkai będą żreć do upadłego."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Szczerze wątpię, że doszłoby do czegoś takiego."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Tak więc trzeba zatłuc je jak najprędzej."
+            ]
+        }
+    },
+    "2": {
+        "60_0": {
+            "lines": [
+                "Ach, ucieka?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Gońmy za nią. Nawet i na koniec świata."
+            ]
+        }
+    },
+    "3": {
+        "60_0": {
+            "lines": [
+                "O proszę, czy to nie Reimu?",
+                "Co tam?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Kłamstwo ma krótkie nogi, wiesz?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Tamto było dla Yukari.",
+                "To jest specjalnie dla ciebie!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Wygląda na to, że doleciałyśmy do celu,",
+                "goniąc za Marisą."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Masz szczęście.",
+                "Szkoda, że moja Ran nie jest taką szczęściarą."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "O co wam chodzi, do cholery?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Dzięki tobie wiemy, kto pociąga za sznurki.",
+                "Nie byłaś całkiem bezużyteczna."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Cóż, nie wiemy wszystkiego. W każdym razie, ",
+                "ten ktoś na pewno jest w tej rezydencji."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "No, przegrałam, więc niewiele zrobię.",
+                "Wracam do domu i rzucam się na łóżko."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Mam nadzieję, że już będzie rano, gdy wstanę."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Śpij przez całą wieczność."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "No, tylko się nie przezięb."
+            ]
+        }
+    }
+}

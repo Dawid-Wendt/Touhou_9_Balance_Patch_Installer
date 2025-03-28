@@ -1,0 +1,690 @@
+{
+    "50": {
+        "140_0": {
+            "lines": [
+                "This place hasn't changed."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah, someone came!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I haven't seen you before.",
+                "Are you going to crash here?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I don't have that kind of free time... Being",
+                "provoked into a fight is like the world of living's flower."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Oh, you wanna go?"
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Now then,",
+                "let's check out the next place."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "Pretty weak.",
+                "I couldn't get into the fight at all."
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "Are there any fools who want to commit suicide~?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Are you trying to scare people or something?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I just came to check out this place."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "You're saying that but it's obvious",
+                "you're just slacking off."
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "If I don't take a short break I won't hold up.",
+                "I'm dealing with nothing but deceased souls here."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "I'm not going to commit suicide,",
+                "so hurry up and go back to work already."
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "Oh, if it isn't the poisonous rabbit.",
+                "Don't want to kill yourself anymore?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Listen to me already!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I never said anything about killing myself, right?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "The bamboo flowers are almost falling.",
+                "Well, just patiently wait for me."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Aren't you almost done?"
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Once the flowers return to normal,",
+                "the number of suicidal ones will most likely drop."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "If you're always slacking off your job,",
+                "how are the flowers going to go back to normal?"
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "They're supposed to be almost back to normal around here...",
+                "...dang, there sure are a lot. These phantoms."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ahh,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "You're slacking off again.",
+                "If you're not working the phantoms won't decrease, right?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ah, so you're working hard instead of being suicidal?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I won't do it.",
+                "That's such a waste."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "When I see the load of work I have to do,",
+                "I get a little annoyed."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Are you sure you should be wasting time loafing around here?"
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "The Netherworld is normal, huh..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Hm?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Back then, you said that this world would turn hectic or something,",
+                "but it's still fine."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Well, I'm working hard.",
+                "I'm doing my best."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "It's fine if this world isn't so busy."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "This is bad.",
+                "I shouldn't be wasting time here."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "Why did you attack me?",
+                "Do you really have that much free time?"
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "The bamboo flowers will soon disappear.",
+                "I should check them out while I still can."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "If it isn't the Master of Slacking.",
+                "What's wrong today?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Who the heck gave me that name?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I did, me.",
+                "Just did it now."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Well, however you play is fine,",
+                "as long as you don't make yourself depressed."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "If you do start moping about, it'll blind your vision.",
+                "It'll bring forth envy and vanity."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Furthermore, you'll try to justify that",
+                "and become a narrow-minded person."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Depressed humans will, in no time at all,",
+                "become isolated."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "After starting to justify isolation and spreading gossips",
+                "behind others' backs, they become too much and get abandoned."
+            ]
+        },
+        "55_0": {
+            "lines": [
+                "Save the lecture,",
+                "it can't be okay slacking off this long."
+            ]
+        },
+        "56_0": {
+            "lines": [
+                "Whoops.",
+                "Looks like I caught Lady Shiki's lecturing habit."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "That's nice.",
+                "It looks fun being a shinigami."
+            ]
+        }
+    },
+    "90": {
+        "140_0": {
+            "lines": [
+                "Ah, the flowers and phantoms here",
+                "haven't improved at all..."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Well, it'll eventually get better."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "My pace.",
+                "My pace."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Oh,"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "still slacking off, are you."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "You're here but, the Sanzu River is pretty far away."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Hey, I just came to check this place out.",
+                "The state of the phantoms and flowers."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Checking places out won't get your job done any faster, right?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Well, I'd rather be cautious in my work."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Listen, if you don't send the souls possessing the sunflowers",
+                "back by summer, the sunflowers will also tire, you know?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "It's alright.",
+                "I'll definitely finish before summer."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "It's strange, whenever I look at you I put a certain someone else's",
+                "image on you."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "That carefree and half-hearted toward work part."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Who's the shrine maiden here!?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Ah, that's right.",
+                "It's her image that I put on you."
+            ]
+        }
+    },
+    "91": {
+        "50_0": {
+            "lines": [
+                "All the souls possessing the flowers are jolly,",
+                "so they'll soon realize they're dead."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Oh, that's how it is?",
+                "I thought the jolly ones would take longer."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Ones who don't get depressed have a wide outlook.",
+                "So that's why they're also very good at adapting."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "\"Ah, I died. Ahaha~\"",
+                "That's kind of how they take death."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "That sounds like they're messed up rather than jolly."
+            ]
+        }
+    },
+    "92": {
+        "50_0": {
+            "lines": [
+                "Even for sunflowers, blooming too much is tiring."
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "Alright then, I've checked all over Gensokyo."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Well, it'll all work out somehow."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "My pace.",
+                "My pace."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "You sure are taking it easy."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "It doesn't feel like the number of phantoms",
+                "has shrunk at all, you know~."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Oh? Trying to kill yourself again, huh.",
+                "How many times do I have to say it,"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "nobody is going to care if you commit suicide."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Think it over."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Who's going to commit suicide? Do you want me to?"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "If you're not then that's good,",
+                "just don't interfere with my work."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "You don't really look like you're working."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "I came to check up on you because the flowers haven't been",
+                "returning to normal since all that time passed since then."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "If you don't get your act together,",
+                "it'll look like I'm the one slacking off again."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "That's because you're the Master of Slacking.",
+                "That's your title."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Who's the one slacking?",
+                "Don't say something like what Marisa would say!"
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Hey, you're slacking off again!"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Whoops, I guess I relaxed too much."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Well it's fine.",
+                "This little break will increase the efficiency of my work."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "All slackers have the same excuse, huh."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "Stop playing around and ferry those phantoms back to Higan!"
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Haah."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "I worked hard today."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Since I've worked this much, the phantoms will soon grow fewer,",
+                "and the flowers will go back to normal."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Where is this hard work, hm?"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Kyan!"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "You have not crossed the river at all."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Ah, aah, uh, well.",
+                "The souls I was about to ferry were,"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "The souls were?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Souls were... that's right, shut-ins",
+                "that during their life were full of jealousy,"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "so they just disappeared before I could ferry them."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Stop with the half-hearted excuses."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Souls were being ferried to the other Yama,",
+                "yet none were coming to me at all."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I had a lot of free time, so I picked flower petals.",
+                "Coming, not coming, coming..."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Did any come?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Of course not.",
+                "That is because you are slacking off."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Listen to me,"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "we are ones who judge the sins during one's lifetime."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Ones who judge sins must always be impartial."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Yes, you make too many excuses."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "I'm sorry! I'm sorry!"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "At this rate, if I do not discipline you,",
+                "then you will not get the picture."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Leaving you alone itself",
+                "will damage my impartiality."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "I'm sorry!",
+                "I won't do it anymore. I'll seriously work, so~!"
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Would you like to experience my judging once?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "If you do, then you ought to be a little more disciplined.",
+                "You will also feel the fear of my judgment."
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "Now, get back to the work.",
+                "Isn't it a good time to do so?"
+            ]
+        }
+    }
+}
